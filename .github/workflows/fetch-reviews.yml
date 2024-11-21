@@ -1,0 +1,45 @@
+name: Fetch Google Reviews
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+
+jobs:
+  fetch-reviews:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # Step 4: Run the script to fetch reviews
+      - name: Fetch Google Reviews
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+          ACCOUNT_ID: ${{ secrets.ACCOUNT_ID }}
+          LOCATION_ID: ${{ secrets.LOCATION_ID }}
+        run: node fetch-reviews.js
+
+      # Step 5: Commit and push changes
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add reviews.json
+          git commit -m "Update Google Reviews [skip ci]" || echo "No changes to commit"
+          git push
