@@ -241,14 +241,20 @@ body {
 }
 
 .name-and-badge {
-  display: flex;
-  align-items: center;
-  gap: 5px;
+  display: inline;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.last-name-and-badge {
+  white-space: nowrap;
 }
 
 .user-name {
   font-size: 16px;
   font-weight: bold;
+  text-align: left;
 }
 
 .verified-badge {
@@ -331,6 +337,12 @@ body {
   .reviews-header {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .review-card {
+    max-width: 65%;
+    padding: 22px;
+    margin-left: 22px;
   }
   
   .header-left,
@@ -559,7 +571,8 @@ body {
       const reviewCard = document.querySelector('.review-card');
       const cardWidth =
         reviewCard.offsetWidth +
-        parseInt(window.getComputedStyle(reviewCard).marginRight, 10);
+        parseInt(window.getComputedStyle(reviewCard).marginRight, 10) + 
+        parseInt(window.getComputedStyle(reviewCard).marginLeft, 10);
       const scrollAmount = direction === 'next' ? cardWidth : -cardWidth;
 
       carousel.scrollBy({ left: scrollAmount, behavior: 'smooth' });
@@ -599,6 +612,12 @@ body {
           ? review.comment.substring(0, 125) + '...'
           : review.comment;
 
+        // Split the displayName into first names and last name
+        const displayName = review.reviewer.displayName.trim();
+        const nameParts = displayName.split(' ');
+        const lastName = nameParts.pop();
+        const firstName = nameParts.join(' ');
+
         const reviewCard = `
           <div class="review-card">
             <div class="card-header">
@@ -607,8 +626,10 @@ body {
                    class="profile-photo">
               <div class="user-info">
                 <div class="name-and-badge">
-                  <span class="user-name">${review.reviewer.displayName}</span>
-                  <span class="verified-badge">✔</span>
+                  <span class="user-name">${firstName}${firstName ? ' ' : ''}</span>
+                    <span class="last-name-and-badge">
+                    ${lastName}<span class="verified-badge"> ✔</span>
+                    </span>
                 </div>
                 <span class="review-time">${getRelativeTime(review.createTime)}</span>
               </div>
@@ -635,12 +656,18 @@ body {
     }
 
     // Event listeners for arrow buttons
-    prevBtn.addEventListener('click', () => scrollCarousel('prev'));
-    nextBtn.addEventListener('click', () => scrollCarousel('next'));
-    carousel.addEventListener('scroll', updateArrowVisibility);
+    // prevBtn.addEventListener('click', () => scrollCarousel('prev'));
+   // nextBtn.addEventListener('click', () => scrollCarousel('next'));
 
-    // Fetch and display reviews on page load
-    fetchReviews();
+
+    document.addEventListener('DOMContentLoaded', () => {
+        fetchReviews(); // Fetch and populate the carousel on page load
+
+        // Add event listeners for navigation buttons
+        prevBtn.addEventListener('click', () => scrollCarousel('prev'));
+        nextBtn.addEventListener('click', () => scrollCarousel('next'));
+        carousel.addEventListener('scroll', updateArrowVisibility);
+    });
   </script>
 </body>
 </html>
