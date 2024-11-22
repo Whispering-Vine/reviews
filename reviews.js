@@ -128,6 +128,7 @@
         display: flex;
         flex-direction: column;
         gap: 20px;
+        box-sizing: border-box;
       }
   
       .wvrv-modal-header {
