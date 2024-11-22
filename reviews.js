@@ -92,7 +92,6 @@
         text-align: center;
         background-color: #121212;
         color: #fff;
-        font-family: Arial, sans-serif;
       }
   
       /* Modal Styles */
@@ -110,6 +109,7 @@
         justify-content: center;
         align-items: center;
         z-index: 1000;
+        box-sizing: border-box;
       }
   
       .wvrv-modal.wvrv-show {
@@ -128,7 +128,6 @@
         display: flex;
         flex-direction: column;
         gap: 20px;
-        font-family: Arial, sans-serif;
       }
   
       .wvrv-modal-header {
@@ -435,7 +434,7 @@
         }
   
         .wvrv-review-card {
-          max-width: 65%;
+          max-width: 80%;
           padding: 22px;
           margin-left: 22px;
         }
