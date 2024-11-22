@@ -216,7 +216,6 @@ body {
   overflow-x: auto;
   scroll-behavior: smooth;
   width: 100%;
-  margin-left: 22px;
 }
 
 .review-card {
@@ -322,10 +321,12 @@ body {
 
 .carousel-btn.prev {
   left: 10px;
+  transform: translate(-50%, -50%);
 }
 
 .carousel-btn.next {
   right: 10px;
+  transform: translate(50%, -50%);
 }
 
 .carousel-btn.hidden {
@@ -382,6 +383,10 @@ body {
   .carousel-btn.next {
     right: 5px;
   }
+
+  .modal-content {
+    max-width: 80%;
+  }
 }
   </style>
 </head>
@@ -400,7 +405,9 @@ body {
               </div>
             </div>
             <div class="header-right">
-              <button class="review-button">Review us on Google</button>
+                <a href="https://g.page/r/CY2Hz_EFmln0EBM/review" target="_blank" class="review-button-link">
+                    <button class="review-button">Review us on Google</button>
+                </a>
             </div>
           </div>
         <div class="reviews-carousel">
