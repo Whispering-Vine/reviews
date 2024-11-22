@@ -153,6 +153,7 @@
         background: none;
         border: none;
         z-index: 1001;
+        box-sizing: border-box;
       }
   
       .wvrv-modal-review {
