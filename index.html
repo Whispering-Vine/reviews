@@ -157,6 +157,12 @@ body {
   margin: 0;
 }
 
+.google-logo {
+  height: 34px; /* Adjust the height as needed */
+  vertical-align: middle;
+  margin-right: 0px; /* Space between logo and "Reviews" */
+}
+
 .rating {
   display: flex;
   align-items: center;
@@ -190,6 +196,8 @@ body {
   padding: 10px 20px;
   border-radius: 5px;
   cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
 }
 
 .review-button:hover {
@@ -335,10 +343,11 @@ body {
 
 /* Media Query for Responsive Design */
 @media (max-width: 600px) {
-  .carousel-container {
-    margin-left: 0px;
-  }
-  
+
+    .carousel-container {
+        margin-left: 0px;
+    }
+
   .reviews-header {
     flex-direction: column;
     align-items: flex-start;
@@ -380,10 +389,13 @@ body {
     <div class="reviews-section">
         <div class="reviews-header">
             <div class="header-left">
-              <h1>Google Reviews</h1>
+              <h1>
+                <img src="https://reviews.wvwine.co/google-logo.svg" alt="Google Logo" class="google-logo">
+                Reviews
+              </h1>
               <div class="rating">
-                <span class="stars">★★★★★</span>
                 <span class="score">4.7</span>
+                <span class="stars">★★★★★</span>
                 <span class="total-reviews">(492)</span>
               </div>
             </div>
