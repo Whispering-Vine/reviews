@@ -496,6 +496,7 @@
         const closeModalButton = document.getElementById('wvrv-close-modal');
 
         let targetScroll = carousel.scrollLeft;
+        let animationFrameId;
   
         // Function to calculate relative time
         function getRelativeTime(createTime) {
@@ -608,6 +609,12 @@
         
         // Smooth scrolling function using requestAnimationFrame and an easing function
         function smoothScrollTo(element, target, duration) {
+          // Cancel any current scroll animation
+          if (animationFrameId) {
+            cancelAnimationFrame(animationFrameId);
+          }
+          
+          // Start new animation from the current scroll position
           const start = element.scrollLeft;
           const change = target - start;
           const startTime = performance.now();
@@ -621,10 +628,11 @@
             const progress = Math.min(elapsed / duration, 1);
             element.scrollLeft = start + change * easeInOutQuad(progress);
             if (progress < 1) {
-              requestAnimationFrame(animateScroll);
+              animationFrameId = requestAnimationFrame(animateScroll);
             }
           }
-          requestAnimationFrame(animateScroll);
+          
+          animationFrameId = requestAnimationFrame(animateScroll);
         }
 
   
