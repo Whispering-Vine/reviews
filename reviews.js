@@ -589,22 +589,11 @@
   
         // Function to update button visibility based on scroll position
         function updateArrowVisibility() {
-          const scrollLeft = carousel.scrollLeft;
+          const scrollVal = carousel.scrollLeft;
           const maxScrollLeft = carousel.scrollWidth - carousel.clientWidth;
-
-          targetScroll = scrollLeft;
-  
-          if (scrollLeft === 0) {
-            prevBtn.style.display = 'none';
-          } else {
-            prevBtn.style.display = 'flex';
-          }
-  
-          if (scrollLeft >= maxScrollLeft - 1) {
-            nextBtn.style.display = 'none';
-          } else {
-            nextBtn.style.display = 'flex';
-          }
+          
+          prevBtn.style.display = scrollVal <= 0 ? 'none' : 'flex';
+          nextBtn.style.display = scrollVal >= maxScrollLeft ? 'none' : 'flex';
         }
 
         
@@ -748,8 +737,14 @@
         // Event listeners for arrow buttons
         prevBtn.addEventListener('click', () => scrollCarousel('prev'));
         nextBtn.addEventListener('click', () => scrollCarousel('next'));
-        carousel.addEventListener('scroll', updateArrowVisibility);
-  
+        carousel.addEventListener('scroll', () => {
+          if (!animationRunning) { 
+            // Sync global target when the user scrolls manually 
+            targetScroll = carousel.scrollLeft;
+          }
+          updateArrowVisibility();
+        });
+          
         // Fetch and populate the carousel on page load
         fetchReviews();
       })();
