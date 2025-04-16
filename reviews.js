@@ -591,6 +591,8 @@
         function updateArrowVisibility() {
           const scrollLeft = carousel.scrollLeft;
           const maxScrollLeft = carousel.scrollWidth - carousel.clientWidth;
+
+          targetScroll = scrollLeft;
   
           if (scrollLeft === 0) {
             prevBtn.style.display = 'none';
