@@ -495,7 +495,7 @@
         const closeModalButton = document.getElementById('wvrv-close-modal');
 
         let targetScroll = carousel.scrollLeft;
-        let animationFrameId;
+        let animationRunning;
   
         // Function to calculate relative time
         function getRelativeTime(createTime) {
@@ -608,37 +608,34 @@
         }
 
         
-        // Smooth scrolling function using requestAnimationFrame and an easing function
-        function smoothScrollTo(element, target, duration) {
-          // Cancel any current scroll animation
-          if (animationFrameId) {
-            cancelAnimationFrame(animationFrameId);
+        // Start the continuously running animation if it’s not already active
+        function startAnimation() {
+          if (!animationRunning) {
+            animationRunning = true;
+            tick();
           }
-          
-          // Start new animation from the current scroll position
-          const start = element.scrollLeft;
-          const change = target - start;
-          const startTime = performance.now();
-        
-          function easeInOutQuad(t) {
-            return t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
-          }
-        
-          function animateScroll(currentTime) {
-            const elapsed = currentTime - startTime;
-            const progress = Math.min(elapsed / duration, 1);
-            element.scrollLeft = start + change * easeInOutQuad(progress);
-            if (progress < 1) {
-              animationFrameId = requestAnimationFrame(animateScroll);
-            }
-          }
-          
-          animationFrameId = requestAnimationFrame(animateScroll);
         }
 
+        // The tick function updates the carousel's scrollLeft toward targetScroll
+        function tick() {
+          const diff = targetScroll - carousel.scrollLeft;
+          if (Math.abs(diff) > 1) {
+            // Move a fraction (20% of the remaining distance) every frame
+            carousel.scrollLeft += diff * 0.2;
+            requestAnimationFrame(tick);
+          } else {
+            // When close enough, snap to the target and end the animation
+            carousel.scrollLeft = targetScroll;
+            animationRunning = false;
+          }
+        }
   
         // Scroll carousel by the exact width of one review card
         function scrollCarousel(direction) {
+          // Disable any native smooth scrolling
+          carousel.style.scrollBehavior = 'auto';
+        
+          // Determine card width based on one review card
           const reviewCard = document.querySelector('.wvrv-review-card');
           if (!reviewCard) return;
           const style = window.getComputedStyle(reviewCard);
@@ -646,7 +643,7 @@
           const marginLeft = parseInt(style.marginLeft, 10);
           const cardWidth = reviewCard.offsetWidth + marginLeft + marginRight;
         
-          // Update target scroll position based on direction
+          // Update targetScroll based on button direction
           if (direction === 'next') {
             targetScroll += cardWidth;
             const maxScrollLeft = carousel.scrollWidth - carousel.clientWidth;
@@ -656,20 +653,11 @@
             if (targetScroll < 0) targetScroll = 0;
           }
         
-          // Animate to the new target position over 300ms
-          smoothScrollTo(carousel, targetScroll, 300);
-
-          const maxScrollLeft = carousel.scrollWidth - carousel.clientWidth;
-            if (targetScroll <= 0) {
-              prevBtn.style.display = 'none';
-            } else {
-              prevBtn.style.display = 'flex';
-            }
-            if (targetScroll >= maxScrollLeft) {
-              nextBtn.style.display = 'none';
-            } else {
-              nextBtn.style.display = 'flex';
-            }
+          // Update arrow visibility immediately (see section below)
+          updateArrowVisibility();
+        
+          // Start the animation toward the new target immediately
+          startAnimation();
         }
   
         // Map star rating strings to numeric equivalents
