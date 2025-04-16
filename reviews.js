@@ -291,7 +291,6 @@
       .wvrv-carousel-container {
         display: flex;
         overflow-x: auto;
-        scroll-behavior: smooth;
         width: 100%;
       }
   
@@ -657,6 +656,18 @@
         
           // Animate to the new target position over 300ms
           smoothScrollTo(carousel, targetScroll, 300);
+
+          const maxScrollLeft = carousel.scrollWidth - carousel.clientWidth;
+            if (targetScroll <= 0) {
+              prevBtn.style.display = 'none';
+            } else {
+              prevBtn.style.display = 'flex';
+            }
+            if (targetScroll >= maxScrollLeft) {
+              nextBtn.style.display = 'none';
+            } else {
+              nextBtn.style.display = 'flex';
+            }
         }
   
         // Map star rating strings to numeric equivalents
