@@ -494,6 +494,8 @@
         const modalReplyText = document.getElementById('wvrv-modal-reply-text');
         const modal = document.getElementById('wvrv-review-modal');
         const closeModalButton = document.getElementById('wvrv-close-modal');
+
+        let targetScroll = carousel.scrollLeft;
   
         // Function to calculate relative time
         function getRelativeTime(createTime) {
@@ -602,17 +604,51 @@
             nextBtn.style.display = 'flex';
           }
         }
+
+        
+        // Smooth scrolling function using requestAnimationFrame and an easing function
+        function smoothScrollTo(element, target, duration) {
+          const start = element.scrollLeft;
+          const change = target - start;
+          const startTime = performance.now();
+        
+          function easeInOutQuad(t) {
+            return t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
+          }
+        
+          function animateScroll(currentTime) {
+            const elapsed = currentTime - startTime;
+            const progress = Math.min(elapsed / duration, 1);
+            element.scrollLeft = start + change * easeInOutQuad(progress);
+            if (progress < 1) {
+              requestAnimationFrame(animateScroll);
+            }
+          }
+          requestAnimationFrame(animateScroll);
+        }
+
   
         // Scroll carousel by the exact width of one review card
         function scrollCarousel(direction) {
           const reviewCard = document.querySelector('.wvrv-review-card');
-          const cardWidth =
-            reviewCard.offsetWidth +
-            parseInt(window.getComputedStyle(reviewCard).marginRight, 10) + 
-            parseInt(window.getComputedStyle(reviewCard).marginLeft, 10);
-          const scrollAmount = direction === 'next' ? cardWidth : -cardWidth;
-  
-          carousel.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+          if (!reviewCard) return;
+          const style = window.getComputedStyle(reviewCard);
+          const marginRight = parseInt(style.marginRight, 10);
+          const marginLeft = parseInt(style.marginLeft, 10);
+          const cardWidth = reviewCard.offsetWidth + marginLeft + marginRight;
+        
+          // Update target scroll position based on direction
+          if (direction === 'next') {
+            targetScroll += cardWidth;
+            const maxScrollLeft = carousel.scrollWidth - carousel.clientWidth;
+            if (targetScroll > maxScrollLeft) targetScroll = maxScrollLeft;
+          } else if (direction === 'prev') {
+            targetScroll -= cardWidth;
+            if (targetScroll < 0) targetScroll = 0;
+          }
+        
+          // Animate to the new target position over 300ms
+          smoothScrollTo(carousel, targetScroll, 300);
         }
   
         // Map star rating strings to numeric equivalents
