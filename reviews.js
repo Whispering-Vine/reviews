@@ -252,7 +252,7 @@
   
       .wvrv-stars {
         font-size: 18px;
-        color: gold;
+        color: var(--orange, gold);
       }
   
       .wvrv-score {
@@ -362,7 +362,7 @@
   
       .wvrv-stars {
         font-size: 16px;
-        color: gold;
+        color: var(--orange, gold);
       }
   
       .wvrv-review-text {
@@ -596,6 +596,7 @@
           nextBtn.style.display = scrollVal >= maxScrollLeft ? 'none' : 'flex';
         }
 
+        let animationFrameId;
         
         // Start the continuously running animation if it’s not already active
         function startAnimation() {
@@ -611,7 +612,7 @@
           if (Math.abs(diff) > 1) {
             // Move a fraction (20% of the remaining distance) every frame
             carousel.scrollLeft += diff * 0.2;
-            requestAnimationFrame(tick);
+            animationFrameId = requestAnimationFrame(tick);
           } else {
             // When close enough, snap to the target and end the animation
             carousel.scrollLeft = targetScroll;
@@ -737,11 +738,16 @@
         // Event listeners for arrow buttons
         prevBtn.addEventListener('click', () => scrollCarousel('prev'));
         nextBtn.addEventListener('click', () => scrollCarousel('next'));
+        // Cancel the JS animation loop as soon as the user touches/drags
+        carousel.addEventListener('pointerdown', () => {
+          animationRunning = false;
+          if (animationFrameId) cancelAnimationFrame(animationFrameId);
+          targetScroll = carousel.scrollLeft;
+        });
+        
+        // Keep targetScroll in sync when native scrolling happens
         carousel.addEventListener('scroll', () => {
-          if (!animationRunning) { 
-            // Sync global target when the user scrolls manually 
-            targetScroll = carousel.scrollLeft;
-          }
+          targetScroll = carousel.scrollLeft;
           updateArrowVisibility();
         });
           
