@@ -92,7 +92,7 @@
       .wvrv-reviews-section {
         padding: 20px;
         text-align: center;
-        background-color: #121212;
+        background-color: var(--black, #121212);
         color: #fff;
       }
   
@@ -228,7 +228,7 @@
         align-items: center;
         padding: 20px;
         margin-bottom: 20px;
-        background-color: #121212;
+        background-color: var(--black, #121212);
         color: #fff;
         border-bottom: 1px solid #333;
       }
@@ -300,7 +300,7 @@
   
       .wvrv-review-card {
         flex: 0 0 300px;
-        background-color: #222;
+        background-color: var(--grey, #222);
         padding: 20px;
         border-radius: 10px;
         margin: 0 10px;
@@ -386,11 +386,11 @@
       }
       .wvrv-fade-left {
         left: 0;
-        background: linear-gradient(to right, #121212, transparent);
+        background: linear-gradient(to right, var(--grey, #121212), transparent);
       }
       .wvrv-fade-right {
         right: 0;
-        background: linear-gradient(to left, #121212, transparent);
+        background: linear-gradient(to left, var(--grey, #121212), transparent);
       }
   
       .wvrv-carousel-btn {
