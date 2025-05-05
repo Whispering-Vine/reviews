@@ -747,7 +747,10 @@
         
         // Keep targetScroll in sync when native scrolling happens
         carousel.addEventListener('scroll', () => {
-          targetScroll = carousel.scrollLeft;
+          if (!animationRunning) {
+            // only reset after manual drags/swipes
+            targetScroll = carousel.scrollLeft;
+          }
           updateArrowVisibility();
         });
           
