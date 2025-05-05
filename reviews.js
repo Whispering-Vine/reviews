@@ -33,6 +33,7 @@
           <!-- Reviews Carousel -->
           <div class="wvrv-reviews-carousel">
             <button class="wvrv-carousel-btn wvrv-prev">‹</button>
+            <div class="wvrv-fade wvrv-fade-left"></div>
             <div class="wvrv-carousel-container">
               <!-- Placeholder cards -->
               <div class="wvrv-review-card">
@@ -50,6 +51,7 @@
               </div>
               <!-- You can add more placeholder cards if needed -->
             </div>
+            <div class="wvrv-fade wvrv-fade-right"></div>
             <button class="wvrv-carousel-btn wvrv-next">›</button>
           </div>
         </div>
@@ -123,6 +125,8 @@
         color: #fff;
         border-radius: 10px;
         max-width: 500px;
+        max-height: 80%;
+        overflow-y: auto;
         padding: 20px;
         text-align: left;
         display: flex;
@@ -371,6 +375,23 @@
         color: #ddd;
         text-align: left;
       }
+        
+      .wvrv-fade {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 60px;            /* adjust to taste */
+        pointer-events: none;
+        z-index: 1;             /* sits above cards but below arrows */
+      }
+      .wvrv-fade-left {
+        left: 0;
+        background: linear-gradient(to right, #121212, transparent);
+      }
+      .wvrv-fade-right {
+        right: 0;
+        background: linear-gradient(to left, #121212, transparent);
+      }
   
       .wvrv-carousel-btn {
         position: absolute;
@@ -482,6 +503,8 @@
         // Variables and functions
         const prevBtn = document.querySelector('.wvrv-prev');
         const nextBtn = document.querySelector('.wvrv-next');
+        const fadeLeft  = document.querySelector('.wvrv-fade-left');
+        const fadeRight = document.querySelector('.wvrv-fade-right');
         const carousel = document.querySelector('.wvrv-carousel-container');
   
         const modalPhoto = document.getElementById('wvrv-modal-photo');
@@ -496,6 +519,7 @@
 
         let targetScroll = carousel.scrollLeft;
         let animationRunning;
+        let animationFrameId;
   
         // Function to calculate relative time
         function getRelativeTime(createTime) {
@@ -594,9 +618,10 @@
           
           prevBtn.style.display = scrollVal <= 0 ? 'none' : 'flex';
           nextBtn.style.display = scrollVal >= maxScrollLeft ? 'none' : 'flex';
-        }
 
-        let animationFrameId;
+          fadeLeft.style.display = scrollVal <= 0 ? 'none' : 'block';
+          fadeRight.style.display = scrollVal >= maxScrollLeft ? 'none' : 'block';
+        }
         
         // Start the continuously running animation if it’s not already active
         function startAnimation() {
@@ -734,16 +759,22 @@
   
           updateArrowVisibility(); // Ensure buttons are updated after new cards are added
         }
+
+        function cancelEasing() {
+          if (animationRunning) {
+            cancelAnimationFrame(animationFrameId);
+            animationRunning = false;
+          }
+          targetScroll = carousel.scrollLeft;
+        }
   
         // Event listeners for arrow buttons
         prevBtn.addEventListener('click', () => scrollCarousel('prev'));
         nextBtn.addEventListener('click', () => scrollCarousel('next'));
         // Cancel the JS animation loop as soon as the user touches/drags
-        carousel.addEventListener('pointerdown', () => {
-          animationRunning = false;
-          if (animationFrameId) cancelAnimationFrame(animationFrameId);
-          targetScroll = carousel.scrollLeft;
-        });
+        carousel.addEventListener('pointerdown', cancelEasing);
+        carousel.addEventListener('touchstart',  cancelEasing, { passive: true });
+        carousel.addEventListener('wheel',       cancelEasing, { passive: true });
         
         // Keep targetScroll in sync when native scrolling happens
         carousel.addEventListener('scroll', () => {
