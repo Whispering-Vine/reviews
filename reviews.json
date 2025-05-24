@@ -1,5 +1,21 @@
 [
   {
+    "reviewId": "AbFvOqmB0fnBVseYq2PRZYpwVLiDBsUUYB31Z--5mb_dYbvgSPp4s2ibe51NYMLxghN63l1sBvWTkg",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLqd6X-UlCwfdnJli9mQ3LZ-hYwYE1F7AGRJrd0gNhdub8enA=s120-c-rp-mo-ba4-br100",
+      "displayName": "Shawn Sabloff"
+    },
+    "starRating": "FIVE",
+    "comment": "Great place to meet friends for a drink and have a some light fare before heading out. Plus why not grab a hard to find treat on the way out?",
+    "createTime": "2025-05-24T12:11:54.361452Z",
+    "updateTime": "2025-05-24T12:11:54.361452Z",
+    "reviewReply": {
+      "comment": "Thanks for the 5-star review, Shawn! We're glad you enjoy Whispering Vine as a gathering spot to meet friends and enjoy a drink with some light fare. We hope to see you again soon for another delightful experience!",
+      "updateTime": "2025-05-24T17:58:20.090047Z"
+    },
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmB0fnBVseYq2PRZYpwVLiDBsUUYB31Z--5mb_dYbvgSPp4s2ibe51NYMLxghN63l1sBvWTkg"
+  },
+  {
     "reviewId": "AbFvOqm7SienSEJQ0s0vzh8V7BS3IbT9V6WmV-bq1YGJeiKjGL0OyKXo_l4afyHN2I0JnBvwowp9xw",
     "reviewer": {
       "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUvlWQ44vN9d8UiG3tUwKR-3fhtYKaw5zBb3QuxWSif0ZgF0FtoIw=s120-c-rp-mo-ba4-br100",
@@ -398,22 +414,6 @@
       "updateTime": "2024-01-11T22:04:31.790589Z"
     },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnplbMpdlfymWuTbyiGtOfwNK8TNyS-t-0arI-9MOMk1lTpVPWWTmf1X_oGZehP_24ryaoK"
-  },
-  {
-    "reviewId": "AbFvOqlZpsEljTze6YbIuqpinLn8dEu6zhDjRWp8a0eble_9n6PewLDpBp7h887cQiYKz6f_HG5V",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIFyfXAXxLsD_dy4n0742t8KCrR4nhklAwIOlqiEskGoeRkww=s120-c-rp-mo-ba3-br100",
-      "displayName": "Teri Littler-frazier"
-    },
-    "starRating": "FIVE",
-    "comment": "This place is always great. Obviously one of the largest selections of wine + the food is great.",
-    "createTime": "2023-12-17T17:47:16.107064Z",
-    "updateTime": "2023-12-17T17:47:16.107064Z",
-    "reviewReply": {
-      "comment": "Teri, Thank you for taking the time to rate and review us.",
-      "updateTime": "2023-12-23T19:41:46.227314Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlZpsEljTze6YbIuqpinLn8dEu6zhDjRWp8a0eble_9n6PewLDpBp7h887cQiYKz6f_HG5V"
   },
   {
     "reviewId": "AbFvOqmgDGUwJQTgQndtgr3fEPoGMg_tpSwyEAMQrmqQU_tDfJLvK4VC2CIFjBjIe5e2-ESPCofr5Q",
