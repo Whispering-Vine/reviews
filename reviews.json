@@ -1,5 +1,17 @@
 [
   {
+    "reviewId": "AbFvOqkj2PAIwWYvGZwcZg2LvzfnMzhJT_EbvH2sX_6AtU--QT8a42ltryVGcmHHLGAFStXonzAluA",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV5WYJ_LXmZQLZcmf_Q6CCALF6zbEh6yhrMcHUs57JKIuScEVee8w=s120-c-rp-mo-br100",
+      "displayName": "Chad Moore"
+    },
+    "starRating": "FIVE",
+    "comment": "Fancy, cool ambiance, but a bit pricey for the portions",
+    "createTime": "2025-05-30T03:02:32.866325Z",
+    "updateTime": "2025-05-30T03:02:32.866325Z",
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkj2PAIwWYvGZwcZg2LvzfnMzhJT_EbvH2sX_6AtU--QT8a42ltryVGcmHHLGAFStXonzAluA"
+  },
+  {
     "reviewId": "AbFvOqmB0fnBVseYq2PRZYpwVLiDBsUUYB31Z--5mb_dYbvgSPp4s2ibe51NYMLxghN63l1sBvWTkg",
     "reviewer": {
       "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLqd6X-UlCwfdnJli9mQ3LZ-hYwYE1F7AGRJrd0gNhdub8enA=s120-c-rp-mo-ba4-br100",
@@ -398,22 +410,6 @@
       "updateTime": "2024-01-11T22:03:46.177971Z"
     },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmOSC1lp3-SuVa7JbD3GvGi4JQjRdXfeFW_ezTVj9IsZSrM63Z4bq1L9W7--CYOYMHaH5nxXw"
-  },
-  {
-    "reviewId": "AbFvOqnplbMpdlfymWuTbyiGtOfwNK8TNyS-t-0arI-9MOMk1lTpVPWWTmf1X_oGZehP_24ryaoK",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVgDZD4v3IlKp7wVJ0eje2DEzWURf_LukAjCrjvc505mfvhQLsM=s120-c-rp-mo-ba4-br100",
-      "displayName": "Colleen Daugherty"
-    },
-    "starRating": "FIVE",
-    "comment": "Great place to celebrate life, your love of wine,  and delicious food. Atmosphere is woody, cozy, busy, buzzing, and romantic. Sit at small  intimate tables tucked in the wine storage racks. Affordable tasting flights are available at the bar pair well with a mountain sunset view. The restaurant is deceptively big and quite popular. Great foodie options to try, including duck confit tacos, Thai mussels, meatballs, citrus goat cheese salad, charcuterie, small bites, entrees and desserts. Servers are very knowledgeable about wine for pairing, and bottles are for sale. Easy place to drop several hundred dollars on wine and food at dinner an evening out with friends, but also possible to order affordable items on a date and have a great time.",
-    "createTime": "2023-12-23T23:04:33.230777Z",
-    "updateTime": "2023-12-23T23:04:33.230777Z",
-    "reviewReply": {
-      "comment": "Colleen, what a great review! Thank you for taking the time to leave us a great rating!",
-      "updateTime": "2024-01-11T22:04:31.790589Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnplbMpdlfymWuTbyiGtOfwNK8TNyS-t-0arI-9MOMk1lTpVPWWTmf1X_oGZehP_24ryaoK"
   },
   {
     "reviewId": "AbFvOqmgDGUwJQTgQndtgr3fEPoGMg_tpSwyEAMQrmqQU_tDfJLvK4VC2CIFjBjIe5e2-ESPCofr5Q",
