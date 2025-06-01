@@ -1,5 +1,21 @@
 [
   {
+    "reviewId": "AbFvOqmbOwg4fSthuOzB-UDojk2-7bJaZpZyx-WVWH6pE_5ASMMaGgAchotgRgmsmhKDYM-UDd6LuQ",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWVk5SMRWoefzZI2dHf1UGcAwhX5SuhfSFSAz4E8DVRtKt1Fvx0=s120-c-rp-mo-br100",
+      "displayName": "Harry B. Miller III"
+    },
+    "starRating": "FOUR",
+    "comment": "Love this place. Excellent atmosphere, service. Food is good, but I wish they’d update/ refresh the food menu. Maybe add some specials. Will definitely return with my family.",
+    "createTime": "2025-05-31T03:18:13.946555Z",
+    "updateTime": "2025-05-31T03:18:13.946555Z",
+    "reviewReply": {
+      "comment": "Harry, thank you for the kind words and for being a fan of the atmosphere and service! We really appreciate your feedback on the menu. In fact, we just recently added a few new dishes, including a Spring Panzanella Salad and a Shrimp Scampi Flatbread—if you haven’t had a chance to try them yet, we’d love for you to come back and give them a shot. Thanks again for the support, and we look forward to welcoming you and your family back soon!",
+      "updateTime": "2025-05-31T20:06:05.038444Z"
+    },
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmbOwg4fSthuOzB-UDojk2-7bJaZpZyx-WVWH6pE_5ASMMaGgAchotgRgmsmhKDYM-UDd6LuQ"
+  },
+  {
     "reviewId": "AbFvOqkj2PAIwWYvGZwcZg2LvzfnMzhJT_EbvH2sX_6AtU--QT8a42ltryVGcmHHLGAFStXonzAluA",
     "reviewer": {
       "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV5WYJ_LXmZQLZcmf_Q6CCALF6zbEh6yhrMcHUs57JKIuScEVee8w=s120-c-rp-mo-br100",
@@ -9,6 +25,10 @@
     "comment": "Fancy, cool ambiance, but a bit pricey for the portions",
     "createTime": "2025-05-30T03:02:32.866325Z",
     "updateTime": "2025-05-30T03:02:32.866325Z",
+    "reviewReply": {
+      "comment": "Chad, thank you for the 5-star review. We’re glad you enjoyed the ambiance and appreciate your feedback on the portions and pricing. We’re always working to make sure the experience matches the value. Hope to welcome you back again soon!",
+      "updateTime": "2025-05-31T20:48:08.529962Z"
+    },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkj2PAIwWYvGZwcZg2LvzfnMzhJT_EbvH2sX_6AtU--QT8a42ltryVGcmHHLGAFStXonzAluA"
   },
   {
@@ -394,22 +414,6 @@
       "updateTime": "2024-01-11T21:58:48.905433Z"
     },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqm2CCj-9bNicaiHB-Dlm9nB8HmpxtTe8L-VqogCyinWTuVYyj-8196kpK7qrZYJ04A7rAhj"
-  },
-  {
-    "reviewId": "AbFvOqmOSC1lp3-SuVa7JbD3GvGi4JQjRdXfeFW_ezTVj9IsZSrM63Z4bq1L9W7--CYOYMHaH5nxXw",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXX7AKDXlqxZra_kGxyJI8JMC_xRBbeZMbWNQ11KK3sFRGtzJJg=s120-c-rp-mo-ba3-br100",
-      "displayName": "Patricia Wilson"
-    },
-    "starRating": "FIVE",
-    "comment": "A Great local place & also to take out of town company",
-    "createTime": "2023-12-27T18:12:42.511310Z",
-    "updateTime": "2023-12-27T18:12:42.511310Z",
-    "reviewReply": {
-      "comment": "Patricia, Thank you for taking the time to rate and review us!",
-      "updateTime": "2024-01-11T22:03:46.177971Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmOSC1lp3-SuVa7JbD3GvGi4JQjRdXfeFW_ezTVj9IsZSrM63Z4bq1L9W7--CYOYMHaH5nxXw"
   },
   {
     "reviewId": "AbFvOqmgDGUwJQTgQndtgr3fEPoGMg_tpSwyEAMQrmqQU_tDfJLvK4VC2CIFjBjIe5e2-ESPCofr5Q",
