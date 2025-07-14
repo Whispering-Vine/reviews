@@ -1,5 +1,17 @@
 [
   {
+    "reviewId": "AbFvOqkm3saYlpeuMHFp4CBt-4a9TvJ-F9Zg7mGHh6LzecqEzR4gG0snhGgvfP5g0fdU5Hvcss9Wcg",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJGjLtav2eO-as0I0LX7CYJ4slFfQJOwrfTEdHBzInBtwyRag=s120-c-rp-mo-ba3-br100",
+      "displayName": "Abraham DeLeon"
+    },
+    "starRating": "FIVE",
+    "comment": "By far my favorite place to eat and have a glass of wine.\n\nPlus if you love wine they have the best prices on the bottle and you can enjoy it with your meal. They beat the price at the store and even the vineyard on most of the wine.",
+    "createTime": "2025-07-13T18:58:48.647182Z",
+    "updateTime": "2025-07-13T18:58:48.647182Z",
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkm3saYlpeuMHFp4CBt-4a9TvJ-F9Zg7mGHh6LzecqEzR4gG0snhGgvfP5g0fdU5Hvcss9Wcg"
+  },
+  {
     "reviewId": "AbFvOqmaYnLksklCrX4FeHV1tOgfWoEwkxGXdHe_DD5EV1Dzy1yUcg1eSsVh5JWrEiV5fDu3C3rnDA",
     "reviewer": {
       "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXlb9YLOZzRt6wVlDfGRQ6XTlcjpLgYjfjQKrgqEomnE_IOAxMS=s120-c-rp-mo-br100",
@@ -474,22 +486,6 @@
       "updateTime": "2024-03-27T18:32:40.203182Z"
     },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnGR7lIzNEP4u_IZQIZDkRwXwRUjcA2FDoLCgV2GqSfmkRbO78RiE78O7jkRusgNjTnhL2E"
-  },
-  {
-    "reviewId": "AbFvOqmA9H-A6wAgflqBw_1pIt4J3F1nW_x9ZSjpNldc9CsfSznGISdnOSFsjKaUHWbVBWIAZuZYsA",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX2EY8tOxaluxN-caAw_PKt8Rbw8gfjzeJCKpTfoDZ6rsBGBPI2=s120-c-rp-mo-ba3-br100",
-      "displayName": "NY LZ"
-    },
-    "starRating": "FIVE",
-    "comment": "Great food and service! The atmosphere is nice as well!",
-    "createTime": "2024-03-26T05:19:50.938382Z",
-    "updateTime": "2024-03-26T05:19:50.938382Z",
-    "reviewReply": {
-      "comment": "NY LZ, Thank you for taking the time to rate and review us!",
-      "updateTime": "2024-03-26T16:05:19.323022Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmA9H-A6wAgflqBw_1pIt4J3F1nW_x9ZSjpNldc9CsfSznGISdnOSFsjKaUHWbVBWIAZuZYsA"
   },
   {
     "reviewId": "AbFvOqk4EkFkRtysOhu9f7yFl9reWQSOrF_z8VqPBeTYWK_39mq_CjYF__ea7ACYN__OkpYlSfmj",
