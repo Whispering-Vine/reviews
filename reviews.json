@@ -64,22 +64,6 @@
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnRHz_5P1FVF_HsB_zwdgiWShRbfWELaMMkoBXMOSH-nL96ptxdCKP88-CNgJDKkuWTeEMdKQ"
   },
   {
-    "reviewId": "AbFvOqlD9e9r_dwYJNrCcGExrOjJvVQUHDEHkJeMOGMciMcZ_l0yTlOlTVjesst6EqoZOF-ULjK5HA",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK29bd_g9kktQoXnHF9rA8YwEegHcV3n_Uz_5K0UaV1mNKJCSA=s120-c-rp-mo-ba2-br100",
-      "displayName": "Suzanne Greenwood"
-    },
-    "starRating": "FIVE",
-    "comment": "The veggie burger is really good along with the tater tots. Yum!\nAlso great service and knowledgeable staff about many different wines. 😊👍",
-    "createTime": "2025-06-28T14:33:46.743204Z",
-    "updateTime": "2025-06-28T14:33:46.743204Z",
-    "reviewReply": {
-      "comment": "Thank you, Suzanne! We’re happy to hear you loved the veggie burger and tots, and that our team made a great impression. We appreciate the kind words and can’t wait to have you back for more good food and wine!",
-      "updateTime": "2025-06-29T03:15:40.951414Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlD9e9r_dwYJNrCcGExrOjJvVQUHDEHkJeMOGMciMcZ_l0yTlOlTVjesst6EqoZOF-ULjK5HA"
-  },
-  {
     "reviewId": "AbFvOqkyTrBzJeka5I8nbIdovO8Qp8Q_0WzbaBdlWUXKZ9RJ5C1Wxh2xdxBVRfZ0PaLj_FFkPs-PAg",
     "reviewer": {
       "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX0jNEaamylLJ_A07Mar5m9NHyw1pKa8pTZ-z6dPSgM0xbIqX988Q=s120-c-rp-mo-ba5-br100",
@@ -462,6 +446,38 @@
       "updateTime": "2024-05-11T05:30:35.447882Z"
     },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqklO_aSe1f9JdFd6JY3TkR1LKEsLraKZP_WXyUe_UOus46_lwoyH_Pj1TFZsOIlboAPFwPX4Q"
+  },
+  {
+    "reviewId": "AbFvOqnPRmX7JvaJO0Iaq0XayVI6RDabJRvFduDV_ar3ZAx2G8mlDh_P9jr13Tf-LkjHKTQo9s56iw",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocI9Wxp2ucEML9duCKLxwU6RkozSwEsgU1Nk8pgzHIkKZsXw7Q=s120-c-rp-mo-ba3-br100",
+      "displayName": "Peggy Dupey"
+    },
+    "starRating": "FIVE",
+    "comment": "Always a great experience! Leslie, was particularly welcoming and provided terrific service to my friends and me. Thank you for a lovely evening.",
+    "createTime": "2024-04-09T18:31:35.291058Z",
+    "updateTime": "2024-04-09T18:31:35.291058Z",
+    "reviewReply": {
+      "comment": "Thank you, Peggy, for your glowing review! We're thrilled to hear that you had a fantastic experience at Whispering Vine. It's wonderful to know that Leslie made your evening memorable with her warm hospitality and excellent service. We look forward to welcoming you and your friends back soon for another delightful evening.",
+      "updateTime": "2024-04-09T19:12:20.904372Z"
+    },
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnPRmX7JvaJO0Iaq0XayVI6RDabJRvFduDV_ar3ZAx2G8mlDh_P9jr13Tf-LkjHKTQo9s56iw"
+  },
+  {
+    "reviewId": "AbFvOqnmc05bLM4-rC1dT7uCpdutlb2Zhaqe3Lf2kZ1ARF72NA47XXcpKGxYjmk3XtWrbTGDJXrX0A",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIX-ErikxttUyMhXRJz3_OVNy_t07RHKemQAFyeSjjwT8Hqqg=s120-c-rp-mo-br100",
+      "displayName": "Kaylee Desroches"
+    },
+    "starRating": "FIVE",
+    "comment": "I really like the grilled cheese it was great!!",
+    "createTime": "2024-03-28T07:22:34.308126Z",
+    "updateTime": "2024-03-28T07:22:34.308126Z",
+    "reviewReply": {
+      "comment": "Thank you, Kaylee, for your kind words! We're thrilled to hear that you enjoyed our grilled cheese. We can't wait to welcome you back for another delicious experience at Whispering Vine.",
+      "updateTime": "2024-03-28T08:06:29.860467Z"
+    },
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnmc05bLM4-rC1dT7uCpdutlb2Zhaqe3Lf2kZ1ARF72NA47XXcpKGxYjmk3XtWrbTGDJXrX0A"
   },
   {
     "reviewId": "AbFvOqk4EkFkRtysOhu9f7yFl9reWQSOrF_z8VqPBeTYWK_39mq_CjYF__ea7ACYN__OkpYlSfmj",
