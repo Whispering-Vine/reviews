@@ -1,5 +1,17 @@
 [
   {
+    "reviewId": "AbFvOqksKT9WIzabaEfFAE03rfcJpVJ3p9QO3ZTrtra35jIvJ23w4o2WjZdRCSdoSwtSM3YBffxg",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXzVWsb4oLFt2qG05at302hAOaaxd34SxzIXE1SCEgNnQxnp2Y5=s120-c-rp-mo-br100",
+      "displayName": "Phil Barackman"
+    },
+    "starRating": "FIVE",
+    "comment": "Great food, wine, and service.",
+    "createTime": "2025-11-15T19:25:26.184933Z",
+    "updateTime": "2025-11-15T19:25:26.184933Z",
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqksKT9WIzabaEfFAE03rfcJpVJ3p9QO3ZTrtra35jIvJ23w4o2WjZdRCSdoSwtSM3YBffxg"
+  },
+  {
     "reviewId": "AbFvOql0NRia6QxGDWjeJSOqmKOl2fiQweZYFneosFggOj7a_zTt_uwW4iqqYnAaelGkrop9y-zp",
     "reviewer": {
       "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWWy7ivEwGxaFiqOotOwMVr7Me8Wd0I0rPnYGL56rGIplAjh3Eb=s120-c-rp-mo-br100",
@@ -490,22 +502,6 @@
       "updateTime": "2024-06-26T15:20:01.145560Z"
     },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkMO_Cw3BmGP96dw-S1xQpY4PzddUPhbA28b9BmLYfJxYu2LTm_IOcEAC1bmT4cETIYuoJ5_w"
-  },
-  {
-    "reviewId": "AbFvOqmE3kwnyM9kGj84-mHSegJBOMKQ4Qb6f-df_w939b5iJ0Im0Po44G3hqFNAI__Jr6RNB4_I6w",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKYoXmUWFnVZPDmb47igQdl2HmFOXK83lAkULdBccwX86mWkXM=s120-c-rp-mo-br100",
-      "displayName": "Dustin Ring"
-    },
-    "starRating": "FIVE",
-    "comment": "Great atmosphere. Love that the reservations allow you to choose dining, window or patio. We thought it was just a wine bar for the last few years… we were mistaken. The food is really good. Highly recommend the burger. Perfect service. Friendly. Easy parking. Fast. There is a reason they are so highly rated, they truly know what they are doing.",
-    "createTime": "2024-06-20T05:09:35.720844Z",
-    "updateTime": "2024-06-20T05:09:35.720844Z",
-    "reviewReply": {
-      "comment": "Thank you, Dustin, for your wonderful review! We're thrilled to hear that you enjoyed our atmosphere, menu, and service. We're glad you discovered that we offer more than just wine and that you loved the burger. We appreciate your recommendation and look forward to welcoming you back soon!",
-      "updateTime": "2024-06-20T17:24:05.538484Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmE3kwnyM9kGj84-mHSegJBOMKQ4Qb6f-df_w939b5iJ0Im0Po44G3hqFNAI__Jr6RNB4_I6w"
   },
   {
     "reviewId": "AbFvOqk4EkFkRtysOhu9f7yFl9reWQSOrF_z8VqPBeTYWK_39mq_CjYF__ea7ACYN__OkpYlSfmj",
