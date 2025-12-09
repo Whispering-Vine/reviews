@@ -1,5 +1,17 @@
 [
   {
+    "reviewId": "AbFvOqmN0Ay5K8lo24oQK6XVYxKP3L4RHxtoM3Vi-fjgF_AQtbzNBsEjhb7wEvbSkJchuVee1zNKRQ",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKYqEG1l_732pm9TE_u_kkNMbJwV57IcPUYmNbISywR59Ujsw=s120-c-rp-mo-ba3-br100",
+      "displayName": "Penny Condit"
+    },
+    "starRating": "FIVE",
+    "comment": "Such a great time always.  It’s wonderful",
+    "createTime": "2025-12-08T20:06:22.879522Z",
+    "updateTime": "2025-12-08T20:06:22.879522Z",
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmN0Ay5K8lo24oQK6XVYxKP3L4RHxtoM3Vi-fjgF_AQtbzNBsEjhb7wEvbSkJchuVee1zNKRQ"
+  },
+  {
     "reviewId": "AbFvOqkvOBOrTVOV6OT5_ahJPOK8Q1qnWAwYIyfAahJtbv1bwJ9vL7WSQ_HzxzOTG0l36-Jr6zLc1A",
     "reviewer": {
       "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUvn4zQn_cuq6w7SGJYdwQq0_q62PrLRpRz6MHZ2KxVeGBI_wg=s120-c-rp-mo-br100",
@@ -502,22 +514,6 @@
       "updateTime": "2024-07-18T16:40:38.201200Z"
     },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnVGhmWv-SOyFZdS3wCzgoNA7NFv-rHVgvYOP0f50kxBpOaP9i9YbtHo92XQf_-E_0UVCEnzw"
-  },
-  {
-    "reviewId": "AbFvOqmHyygbaxhOL7IaxOXrq3HhFa9NCQEF9VKXbTpkKNSvSFor4gAbh80K09lok4wp21KGEEWMwg",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKuTldciV0kYqK0yLA6LzW6fHID6rIdnkHY12H9A8bj7vYSfg=s120-c-rp-mo-br100",
-      "displayName": "Rick Foley"
-    },
-    "starRating": "FIVE",
-    "comment": "Took our Sister and Brother in law, it was their first time, they loved everything about it, probably our 100th time😃 it is our go to place.",
-    "createTime": "2024-07-07T20:07:38.340058Z",
-    "updateTime": "2024-07-07T20:07:38.340058Z",
-    "reviewReply": {
-      "comment": "Thank you so much, Rick! We're thrilled to hear that you and your family had another wonderful experience at Whispering Vine. We appreciate your loyalty and look forward to welcoming you back for your 101st visit!",
-      "updateTime": "2024-07-07T21:24:23.434413Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmHyygbaxhOL7IaxOXrq3HhFa9NCQEF9VKXbTpkKNSvSFor4gAbh80K09lok4wp21KGEEWMwg"
   },
   {
     "reviewId": "AbFvOqk4EkFkRtysOhu9f7yFl9reWQSOrF_z8VqPBeTYWK_39mq_CjYF__ea7ACYN__OkpYlSfmj",
