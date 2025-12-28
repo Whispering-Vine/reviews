@@ -344,6 +344,22 @@
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmbOwg4fSthuOzB-UDojk2-7bJaZpZyx-WVWH6pE_5ASMMaGgAchotgRgmsmhKDYM-UDd6LuQ"
   },
   {
+    "reviewId": "AbFvOqkj2PAIwWYvGZwcZg2LvzfnMzhJT_EbvH2sX_6AtU--QT8a42ltryVGcmHHLGAFStXonzAluA",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV5WYJ_LXmZQLZcmf_Q6CCALF6zbEh6yhrMcHUs57JKIuScEVee8w=s120-c-rp-mo-ba2-br100",
+      "displayName": "Chad Moore"
+    },
+    "starRating": "FIVE",
+    "comment": "Fancy, cool ambiance, but a bit pricey for the portions",
+    "createTime": "2025-05-30T03:02:32.866325Z",
+    "updateTime": "2025-05-30T03:02:32.866325Z",
+    "reviewReply": {
+      "comment": "Chad, thank you for the 5-star review. We’re glad you enjoyed the ambiance and appreciate your feedback on the portions and pricing. We’re always working to make sure the experience matches the value. Hope to welcome you back again soon!",
+      "updateTime": "2025-05-31T20:48:08.529962Z"
+    },
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkj2PAIwWYvGZwcZg2LvzfnMzhJT_EbvH2sX_6AtU--QT8a42ltryVGcmHHLGAFStXonzAluA"
+  },
+  {
     "reviewId": "AbFvOqmB0fnBVseYq2PRZYpwVLiDBsUUYB31Z--5mb_dYbvgSPp4s2ibe51NYMLxghN63l1sBvWTkg",
     "reviewer": {
       "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLqd6X-UlCwfdnJli9mQ3LZ-hYwYE1F7AGRJrd0gNhdub8enA=s120-c-rp-mo-ba4-br100",
@@ -438,6 +454,22 @@
       "updateTime": "2025-03-27T04:54:56.211410Z"
     },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlLnAYc8kAx_l2ecK_Y63UYoiWqMIDU9zLcUDJx6s_Ma9MDKD6FPtBGKeVzmXUCS80fUeRZ"
+  },
+  {
+    "reviewId": "AbFvOqmIOCosRrAL-BddFPBjnruJATYNN7VY8-9ZBIC0rNC3leM0stnv99IgOZQ-xK0V-wiwOC5PiQ",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXMMOBLp2zGKKtukMHj93sm0IVA3Zm6SYC5QRPZNz24dqhXEDiW=s120-c-rp-mo-ba3-br100",
+      "displayName": "Fritz Brunner"
+    },
+    "starRating": "FIVE",
+    "comment": "A good wine and food vibe here.",
+    "createTime": "2025-02-19T19:54:50.969044Z",
+    "updateTime": "2025-02-19T19:54:50.969044Z",
+    "reviewReply": {
+      "comment": "Thanks for the 5-star review, Fritz! We're glad you enjoyed the wine, food, and atmosphere at Whispering Vine. Looking forward to your next visit!",
+      "updateTime": "2025-03-27T05:02:06.635391Z"
+    },
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmIOCosRrAL-BddFPBjnruJATYNN7VY8-9ZBIC0rNC3leM0stnv99IgOZQ-xK0V-wiwOC5PiQ"
   },
   {
     "reviewId": "AbFvOqmaTSk4x5qBQC1s6aJBFTmqOxwiplW7x7IBdkHpuaj4wdPvwTv_nEtacDXkCNByEgH4C1m3Yg",
