@@ -1,5 +1,21 @@
 [
   {
+    "reviewId": "AbFvOqmGQLmKnwPbfOKj7yu3ySdNjR6-CbLPVGYi0xz1FFKe_HPZE3T9QNzMgDiO2ZmIMzJ_fCOtFA",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWl3MbHI-b6rD6xsXvL1kkKsBYNL5T_CSgHUyAlCc_BfyAgR4lj=s120-c-rp-mo-ba2-br100",
+      "displayName": "Cesarina Pulleyn"
+    },
+    "starRating": "FIVE",
+    "comment": "Great food and service.\nHad to get an extra order to go for the next day.",
+    "createTime": "2026-01-20T20:00:34.288726Z",
+    "updateTime": "2026-01-20T20:00:34.288726Z",
+    "reviewReply": {
+      "comment": "Thank you, Cesarina, for the wonderful feedback! We're delighted you enjoyed the food and service enough to take some home for the next day. We look forward to welcoming you back to Whispering Vine soon!",
+      "updateTime": "2026-01-21T00:47:23.394951Z"
+    },
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmGQLmKnwPbfOKj7yu3ySdNjR6-CbLPVGYi0xz1FFKe_HPZE3T9QNzMgDiO2ZmIMzJ_fCOtFA"
+  },
+  {
     "reviewId": "AbFvOqmDFlvs4UpsDZz5I3QG-HR6-PfGLeTKKgSiDfwOAz2XdRwf-hkrJRLO6MzNQdIQHMyKTJc8",
     "reviewer": {
       "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK5PTb_I2Rjrvea8IORiViU2MD1QnXjXMgPL2O3DzuQ3ajAhg=s120-c-rp-mo-ba2-br100",
@@ -9,6 +25,10 @@
     "comment": "Whispering Vine is my local go-to for wine tastings and purchases. Their tasting flights are always interesting, and their one glass 8oz pours are very fairly priced. They also offer great prices on weekly specials and some great wine tasting educational events. Cheers to Brian and crew at both locations.",
     "createTime": "2026-01-16T21:30:06.266975Z",
     "updateTime": "2026-01-16T21:30:06.266975Z",
+    "reviewReply": {
+      "comment": "Thank you so much, Rob! We're thrilled to be your local go-to for wine tastings and purchases. It's great to hear you enjoy our tasting flights, fair pricing, and educational events. Brian and the crew send their thanks as well. We look forward to welcoming you back to Whispering Vine soon! Cheers!",
+      "updateTime": "2026-01-21T00:47:10.135345Z"
+    },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmDFlvs4UpsDZz5I3QG-HR6-PfGLeTKKgSiDfwOAz2XdRwf-hkrJRLO6MzNQdIQHMyKTJc8"
   },
   {
@@ -21,6 +41,10 @@
     "comment": "Wonderful food, wine, and service",
     "createTime": "2026-01-14T01:46:03.347129Z",
     "updateTime": "2026-01-14T01:46:03.347129Z",
+    "reviewReply": {
+      "comment": "Thank you, John, for your wonderful feedback! We're delighted you enjoyed the food, wine, and service at Whispering Vine. We look forward to welcoming you back soon for another great experience!",
+      "updateTime": "2026-01-21T00:46:51.815271Z"
+    },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqks-qg0XNTThq9rQr-FajfPCHv03w1TiDolz5brNEMHUZjR2-mxyvldGLpR3T4WDJY4Pu_gnw"
   },
   {
@@ -566,22 +590,6 @@
       "updateTime": "2025-03-27T05:21:16.403985Z"
     },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkZEOrG8PGxu1REY6SeIrkaiB8MOQBapoIRn2GbllC63qlE-N3mGu6DMyoUsFHrHJ9-_RVB"
-  },
-  {
-    "reviewId": "AbFvOqlI4LfauV6590eNVYkyqd0xTSqA4juMgEPSktfRiTWUzWZueZ219lNA3EPY_yz1SJGtjGgdhw",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVIeOp77ehWaYhxgjGJcKb1mcus0z2KEMhVWoIA_-u4EpbUC6iPcg=s120-c-rp-mo-ba6-br100",
-      "displayName": "Matthew P"
-    },
-    "starRating": "FIVE",
-    "comment": "Loved Whispering Vine!\n\nHad the grilled cheese and wine - so yummy!",
-    "createTime": "2024-12-22T05:55:57.429501Z",
-    "updateTime": "2024-12-22T05:56:15.718661Z",
-    "reviewReply": {
-      "comment": "Thanks for the 5-star review, Matthew! We're glad you loved Whispering Vine, and we appreciate your feedback. Our grilled cheese is a fan favorite, and we're thrilled to hear you enjoyed it with a nice glass of wine. Looking forward to your return!",
-      "updateTime": "2025-03-27T05:22:25.103880Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlI4LfauV6590eNVYkyqd0xTSqA4juMgEPSktfRiTWUzWZueZ219lNA3EPY_yz1SJGtjGgdhw"
   },
   {
     "reviewId": "AbFvOqk4EkFkRtysOhu9f7yFl9reWQSOrF_z8VqPBeTYWK_39mq_CjYF__ea7ACYN__OkpYlSfmj",
