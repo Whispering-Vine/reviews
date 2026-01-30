@@ -1,21 +1,5 @@
 [
   {
-    "reviewId": "AbFvOqk7LjwVszS00o-LC1Bj6rTR0VDFP2idHPHT--erquFOWx75gdFfkUMLTnWT0KAUyhRTbwCIfw",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ9LBsTmTkdhgOZ3il914wkK-UTopVXmuBzoCmqdzHUX_dgQQ=s120-c-rp-mo-br100",
-      "displayName": "Kyle Worrall"
-    },
-    "starRating": "FIVE",
-    "comment": "Love this place, really good food and nice staff, plus crazy good deals on wine, especially compared to other restaurants where you end up paying double the price for a bottle of wine",
-    "createTime": "2026-01-23T21:04:26.605809Z",
-    "updateTime": "2026-01-23T21:05:08.982727Z",
-    "reviewReply": {
-      "comment": "Thank you, Kyle! We're thrilled to hear you enjoyed the food, friendly staff, and great wine deals at Whispering Vine. Your support means a lot to us, and we look forward to welcoming you back soon for another fantastic experience!",
-      "updateTime": "2026-01-24T01:22:28.581953Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk7LjwVszS00o-LC1Bj6rTR0VDFP2idHPHT--erquFOWx75gdFfkUMLTnWT0KAUyhRTbwCIfw"
-  },
-  {
     "reviewId": "AbFvOqmGQLmKnwPbfOKj7yu3ySdNjR6-CbLPVGYi0xz1FFKe_HPZE3T9QNzMgDiO2ZmIMzJ_fCOtFA",
     "reviewer": {
       "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWl3MbHI-b6rD6xsXvL1kkKsBYNL5T_CSgHUyAlCc_BfyAgR4lj=s120-c-rp-mo-ba2-br100",
@@ -542,6 +526,22 @@
       "updateTime": "2025-03-27T05:22:25.103880Z"
     },
     "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlI4LfauV6590eNVYkyqd0xTSqA4juMgEPSktfRiTWUzWZueZ219lNA3EPY_yz1SJGtjGgdhw"
+  },
+  {
+    "reviewId": "AbFvOqktA5_rtoGcy70upRVyMiKwMOPEOJ_Wac_xJWEZsIKzoh9a1DiIEzllzJysfKUTvcotwyuNvQ",
+    "reviewer": {
+      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKbl-tVMiE2mxB-ECLI6qKckPkkQ1MVM6DAtdVYRgPGrSUGBA=s120-c-rp-mo-br100",
+      "displayName": "Cara Nine"
+    },
+    "starRating": "FIVE",
+    "comment": "Been to dinner here many times. The best is during a weekday so that you can get a table with a view at the front of the restaurant. Good food and wonderful atmosphere for special occasions or just normal nights out with friends.",
+    "createTime": "2024-09-08T17:29:43.614251Z",
+    "updateTime": "2024-09-08T17:29:43.614251Z",
+    "reviewReply": {
+      "comment": "Thank you, Cara, for your 5-star review and for being such a loyal guest! We're glad to hear that you enjoy dining with us, especially during weekdays when you can snag that perfect table with a view. Whether it's a special occasion or just a casual night out, we're thrilled to be part of your memorable moments. We can't wait to see you again soon!",
+      "updateTime": "2024-09-08T20:53:51.212453Z"
+    },
+    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqktA5_rtoGcy70upRVyMiKwMOPEOJ_Wac_xJWEZsIKzoh9a1DiIEzllzJysfKUTvcotwyuNvQ"
   },
   {
     "reviewId": "AbFvOqk4EkFkRtysOhu9f7yFl9reWQSOrF_z8VqPBeTYWK_39mq_CjYF__ea7ACYN__OkpYlSfmj",
