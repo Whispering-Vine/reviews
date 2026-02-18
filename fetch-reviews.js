@@ -35,6 +35,15 @@ require('dotenv').config();
 
     let reviews = response.data.reviews || [];
 
+    const total = reviews.length;
+
+    fs.writeFileSync(
+      './total.json',
+      JSON.stringify({ total: total }, null, 2)
+    );
+
+    console.log(`Total review count saved to total.json`);
+
     // Filter reviews: Only FOUR or FIVE stars and must have review text
     reviews = reviews.filter(
       (review) =>
@@ -51,15 +60,6 @@ require('dotenv').config();
     fs.writeFileSync(filePath, JSON.stringify(reviews, null, 2));
 
     console.log(`Reviews saved to ${filePath}`);
-
-    const total = allReviews.length;
-
-    fs.writeFileSync(
-      './total.json',
-      JSON.stringify({ total: total }, null, 2)
-    );
-
-    console.log(`Total review count saved to total.json`);
   } catch (error) {
     console.error('Error fetching reviews:', error.response?.data || error.message);
     process.exit(1); // Exit with error code for CI/CD to handle
