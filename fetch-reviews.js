@@ -35,7 +35,7 @@ require('dotenv').config();
 
     let reviews = response.data.reviews || [];
 
-    const total = reviews.length;
+    const total = response.data.totalReviewCount;
 
     fs.writeFileSync(
       './total.json',
