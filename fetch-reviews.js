@@ -51,6 +51,16 @@ require('dotenv').config();
     fs.writeFileSync(filePath, JSON.stringify(reviews, null, 2));
 
     console.log(`Reviews saved to ${filePath}`);
+
+    const total = reviews.length;
+    const totalFilePath = './total.json';
+
+    fs.writeFileSync(
+      totalFilePath,
+      JSON.stringify({ total: total }, null, 2)
+    );
+
+    console.log(`Total review count saved to ${totalFilePath}`);
   } catch (error) {
     console.error('Error fetching reviews:', error.response?.data || error.message);
     process.exit(1); // Exit with error code for CI/CD to handle
