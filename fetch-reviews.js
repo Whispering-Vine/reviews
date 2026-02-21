@@ -11,19 +11,16 @@ require('dotenv').config();
       process.env.REDIRECT_URI
     );
 
-    oauth2Client.setCredentials({
-      refresh_token: process.env.REFRESH_TOKEN,
-    });
+    oauth2Client.setCredentials({ refresh_token: process.env.REFRESH_TOKEN });
 
     const accountId = process.env.ACCOUNT_ID;
 
-    // Map friendly names -> location IDs
+    // Friendly names -> location IDs
     const locations = {
       fourth_st: process.env.FOURTH_ST_LOCATION_ID,
       south_creek: process.env.SOUTH_CREEK_LOCATION_ID,
     };
 
-    // Validate we have exactly these two
     const missing = Object.entries(locations)
       .filter(([, id]) => !id)
       .map(([name]) => name);
@@ -38,21 +35,20 @@ require('dotenv').config();
     const accessToken = (await oauth2Client.getAccessToken()).token;
     if (!accessToken) throw new Error('Failed to obtain access token.');
 
-    const reviewsByLocationName = {};
-    const totalsByLocationName = {};
+    const output = {};
 
     for (const [friendlyName, locationId] of Object.entries(locations)) {
       const response = await axios.get(
         `https://mybusiness.googleapis.com/v4/accounts/${accountId}/locations/${locationId}/reviews`,
-        {
-          headers: {
-            Authorization: `Bearer ${accessToken}`,
-          },
-        }
+        { headers: { Authorization: `Bearer ${accessToken}` } }
       );
 
-      let reviews = response.data.reviews || [];
-      const total = response.data.totalReviewCount ?? 0;
+      const data = response.data || {};
+      let reviews = data.reviews || [];
+
+      // These fields are returned by the endpoint (when available)
+      const totalReviewCount = data.totalReviewCount ?? 0;
+      const averageRating = data.averageRating ?? null;
 
       // Filter reviews: Only FOUR or FIVE stars and must have review text
       reviews = reviews.filter(
@@ -65,29 +61,16 @@ require('dotenv').config();
       // Sort reviews: Newest to oldest
       reviews.sort((a, b) => new Date(b.createTime) - new Date(a.createTime));
 
-      // Store with friendly parent keys, but keep locationId in the payload too
-      reviewsByLocationName[friendlyName] = {
+      output[friendlyName] = {
         locationId,
+        totalReviewCount,
+        averageRating,
         reviews,
-      };
-
-      totalsByLocationName[friendlyName] = {
-        locationId,
-        total,
       };
     }
 
-    fs.writeFileSync(
-      './totals.json',
-      JSON.stringify(totalsByLocationName, null, 2)
-    );
-    console.log('Totals saved to totals.json');
-
-    fs.writeFileSync(
-      './reviews.json',
-      JSON.stringify(reviewsByLocationName, null, 2)
-    );
-    console.log('Reviews saved to reviews.json');
+    fs.writeFileSync('./reviews.json', JSON.stringify(output, null, 2));
+    console.log('Wrote reviews.json with totals + average rating + reviews.');
   } catch (error) {
     console.error('Error fetching reviews:', error.response?.data || error.message);
     process.exit(1);
