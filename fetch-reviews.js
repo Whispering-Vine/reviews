@@ -5,42 +5,43 @@ require('dotenv').config();
 
 (async () => {
   try {
-    // Configure OAuth2 client
     const oauth2Client = new google.auth.OAuth2(
       process.env.CLIENT_ID,
       process.env.CLIENT_SECRET,
       process.env.REDIRECT_URI
     );
 
-    // Set credentials (refresh token is required for automation)
     oauth2Client.setCredentials({
       refresh_token: process.env.REFRESH_TOKEN,
     });
 
     const accountId = process.env.ACCOUNT_ID;
 
-    // Two location IDs (Fourth St + South Creek)
-    const locationIds = [
-      process.env.FOURTH_ST_LOCATION_ID,
-      process.env.SOUTH_CREEK_LOCATION_ID,
-    ].filter(Boolean);
+    // Map friendly names -> location IDs
+    const locations = {
+      fourth_st: process.env.FOURTH_ST_LOCATION_ID,
+      south_creek: process.env.SOUTH_CREEK_LOCATION_ID,
+    };
 
-    if (locationIds.length !== 2) {
+    // Validate we have exactly these two
+    const missing = Object.entries(locations)
+      .filter(([, id]) => !id)
+      .map(([name]) => name);
+
+    if (missing.length) {
       throw new Error(
-        `Expected exactly 2 location IDs. Found ${locationIds.length}. ` +
+        `Missing location ID env vars for: ${missing.join(', ')}. ` +
           `Set FOURTH_ST_LOCATION_ID and SOUTH_CREEK_LOCATION_ID in .env`
       );
     }
 
-    // Get access token
     const accessToken = (await oauth2Client.getAccessToken()).token;
     if (!accessToken) throw new Error('Failed to obtain access token.');
 
-    const reviewsByLocation = {};
-    const totalsByLocation = {};
+    const reviewsByLocationName = {};
+    const totalsByLocationName = {};
 
-    for (const locationId of locationIds) {
-      // Fetch reviews for a location
+    for (const [friendlyName, locationId] of Object.entries(locations)) {
       const response = await axios.get(
         `https://mybusiness.googleapis.com/v4/accounts/${accountId}/locations/${locationId}/reviews`,
         {
@@ -64,22 +65,31 @@ require('dotenv').config();
       // Sort reviews: Newest to oldest
       reviews.sort((a, b) => new Date(b.createTime) - new Date(a.createTime));
 
-      reviewsByLocation[locationId] = reviews;
-      totalsByLocation[locationId] = { total };
+      // Store with friendly parent keys, but keep locationId in the payload too
+      reviewsByLocationName[friendlyName] = {
+        locationId,
+        reviews,
+      };
+
+      totalsByLocationName[friendlyName] = {
+        locationId,
+        total,
+      };
     }
 
-    // Write totals.json (parent keys are location IDs)
-    fs.writeFileSync('./totals.json', JSON.stringify(totalsByLocation, null, 2));
+    fs.writeFileSync(
+      './totals.json',
+      JSON.stringify(totalsByLocationName, null, 2)
+    );
     console.log('Totals saved to totals.json');
 
-    // Write reviews.json (parent keys are location IDs)
-    fs.writeFileSync('./reviews.json', JSON.stringify(reviewsByLocation, null, 2));
+    fs.writeFileSync(
+      './reviews.json',
+      JSON.stringify(reviewsByLocationName, null, 2)
+    );
     console.log('Reviews saved to reviews.json');
   } catch (error) {
-    console.error(
-      'Error fetching reviews:',
-      error.response?.data || error.message
-    );
-    process.exit(1); // Exit with error code for CI/CD to handle
+    console.error('Error fetching reviews:', error.response?.data || error.message);
+    process.exit(1);
   }
 })();
