@@ -17,51 +17,69 @@ require('dotenv').config();
       refresh_token: process.env.REFRESH_TOKEN,
     });
 
-    const accountId = process.env.ACCOUNT_ID; // Replace with your actual account ID
-    const locationId = process.env.LOCATION_ID; // Replace with your actual location ID
+    const accountId = process.env.ACCOUNT_ID;
+
+    // Two location IDs (Fourth St + South Creek)
+    const locationIds = [
+      process.env.FOURTH_ST_LOCATION_ID,
+      process.env.SOUTH_CREEK_LOCATION_ID,
+    ].filter(Boolean);
+
+    if (locationIds.length !== 2) {
+      throw new Error(
+        `Expected exactly 2 location IDs. Found ${locationIds.length}. ` +
+          `Set FOURTH_ST_LOCATION_ID and SOUTH_CREEK_LOCATION_ID in .env`
+      );
+    }
 
     // Get access token
     const accessToken = (await oauth2Client.getAccessToken()).token;
+    if (!accessToken) throw new Error('Failed to obtain access token.');
 
-    // Make the API request to fetch reviews
-    const response = await axios.get(
-      `https://mybusiness.googleapis.com/v4/accounts/${accountId}/locations/${locationId}/reviews`,
-      {
-        headers: {
-          Authorization: `Bearer ${accessToken}`,
-        },
-      }
-    );
+    const reviewsByLocation = {};
+    const totalsByLocation = {};
 
-    let reviews = response.data.reviews || [];
+    for (const locationId of locationIds) {
+      // Fetch reviews for a location
+      const response = await axios.get(
+        `https://mybusiness.googleapis.com/v4/accounts/${accountId}/locations/${locationId}/reviews`,
+        {
+          headers: {
+            Authorization: `Bearer ${accessToken}`,
+          },
+        }
+      );
 
-    const total = response.data.totalReviewCount;
+      let reviews = response.data.reviews || [];
+      const total = response.data.totalReviewCount ?? 0;
 
-    fs.writeFileSync(
-      './total.json',
-      JSON.stringify({ total: total }, null, 2)
-    );
+      // Filter reviews: Only FOUR or FIVE stars and must have review text
+      reviews = reviews.filter(
+        (review) =>
+          (review.starRating === 'FOUR' || review.starRating === 'FIVE') &&
+          review.comment &&
+          review.comment.trim().length > 0
+      );
 
-    console.log(`Total review count saved to total.json`);
+      // Sort reviews: Newest to oldest
+      reviews.sort((a, b) => new Date(b.createTime) - new Date(a.createTime));
 
-    // Filter reviews: Only FOUR or FIVE stars and must have review text
-    reviews = reviews.filter(
-      (review) =>
-        (review.starRating === 'FOUR' || review.starRating === 'FIVE') &&
-        review.comment &&
-        review.comment.trim().length > 0
-    );
+      reviewsByLocation[locationId] = reviews;
+      totalsByLocation[locationId] = { total };
+    }
 
-    // Sort reviews: Newest to oldest
-    reviews.sort((a, b) => new Date(b.createTime) - new Date(a.createTime));
+    // Write totals.json (parent keys are location IDs)
+    fs.writeFileSync('./totals.json', JSON.stringify(totalsByLocation, null, 2));
+    console.log('Totals saved to totals.json');
 
-    // Save reviews to a JSON file in the repository
-    const filePath = './reviews.json';
-    fs.writeFileSync(filePath, JSON.stringify(reviews, null, 2));
-
-    console.log(`Reviews saved to ${filePath}`);
+    // Write reviews.json (parent keys are location IDs)
+    fs.writeFileSync('./reviews.json', JSON.stringify(reviewsByLocation, null, 2));
+    console.log('Reviews saved to reviews.json');
   } catch (error) {
-    console.error('Error fetching reviews:', error.response?.data || error.message);
+    console.error(
+      'Error fetching reviews:',
+      error.response?.data || error.message
+    );
     process.exit(1); // Exit with error code for CI/CD to handle
   }
 })();
