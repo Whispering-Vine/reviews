@@ -1,6 +1,8 @@
 {
   "fourth_st": {
     "locationId": "13762251274808944694",
+    "totalReviewCount": 545,
+    "averageRating": 4.699999809265137,
     "reviews": [
       {
         "reviewId": "AbFvOqkj40B03JpY6nVFhpmMWubLTnrsTBWkJ0zr7xl6R99dX8dlC3qvdxkrWzOO0QeYqxAG5rliwQ",
@@ -642,6 +644,8 @@
   },
   "south_creek": {
     "locationId": "13161654569190612682",
+    "totalReviewCount": 84,
+    "averageRating": 4.800000190734863,
     "reviews": [
       {
         "reviewId": "AbFvOqm8aMV0D6-TMhi4od_PQ_6CKa7VeYvl96_JRCQG_656jY9PCvpVudFMKvJUhCoURwHs12GDEA",
