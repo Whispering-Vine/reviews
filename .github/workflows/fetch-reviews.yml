@@ -33,7 +33,7 @@ jobs:
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
           ACCOUNT_ID: ${{ secrets.ACCOUNT_ID }}
           LOCATION_ID: ${{ secrets.LOCATION_ID }}
-          FOURTH_ST_LOCATION_ID: ${{ secrets.FOURT_ST_LOCATION_ID }}
+          FOURTH_ST_LOCATION_ID: ${{ secrets.FOURTH_ST_LOCATION_ID }}
           SOUTH_CREEK_LOCATION_ID: ${{ secrets.SOUTH_CREEK_LOCATION_ID }}
         run: node fetch-reviews.js
 
