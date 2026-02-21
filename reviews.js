@@ -687,11 +687,21 @@
         // Fetch reviews from proxy
         async function fetchReviews() {
           try {
-            const response = await fetch('https://reviews.wvwine.co/reviews.json'); // Adjust to match your proxy's URL
-            const reviews = await response.json();
-  
-            // Populate carousel with fetched reviews
-            populateCarousel(reviews);
+            const response = await fetch('https://reviews.wvwine.co/reviews.json');
+            const payload = await response.json();
+        
+            // Supports either:
+            // { fourth_st: { reviews: [...] }, south_creek: { reviews: [...] } }
+            // OR (if you later change shape)
+            // { fourth_st: [...], south_creek: [...] }
+            const fourth = payload?.fourth_st?.reviews ?? payload?.fourth_st ?? [];
+            const south  = payload?.south_creek?.reviews ?? payload?.south_creek ?? [];
+        
+            const merged = [...fourth, ...south].sort(
+              (a, b) => new Date(b.createTime) - new Date(a.createTime)
+            );
+        
+            populateCarousel(merged);
           } catch (error) {
             console.error('Failed to fetch reviews:', error);
           }
