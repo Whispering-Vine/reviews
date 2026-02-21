@@ -1,606 +1,1144 @@
-[
-  {
-    "reviewId": "AbFvOqkj40B03JpY6nVFhpmMWubLTnrsTBWkJ0zr7xl6R99dX8dlC3qvdxkrWzOO0QeYqxAG5rliwQ",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLaCHq8I0xcRICT4bY4Zr0WdbIDWd_1jrDjqkJ96crMY7ieiA=s120-c-rp-mo-br100",
-      "displayName": "Lena Martini"
-    },
-    "starRating": "FIVE",
-    "comment": "What a Gem ! Always great service , incredible food and you can’t beat the atmosphere!!! Never ever disappointed here :) The staff is ALWAYS so incredibly friendly too !!",
-    "createTime": "2026-02-18T03:26:11.899096Z",
-    "updateTime": "2026-02-18T03:26:11.899096Z",
-    "reviewReply": {
-      "comment": "Lena, thank you for such kind words! It’s awesome to hear the service, food, and vibe consistently hit the mark for you. We love having you with us and can’t wait to welcome you back for another great experience soon.",
-      "updateTime": "2026-02-18T22:12:49.012759Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkj40B03JpY6nVFhpmMWubLTnrsTBWkJ0zr7xl6R99dX8dlC3qvdxkrWzOO0QeYqxAG5rliwQ"
+{
+  "fourth_st": {
+    "locationId": "13762251274808944694",
+    "reviews": [
+      {
+        "reviewId": "AbFvOqkj40B03JpY6nVFhpmMWubLTnrsTBWkJ0zr7xl6R99dX8dlC3qvdxkrWzOO0QeYqxAG5rliwQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLaCHq8I0xcRICT4bY4Zr0WdbIDWd_1jrDjqkJ96crMY7ieiA=s120-c-rp-mo-br100",
+          "displayName": "Lena Martini"
+        },
+        "starRating": "FIVE",
+        "comment": "What a Gem ! Always great service , incredible food and you can’t beat the atmosphere!!! Never ever disappointed here :) The staff is ALWAYS so incredibly friendly too !!",
+        "createTime": "2026-02-18T03:26:11.899096Z",
+        "updateTime": "2026-02-18T03:26:11.899096Z",
+        "reviewReply": {
+          "comment": "Lena, thank you for such kind words! It’s awesome to hear the service, food, and vibe consistently hit the mark for you. We love having you with us and can’t wait to welcome you back for another great experience soon.",
+          "updateTime": "2026-02-18T22:12:49.012759Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkj40B03JpY6nVFhpmMWubLTnrsTBWkJ0zr7xl6R99dX8dlC3qvdxkrWzOO0QeYqxAG5rliwQ"
+      },
+      {
+        "reviewId": "AbFvOqnHKbYHzCCAizEdiGQORtcPgV6a3-i_zem48IvkwLJYxjeGhOcN3T99n-CElSHmRhFIciR_ug",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWZx9IcGPjzzApZq_2lO78yaSnBbxuzrf0-0zqNfgotYfepbFs=s120-c-rp-mo-ba7-br100",
+          "displayName": "Frank T"
+        },
+        "starRating": "FIVE",
+        "comment": "Great food. Marvelous wine cellar",
+        "createTime": "2026-02-18T01:41:28.852146Z",
+        "updateTime": "2026-02-18T01:41:28.852146Z",
+        "reviewReply": {
+          "comment": "Thanks, Frank! Glad you enjoyed the food and got a chance to explore our wines. We’d love to have you back soon to try more of what we offer.",
+          "updateTime": "2026-02-18T04:10:31.496180Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnHKbYHzCCAizEdiGQORtcPgV6a3-i_zem48IvkwLJYxjeGhOcN3T99n-CElSHmRhFIciR_ug"
+      },
+      {
+        "reviewId": "AbFvOqlcxwBT3pxk6LXbguLx6vR0Hq7Jnys2RDWnlQ5TNO_3VWauBz7Ic0y1R9ionYWJZ3GAsxN3jA",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL7aiBiHdatGHGGDPFGkFVOh4a8QOZf61GDCk7Bg192OnU9wGw=s120-c-rp-mo-ba2-br100",
+          "displayName": "Nichole Heglund"
+        },
+        "starRating": "FIVE",
+        "comment": "We love Whispering Vine whether it is to meet friends, date night or to host guests. The good is great and the staff is always welcoming.",
+        "createTime": "2026-02-18T00:59:34.622101Z",
+        "updateTime": "2026-02-18T00:59:34.622101Z",
+        "reviewReply": {
+          "comment": "Nichole, we’re so happy to hear Whispering Vine is your go-to for catching up with friends, date nights, and hosting guests. Knowing you enjoy the food and feel welcomed by our team means a lot. Can’t wait to have you back for your next visit!",
+          "updateTime": "2026-02-18T22:12:31.700088Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlcxwBT3pxk6LXbguLx6vR0Hq7Jnys2RDWnlQ5TNO_3VWauBz7Ic0y1R9ionYWJZ3GAsxN3jA"
+      },
+      {
+        "reviewId": "AbFvOqm3_MQBeRVKxaSO1xHMUXCxXTAeHHSK46fK1EbJegKUd464s-6_1MpguYX7kpVHPWWmrv_O",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ6jNwL8W6rEqbl8hF-EE2ctpOIo9iaidH22U1XVs9vyYDL_w=s120-c-rp-mo-br100",
+          "displayName": "Marilee Watts"
+        },
+        "starRating": "FIVE",
+        "comment": "Food, service and atmosphere are consistently 5 star which makes this our favorite neighborhood eatery! The ability to select wine off their shelf and have it served to you is another 5star amenity! great locally owned establishment with fantastic prices so it’s easy to BUY LOCAL without sacrificing price or quality!",
+        "createTime": "2026-02-17T21:26:14.187608Z",
+        "updateTime": "2026-02-17T21:26:14.187608Z",
+        "reviewReply": {
+          "comment": "Thanks so much for the incredible review, Marilee! We love being your go-to neighborhood spot and are glad you enjoy the food, service, and atmosphere. We appreciate your support of local and can’t wait to welcome you back soon!",
+          "updateTime": "2026-02-18T22:11:55.866017Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqm3_MQBeRVKxaSO1xHMUXCxXTAeHHSK46fK1EbJegKUd464s-6_1MpguYX7kpVHPWWmrv_O"
+      },
+      {
+        "reviewId": "AbFvOqlB1AYd74SYLt8sdfIaxjWWqzWJP0OijIDs-Mhn887aLe75rGk618mEY5JzqMaJlYTgNz9wDg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIU98ll0rQ1Uh-uYPYNErGQZslZpmmusz7kiv6w0ASqK_7zxg=s120-c-rp-mo-br100",
+          "displayName": "Christi Nachtsheim"
+        },
+        "starRating": "FIVE",
+        "comment": "My husband and I love Whispering Vine. Reservations are easy, service and food is great. They don’t have a mark up on bottles of wine like in other restaurants. Just pick a bottle off the shelf from their huge selection. If you don’t want wine they have a full bar and great specialty drinks.",
+        "createTime": "2026-02-17T21:17:41.318934Z",
+        "updateTime": "2026-02-17T21:17:41.318934Z",
+        "reviewReply": {
+          "comment": "Thanks so much for sharing your experience! It’s great to hear you and your husband enjoy our wine selection and the ease of reservations. Glad you liked the service and specialty drinks too. Looking forward to welcoming you back soon!",
+          "updateTime": "2026-02-18T22:10:51.914621Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlB1AYd74SYLt8sdfIaxjWWqzWJP0OijIDs-Mhn887aLe75rGk618mEY5JzqMaJlYTgNz9wDg"
+      },
+      {
+        "reviewId": "AbFvOqkxuBOyAkKkzPXrRmqHTYl97SgRVrGOIr_X6l5ewJpC4ljQp49xmlmgSLgvcmETixCwUHJSLA",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLPjn-aMiUEa0fSGdR93DhMJHQ7gN6WbhKt55OIlu_-bRnNJw=s120-c-rp-mo-br100",
+          "displayName": "Amy Saathoff"
+        },
+        "starRating": "FIVE",
+        "comment": "The Whispering Vine is my favorite places to wine shop! The prices are the best in town and the selection is incredible. I also love the food offerings at the 4th Street location - how cool to be able to order dinner and select a fantastic bottle of wine without the mark up. The knowledge of the staff and their willingness to guide shoppers through their abundant selection makes this a one-of-kind, date night experience. If you haven't been to the Whispering Vine Wine Co., you have been missing out.",
+        "createTime": "2026-02-06T00:18:09.739566Z",
+        "updateTime": "2026-02-06T00:18:09.739566Z",
+        "reviewReply": {
+          "comment": "Thanks so much for sharing your experience, Amy! It’s great to hear you enjoy both the wine selection and the food at our 4th Street spot. Our team loves helping make date nights special, so we’re glad that comes through. Looking forward to your next visit!",
+          "updateTime": "2026-02-18T22:04:16.192312Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkxuBOyAkKkzPXrRmqHTYl97SgRVrGOIr_X6l5ewJpC4ljQp49xmlmgSLgvcmETixCwUHJSLA"
+      },
+      {
+        "reviewId": "AbFvOqneN6tSXhUolj-BwVScnE4lnENKXlwRcyHN7JMNlMlcer7cQk58r2AHW6CNy8zvwGyT1cSl",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIpOj-EYMe8ThZXnY50hCT3sXX1z9iO_PBGE76erSj4h-tA4g=s120-c-rp-mo-br100",
+          "displayName": "Laney Harden"
+        },
+        "starRating": "FIVE",
+        "comment": "This is consistently one of my favorite spots in Reno! The food is always incredible, the cocktails are spot-on and the wine selection is obviously stellar. I highly recommend trying a wine flight, the value is unbeatable for the quality of wines they offer. Definitely order any one of the taco offerings and the salt and vinegar tots!",
+        "createTime": "2026-02-04T01:38:43.125456Z",
+        "updateTime": "2026-02-04T01:38:43.125456Z",
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqneN6tSXhUolj-BwVScnE4lnENKXlwRcyHN7JMNlMlcer7cQk58r2AHW6CNy8zvwGyT1cSl"
+      },
+      {
+        "reviewId": "AbFvOqmDFlvs4UpsDZz5I3QG-HR6-PfGLeTKKgSiDfwOAz2XdRwf-hkrJRLO6MzNQdIQHMyKTJc8",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK5PTb_I2Rjrvea8IORiViU2MD1QnXjXMgPL2O3DzuQ3ajAhg=s120-c-rp-mo-ba2-br100",
+          "displayName": "Rob Weston"
+        },
+        "starRating": "FIVE",
+        "comment": "Whispering Vine is my local go-to for wine tastings and purchases. Their tasting flights are always interesting, and their one glass 8oz pours are very fairly priced. They also offer great prices on weekly specials and some great wine tasting educational events. Cheers to Brian and crew at both locations.",
+        "createTime": "2026-01-16T21:30:06.266975Z",
+        "updateTime": "2026-01-16T21:30:06.266975Z",
+        "reviewReply": {
+          "comment": "Thank you so much, Rob! We're thrilled to be your local go-to for wine tastings and purchases. It's great to hear you enjoy our tasting flights, fair pricing, and educational events. Brian and the crew send their thanks as well. We look forward to welcoming you back to Whispering Vine soon! Cheers!",
+          "updateTime": "2026-01-21T00:47:10.135345Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmDFlvs4UpsDZz5I3QG-HR6-PfGLeTKKgSiDfwOAz2XdRwf-hkrJRLO6MzNQdIQHMyKTJc8"
+      },
+      {
+        "reviewId": "AbFvOqks-qg0XNTThq9rQr-FajfPCHv03w1TiDolz5brNEMHUZjR2-mxyvldGLpR3T4WDJY4Pu_gnw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLHUt1apXKe4WswMGuV3pJYOz3_S6w-8GLUfK8T96QHcOOmPw=s120-c-rp-mo-ba3-br100",
+          "displayName": "John Distefano"
+        },
+        "starRating": "FIVE",
+        "comment": "Wonderful food, wine, and service",
+        "createTime": "2026-01-14T01:46:03.347129Z",
+        "updateTime": "2026-01-14T01:46:03.347129Z",
+        "reviewReply": {
+          "comment": "Thank you, John, for your wonderful feedback! We're delighted you enjoyed the food, wine, and service at Whispering Vine. We look forward to welcoming you back soon for another great experience!",
+          "updateTime": "2026-01-21T00:46:51.815271Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqks-qg0XNTThq9rQr-FajfPCHv03w1TiDolz5brNEMHUZjR2-mxyvldGLpR3T4WDJY4Pu_gnw"
+      },
+      {
+        "reviewId": "AbFvOqnf8AzniywW1vur9L2HSkXxG1EhDK-pxr26vzWWfX9hgDnnrwSa8_785ZVOFh7IpFq26mogAg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIi8vGwPvhZunalpNXT-rqR4f5sziTwMvVE-8P-3JsnqGUzvA=s120-c-rp-mo-ba2-br100",
+          "displayName": "Patrick Croarkin"
+        },
+        "starRating": "FIVE",
+        "comment": "We are always happy when we go to Whispering Vine, and we’re never disappointed. The food, the drinks (obviously), and the staff are consistently excellent.\n\nThey have a great selection of unique, flavorful dishes, and the salt and vinegar tater tots are an absolute staple for us every visit. The charcuterie board is our go-to appetizer—it’s loaded with delicious options and always hits the mark.\n\nThe staff is incredibly friendly and welcoming, and we really enjoy being able to wander around and choose a bottle (or bottles) of wine to enjoy with dinner. It adds to the overall experience and makes it feel relaxed and personal.\n\nPricing is very fair for the quality of food, the portion sizes, and the level of service. The wine and alcohol pricing is also very competitive with local shops, and unlike many restaurants, you don’t pay an inflated premium on wine here.\n\nOverall, I highly recommend Whispering Vine. It’s a consistently great experience and one of our favorite spots in town.",
+        "createTime": "2026-01-10T01:41:25.976132Z",
+        "updateTime": "2026-01-10T01:41:25.976132Z",
+        "reviewReply": {
+          "comment": "Thank you, Patrick, for the glowing 5-star review! We're thrilled to hear that every visit to Whispering Vine is a delight for you. We take pride in our excellent staff, fair pricing, and our laid-back, personal atmosphere. We can't wait to have you back for your next wine selection and dining experience!",
+          "updateTime": "2026-01-11T23:47:53.185466Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnf8AzniywW1vur9L2HSkXxG1EhDK-pxr26vzWWfX9hgDnnrwSa8_785ZVOFh7IpFq26mogAg"
+      },
+      {
+        "reviewId": "AbFvOqnaqgGWEYnMhd7ddddUmTVRkm8S1BTRFc-8QzWCF0HqZRqSNTmkLWumAXyucG9TU5fiV908xw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLqpmdoGFwHGy_O8Ol2Pe8vvNpZRLjmcaiqQHmw3RKw2uyGEw=s120-c-rp-mo-br100",
+          "displayName": "Barb Hawn"
+        },
+        "starRating": "FIVE",
+        "comment": "Food, wine and amosphere were exceptional",
+        "createTime": "2025-12-20T22:50:09.818688Z",
+        "updateTime": "2026-01-08T18:29:52.384142Z",
+        "reviewReply": {
+          "comment": "Thanks so much, Barb, for the 5-star review! We hope to see you again soon at Whispering Vine.",
+          "updateTime": "2026-01-11T23:48:36.332717Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnaqgGWEYnMhd7ddddUmTVRkm8S1BTRFc-8QzWCF0HqZRqSNTmkLWumAXyucG9TU5fiV908xw"
+      },
+      {
+        "reviewId": "AbFvOqkiH2EDUTKCx8bcPlDcbyPqEgkvkCDNAnqDYZS1ENCydn3YrfNve_YFh4k3258YyM4O4CRdXw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK-mZME_nCvjLMFI4Ysenuf0s8QvD3VuixjMpDov8cY1mmLfg=s120-c-rp-mo-ba2-br100",
+          "displayName": "Anna Jones"
+        },
+        "starRating": "FIVE",
+        "comment": "Jordan was so helpful in organising a gift for a colleague from overseas. Very friendly, professional and knowledgable. Thank you so much, we will definitely be using Whispering Vine again.",
+        "createTime": "2025-12-17T23:21:13.399558Z",
+        "updateTime": "2025-12-17T23:21:13.399558Z",
+        "reviewReply": {
+          "comment": "Thank you, Anna! We’re thrilled to hear Jordan made your gift experience so pleasant and smooth. We look forward to welcoming you back to Whispering Vine soon!",
+          "updateTime": "2026-01-12T01:27:58.772952Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkiH2EDUTKCx8bcPlDcbyPqEgkvkCDNAnqDYZS1ENCydn3YrfNve_YFh4k3258YyM4O4CRdXw"
+      },
+      {
+        "reviewId": "AbFvOqkK9IJoG0AGNjBP_HU58-0gKrhVWoaFpvTpU4hIT3EbqB8FCiMiLYHCcL9wEUfUq12VbVSH",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJDxYkrH5QLsE5IVtjxgiiPqWrQ6SJ0WrEzFzaBTMxAaKfqFQ=s120-c-rp-mo-br100",
+          "displayName": "chet cessford"
+        },
+        "starRating": "FIVE",
+        "comment": "We were looking for a great wine bar to go to on our anniversary, and a client of mine recommended Whispering vine. I’m so glad we decided to go with her recommendation. My wife and i absolutely loved it! The wine was amazing and the food was incredible! This is now going to be our go to spot! Thank you guys for the great experience!",
+        "createTime": "2025-12-16T16:28:45.255985Z",
+        "updateTime": "2025-12-16T16:28:45.255985Z",
+        "reviewReply": {
+          "comment": "Thank you so much, Chet! We're thrilled to hear that Whispering Vine was the perfect spot for your anniversary celebration. It means a lot that you and your wife enjoyed the wine and food so much. We look forward to welcoming you both back for many more great experiences!",
+          "updateTime": "2026-01-12T01:28:13.550192Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkK9IJoG0AGNjBP_HU58-0gKrhVWoaFpvTpU4hIT3EbqB8FCiMiLYHCcL9wEUfUq12VbVSH"
+      },
+      {
+        "reviewId": "AbFvOqmN0Ay5K8lo24oQK6XVYxKP3L4RHxtoM3Vi-fjgF_AQtbzNBsEjhb7wEvbSkJchuVee1zNKRQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKYqEG1l_732pm9TE_u_kkNMbJwV57IcPUYmNbISywR59Ujsw=s120-c-rp-mo-ba3-br100",
+          "displayName": "Penny Condit"
+        },
+        "starRating": "FIVE",
+        "comment": "Such a great time always.  It’s wonderful",
+        "createTime": "2025-12-08T20:06:22.879522Z",
+        "updateTime": "2025-12-08T20:06:22.879522Z",
+        "reviewReply": {
+          "comment": "Thank you so much, Penny! We're thrilled to hear you always have a great time at Whispering Vine. We look forward to welcoming you back soon for another wonderful experience!",
+          "updateTime": "2026-01-12T01:28:23.527744Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmN0Ay5K8lo24oQK6XVYxKP3L4RHxtoM3Vi-fjgF_AQtbzNBsEjhb7wEvbSkJchuVee1zNKRQ"
+      },
+      {
+        "reviewId": "AbFvOqkvOBOrTVOV6OT5_ahJPOK8Q1qnWAwYIyfAahJtbv1bwJ9vL7WSQ_HzxzOTG0l36-Jr6zLc1A",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUvn4zQn_cuq6w7SGJYdwQq0_q62PrLRpRz6MHZ2KxVeGBI_wg=s120-c-rp-mo-br100",
+          "displayName": "R.Patrick Hicks"
+        },
+        "starRating": "FIVE",
+        "comment": "My friend took me here for my birthday. It was a wonderful dinner, with wonderful wine and conversation.",
+        "createTime": "2025-12-03T23:52:59.812659Z",
+        "updateTime": "2025-12-03T23:52:59.812659Z",
+        "reviewReply": {
+          "comment": "Thank you, R. Patrick Hicks, for sharing your wonderful birthday experience at Whispering Vine! We're delighted to hear you enjoyed the dinner, wine, and conversation. We look forward to welcoming you back for many more special occasions!",
+          "updateTime": "2026-01-12T01:28:37.727982Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkvOBOrTVOV6OT5_ahJPOK8Q1qnWAwYIyfAahJtbv1bwJ9vL7WSQ_HzxzOTG0l36-Jr6zLc1A"
+      },
+      {
+        "reviewId": "AbFvOqn3jCiP_Znyy0IQvLLvLoTtXmrHbNP5ZvQvfyh4O85xqyEBxttlRSljWo5_ZXnNOcPzQluTsw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVrwAykziU0Br8BWZnwTsVmUSynGDQ6diS8i7vFbfNEli-tPMoE=s120-c-rp-mo-br100",
+          "displayName": "Tim Ruffin"
+        },
+        "starRating": "FIVE",
+        "comment": "Great place to sip a wonderful wine while have a good conversation with close friends!",
+        "createTime": "2025-11-27T01:14:51.764541Z",
+        "updateTime": "2025-11-27T01:14:51.764541Z",
+        "reviewReply": {
+          "comment": "Thank you, Tim! We're so glad you enjoyed sipping wine and sharing great conversations with your friends at Whispering Vine. We look forward to welcoming you back for more memorable moments soon!",
+          "updateTime": "2026-01-12T01:30:48.584355Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqn3jCiP_Znyy0IQvLLvLoTtXmrHbNP5ZvQvfyh4O85xqyEBxttlRSljWo5_ZXnNOcPzQluTsw"
+      },
+      {
+        "reviewId": "AbFvOqlHP9F74EUNJZEQIkSS2oeKKHU-FjrdNsBy9TW8UvzaZxzqUx73kOnlWLwJuM_41owS_8zX",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXsDKjGqGGSOx-U3VOcQ9ycmS5Z4Ae6z9FOuSEV8ACUQKBE0hqS=s120-c-rp-mo-ba2-br100",
+          "displayName": "Sigrid Sattler"
+        },
+        "starRating": "FIVE",
+        "comment": "When I want to have a good time in a comfortable place with good food and wine, I think of the Whispering Vine! I know 100% my friends and I will enjoy a delicious meal in a place with great ambiance! The staff is super nice and attentive. Not once have I had a bad experience and I have dined at Whispering Vine many many times! Give them a try, you won’t be sorry!",
+        "createTime": "2025-11-24T17:17:17.023044Z",
+        "updateTime": "2025-11-24T17:17:17.023044Z",
+        "reviewReply": {
+          "comment": "Thank you, Sigrid, for your glowing 5-star review! We're thrilled to hear that you and your friends always enjoy your time at Whispering Vine. Your support means the world to us, and we can't wait to serve you again soon!",
+          "updateTime": "2025-11-24T19:29:09.171789Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlHP9F74EUNJZEQIkSS2oeKKHU-FjrdNsBy9TW8UvzaZxzqUx73kOnlWLwJuM_41owS_8zX"
+      },
+      {
+        "reviewId": "AbFvOqksKT9WIzabaEfFAE03rfcJpVJ3p9QO3ZTrtra35jIvJ23w4o2WjZdRCSdoSwtSM3YBffxg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXzVWsb4oLFt2qG05at302hAOaaxd34SxzIXE1SCEgNnQxnp2Y5=s120-c-rp-mo-br100",
+          "displayName": "Phil Barackman"
+        },
+        "starRating": "FIVE",
+        "comment": "Great food, wine, and service.",
+        "createTime": "2025-11-15T19:25:26.184933Z",
+        "updateTime": "2025-11-15T19:25:26.184933Z",
+        "reviewReply": {
+          "comment": "Thanks for the 5-star review, Phil! Can’t wait to have you back at Whispering Vine for another fantastic experience.",
+          "updateTime": "2025-11-24T19:29:39.884410Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqksKT9WIzabaEfFAE03rfcJpVJ3p9QO3ZTrtra35jIvJ23w4o2WjZdRCSdoSwtSM3YBffxg"
+      },
+      {
+        "reviewId": "AbFvOql0NRia6QxGDWjeJSOqmKOl2fiQweZYFneosFggOj7a_zTt_uwW4iqqYnAaelGkrop9y-zp",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWWy7ivEwGxaFiqOotOwMVr7Me8Wd0I0rPnYGL56rGIplAjh3Eb=s120-c-rp-mo-br100",
+          "displayName": "Rita Royer"
+        },
+        "starRating": "FIVE",
+        "comment": "Check this place out!  So much wine, delicious foisted & great service.  See you there!",
+        "createTime": "2025-11-03T01:23:28.138492Z",
+        "updateTime": "2025-11-03T01:23:28.138492Z",
+        "reviewReply": {
+          "comment": "Thanks, Rita, for the glowing 5-star review! We're glad you enjoyed our extensive wine selection, delicious food, and excellent service. We can't wait to see you again soon!",
+          "updateTime": "2025-11-24T19:30:19.297851Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOql0NRia6QxGDWjeJSOqmKOl2fiQweZYFneosFggOj7a_zTt_uwW4iqqYnAaelGkrop9y-zp"
+      },
+      {
+        "reviewId": "AbFvOqlIpU-qY-3yI0BdxhRFu-ue1SKjG6DrhBdrBq3MUSqxWhtKGU4tr7eUvm0UGezIdCSVWnVv",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocICnOWdLytLK-Q0iBnttojtBbLdvdIRnet_7fiAG1KDLNleDQ=s120-c-rp-mo-br100",
+          "displayName": "La Vonne Johnson"
+        },
+        "starRating": "FIVE",
+        "comment": "Had an 80th birthday celebration at Whispering Vine last night.  Food, as well as the service, were great. Always a go to place.",
+        "createTime": "2025-11-01T00:49:37.206386Z",
+        "updateTime": "2025-11-01T00:49:37.206386Z",
+        "reviewReply": {
+          "comment": "Thank you, La Vonne, for choosing Whispering Vine for such a special occasion! We're honored to have been part of the 80th birthday celebration. We're happy to hear that you and your guests enjoyed the food and service, and hope to see you again soon.",
+          "updateTime": "2025-11-01T18:06:08.274735Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlIpU-qY-3yI0BdxhRFu-ue1SKjG6DrhBdrBq3MUSqxWhtKGU4tr7eUvm0UGezIdCSVWnVv"
+      },
+      {
+        "reviewId": "AbFvOqmqhC2zKBhuNPAYtnqGENuX3WsfCpIMAzHEEMb4m53pnApzc6ROv7e7VFdtIublkoOSSu9J",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV295AObJPktYQxWPIqlSExxwRyrnQjMNJ5P6_bKDaAqYU2yOkW6w=s120-c-rp-mo-ba4-br100",
+          "displayName": "Larry Strocchia"
+        },
+        "starRating": "FIVE",
+        "comment": "Great wine deals, good food, great service",
+        "createTime": "2025-09-29T20:51:05.191772Z",
+        "updateTime": "2025-09-29T20:51:05.191772Z",
+        "reviewReply": {
+          "comment": "Thank you, Larry, for the 5-star review! Glad you enjoyed our wine deals, food, and service. Looking forward to welcoming you back to Whispering Vine soon!",
+          "updateTime": "2025-11-01T18:05:02.251952Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmqhC2zKBhuNPAYtnqGENuX3WsfCpIMAzHEEMb4m53pnApzc6ROv7e7VFdtIublkoOSSu9J"
+      },
+      {
+        "reviewId": "AbFvOqmiSil3Zlwka8INnAtr8gJsRV77sTIL6bJtQrgOe_qpNOs7tjYwnF8OpmRRqt0zuJJrMTdt3A",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWYEK_WN6-s44jUlf4__oIC8vYicRlD9sA157b9s2vW58zWXa2f=s120-c-rp-mo-ba3-br100",
+          "displayName": "Melissa CH"
+        },
+        "starRating": "FIVE",
+        "comment": "Whispering Vine is a total gem. Delicious food, great wine, excellent service in a cozy and comfortable atmosphere with excellent service. I love this place!",
+        "createTime": "2025-08-31T13:18:41.725564Z",
+        "updateTime": "2025-08-31T13:18:41.725564Z",
+        "reviewReply": {
+          "comment": "Thank you, Melissa, for the glowing 5-star review! We're thrilled that you enjoy our food, wine, and atmosphere. Your kind words about our service mean the world to us. We can't wait to serve you again on your next visit!",
+          "updateTime": "2025-11-01T18:04:15.591571Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmiSil3Zlwka8INnAtr8gJsRV77sTIL6bJtQrgOe_qpNOs7tjYwnF8OpmRRqt0zuJJrMTdt3A"
+      },
+      {
+        "reviewId": "AbFvOqkm3saYlpeuMHFp4CBt-4a9TvJ-F9Zg7mGHh6LzecqEzR4gG0snhGgvfP5g0fdU5Hvcss9Wcg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJGjLtav2eO-as0I0LX7CYJ4slFfQJOwrfTEdHBzInBtwyRag=s120-c-rp-mo-ba3-br100",
+          "displayName": "Abraham DeLeon"
+        },
+        "starRating": "FIVE",
+        "comment": "By far my favorite place to eat and have a glass of wine.\n\nPlus if you love wine they have the best prices on the bottle and you can enjoy it with your meal. They beat the price at the store and even the vineyard on most of the wine.",
+        "createTime": "2025-07-13T18:58:48.647182Z",
+        "updateTime": "2025-07-13T18:58:48.647182Z",
+        "reviewReply": {
+          "comment": "Thank you, Abraham, for the glowing 5-star review! We're thrilled to hear that Whispering Vine is your favorite spot to enjoy great food and wine. We pride ourselves on offering an extensive wine selection at unbeatable prices for you to savor with your meal. We look forward to raising a glass with you on your next visit!",
+          "updateTime": "2025-07-15T17:02:01.812380Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkm3saYlpeuMHFp4CBt-4a9TvJ-F9Zg7mGHh6LzecqEzR4gG0snhGgvfP5g0fdU5Hvcss9Wcg"
+      },
+      {
+        "reviewId": "AbFvOqmaYnLksklCrX4FeHV1tOgfWoEwkxGXdHe_DD5EV1Dzy1yUcg1eSsVh5JWrEiV5fDu3C3rnDA",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXlb9YLOZzRt6wVlDfGRQ6XTlcjpLgYjfjQKrgqEomnE_IOAxMS=s120-c-rp-mo-br100",
+          "displayName": "Cyndi White"
+        },
+        "starRating": "FIVE",
+        "comment": "Wonderful dinner and Kelly, our server, was spectacular!",
+        "createTime": "2025-07-12T22:30:43.321336Z",
+        "updateTime": "2025-07-12T22:30:43.321336Z",
+        "reviewReply": {
+          "comment": "Thanks for the 5-star review, Cyndi! We're thrilled you enjoyed your dinner and had a spectacular experience with Kelly. We can't wait to serve you again soon!",
+          "updateTime": "2025-07-15T17:01:34.223350Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmaYnLksklCrX4FeHV1tOgfWoEwkxGXdHe_DD5EV1Dzy1yUcg1eSsVh5JWrEiV5fDu3C3rnDA"
+      },
+      {
+        "reviewId": "AbFvOqnRHz_5P1FVF_HsB_zwdgiWShRbfWELaMMkoBXMOSH-nL96ptxdCKP88-CNgJDKkuWTeEMdKQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVZhMkILB-e3kRhJexXblag0RhlI3hRE_QoqFWxbfiG1MgaglV-=s120-c-rp-mo-ba5-br100",
+          "displayName": "Taner Kiranbay"
+        },
+        "starRating": "FIVE",
+        "comment": "Best wine store and high end food. I think the chef is trained by Loulu's owner Troy.\nFood was impressive.",
+        "createTime": "2025-07-08T02:19:37.798014Z",
+        "updateTime": "2025-07-08T02:19:37.798014Z",
+        "reviewReply": {
+          "comment": "Thanks so much, Taner! We really appreciate the kind words and the photos you shared of the store. It means a lot to hear you enjoyed the food and wine, and we’re glad it made an impression. Hope to see you again soon!",
+          "updateTime": "2025-07-08T16:44:28.509572Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnRHz_5P1FVF_HsB_zwdgiWShRbfWELaMMkoBXMOSH-nL96ptxdCKP88-CNgJDKkuWTeEMdKQ"
+      },
+      {
+        "reviewId": "AbFvOqlD9e9r_dwYJNrCcGExrOjJvVQUHDEHkJeMOGMciMcZ_l0yTlOlTVjesst6EqoZOF-ULjK5HA",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK29bd_g9kktQoXnHF9rA8YwEegHcV3n_Uz_5K0UaV1mNKJCSA=s120-c-rp-mo-ba2-br100",
+          "displayName": "Suzanne Greenwood"
+        },
+        "starRating": "FIVE",
+        "comment": "The veggie burger is really good along with the tater tots. Yum!\nAlso great service and knowledgeable staff about many different wines. 😊👍",
+        "createTime": "2025-06-28T14:33:46.743204Z",
+        "updateTime": "2025-06-28T14:33:46.743204Z",
+        "reviewReply": {
+          "comment": "Thank you, Suzanne! We’re happy to hear you loved the veggie burger and tots, and that our team made a great impression. We appreciate the kind words and can’t wait to have you back for more good food and wine!",
+          "updateTime": "2025-06-29T03:15:40.951414Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlD9e9r_dwYJNrCcGExrOjJvVQUHDEHkJeMOGMciMcZ_l0yTlOlTVjesst6EqoZOF-ULjK5HA"
+      },
+      {
+        "reviewId": "AbFvOqkyTrBzJeka5I8nbIdovO8Qp8Q_0WzbaBdlWUXKZ9RJ5C1Wxh2xdxBVRfZ0PaLj_FFkPs-PAg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX0jNEaamylLJ_A07Mar5m9NHyw1pKa8pTZ-z6dPSgM0xbIqX988Q=s120-c-rp-mo-ba5-br100",
+          "displayName": "Karen McPherson"
+        },
+        "starRating": "FIVE",
+        "comment": "First time here after moving to Spanish Springs. Just 🩷 the Whispering Vine. This is our go-to to purchase bottles of wine. However, decided to stop and have dinner. Fantastic food with a wonderful view. You can make your reservation online and choose either the patio, the dining room, or our favorite window view.\nHighly recommend the bison sliders and mushroom flatbread.",
+        "createTime": "2025-06-28T02:40:53.672272Z",
+        "updateTime": "2025-06-28T02:44:05.228857Z",
+        "reviewReply": {
+          "comment": "Thank you, Karen! We’re so glad you found us and made the stop for dinner. It means a lot to hear we’re your go-to for wine, and we’re thrilled you enjoyed the food and view. Great pic of the view from the windows! We look forward to seeing you again soon!",
+          "updateTime": "2025-06-29T03:14:55.793850Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkyTrBzJeka5I8nbIdovO8Qp8Q_0WzbaBdlWUXKZ9RJ5C1Wxh2xdxBVRfZ0PaLj_FFkPs-PAg"
+      },
+      {
+        "reviewId": "AbFvOqkFkBPmEn2YNIZqxUp7CEL9E3AiDV-Aq5KVE0bmJebK4kg6K4C4qxG9qe6RmvlDgLIbX4S-Fg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWsn-HQyi5dqfwveQ_qy1WiQh7P279pZHz7S0H-BTjU2JKn6g2W=s120-c-rp-mo-br100",
+          "displayName": "Serafina Devincenzi"
+        },
+        "starRating": "FIVE",
+        "comment": "Best neighborhood feel spot for a really delicious bite and a solid glass of wine. Cocktails are yummy too! When the weather is nice, the patio is the best spot for dinner (reservations can be done online or over the phone and you can ask for the patio or whatever you prefer!)",
+        "createTime": "2025-06-12T18:18:30.617465Z",
+        "updateTime": "2025-06-12T18:18:30.617465Z",
+        "reviewReply": {
+          "comment": "Thanks for the kind words Serafina! Glad you love the food, wine, and cocktails. The patio is indeed a fan favorite when the weather is nice! We appreciate your tips on reservations too. I am sure we will see you again very soon ;)",
+          "updateTime": "2025-06-18T01:14:08.431797Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkFkBPmEn2YNIZqxUp7CEL9E3AiDV-Aq5KVE0bmJebK4kg6K4C4qxG9qe6RmvlDgLIbX4S-Fg"
+      },
+      {
+        "reviewId": "AbFvOqk01yAs5GKV8dYbJQcQqR9KpaKTiBd4vGWecANRhx4D3cC_KkdLBeN-jFWX3dYMl_DHfTxPcQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV4EBY1ptihxDcyLWx2bOF620VxUzjUWMmTk96RkvrE3R_Zeyk=s120-c-rp-mo-ba4-br100",
+          "displayName": "Laura Furumoto"
+        },
+        "starRating": "FIVE",
+        "comment": "My new favorite salad in town! Burrata, feta, asparagus and snap peas...lemony creamy cool goodness.",
+        "createTime": "2025-06-04T23:03:26.617614Z",
+        "updateTime": "2025-06-04T23:03:26.617614Z",
+        "reviewReply": {
+          "comment": "Thanks, Laura! Glad that the new Spring Panzanella salad has become your new favorite. See you next time!",
+          "updateTime": "2025-06-05T23:28:03.218311Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk01yAs5GKV8dYbJQcQqR9KpaKTiBd4vGWecANRhx4D3cC_KkdLBeN-jFWX3dYMl_DHfTxPcQ"
+      },
+      {
+        "reviewId": "AbFvOqmbOwg4fSthuOzB-UDojk2-7bJaZpZyx-WVWH6pE_5ASMMaGgAchotgRgmsmhKDYM-UDd6LuQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWVk5SMRWoefzZI2dHf1UGcAwhX5SuhfSFSAz4E8DVRtKt1Fvx0=s120-c-rp-mo-ba2-br100",
+          "displayName": "Harry B. Miller III"
+        },
+        "starRating": "FOUR",
+        "comment": "Love this place. Excellent atmosphere, service. Food is good, but I wish they’d update/ refresh the food menu. Maybe add some specials. Will definitely return with my family.",
+        "createTime": "2025-05-31T03:18:13.946555Z",
+        "updateTime": "2025-05-31T03:18:13.946555Z",
+        "reviewReply": {
+          "comment": "Harry, thank you for the kind words and for being a fan of the atmosphere and service! We really appreciate your feedback on the menu. In fact, we just recently added a few new dishes, including a Spring Panzanella Salad and a Shrimp Scampi Flatbread—if you haven’t had a chance to try them yet, we’d love for you to come back and give them a shot. Thanks again for the support, and we look forward to welcoming you and your family back soon!",
+          "updateTime": "2025-05-31T20:06:05.038444Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmbOwg4fSthuOzB-UDojk2-7bJaZpZyx-WVWH6pE_5ASMMaGgAchotgRgmsmhKDYM-UDd6LuQ"
+      },
+      {
+        "reviewId": "AbFvOqmB0fnBVseYq2PRZYpwVLiDBsUUYB31Z--5mb_dYbvgSPp4s2ibe51NYMLxghN63l1sBvWTkg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLqd6X-UlCwfdnJli9mQ3LZ-hYwYE1F7AGRJrd0gNhdub8enA=s120-c-rp-mo-ba4-br100",
+          "displayName": "Shawn Sabloff"
+        },
+        "starRating": "FIVE",
+        "comment": "Great place to meet friends for a drink and have a some light fare before heading out. Plus why not grab a hard to find treat on the way out?",
+        "createTime": "2025-05-24T12:11:54.361452Z",
+        "updateTime": "2025-05-24T12:11:54.361452Z",
+        "reviewReply": {
+          "comment": "Thanks for the 5-star review, Shawn! We're glad you enjoy Whispering Vine as a gathering spot to meet friends and enjoy a drink with some light fare. We hope to see you again soon for another delightful experience!",
+          "updateTime": "2025-05-24T17:58:20.090047Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmB0fnBVseYq2PRZYpwVLiDBsUUYB31Z--5mb_dYbvgSPp4s2ibe51NYMLxghN63l1sBvWTkg"
+      },
+      {
+        "reviewId": "AbFvOqm7SienSEJQ0s0vzh8V7BS3IbT9V6WmV-bq1YGJeiKjGL0OyKXo_l4afyHN2I0JnBvwowp9xw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUvlWQ44vN9d8UiG3tUwKR-3fhtYKaw5zBb3QuxWSif0ZgF0FtoIw=s120-c-rp-mo-ba5-br100",
+          "displayName": "S. Park"
+        },
+        "starRating": "FIVE",
+        "comment": "I took a friend visiting from Vegas. She was charmed by the place, along with their creative drinks, dishes, and friendly staff. I had a great time and realized that you don't have to drink wine to enjoy the place.",
+        "createTime": "2025-05-07T15:45:22.898653Z",
+        "updateTime": "2025-05-07T15:45:22.898653Z",
+        "reviewReply": {
+          "comment": "Thanks for the 5-star review, S. Park! We're delighted to hear that both you and your friend had such a wonderful experience at Whispering Vine. It is our goal to make sure that all of our guests, regardless of their drink preferences, feel welcome and have a fantastic time. We can't wait to see you both on your next visit!",
+          "updateTime": "2025-05-07T18:12:25.788846Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqm7SienSEJQ0s0vzh8V7BS3IbT9V6WmV-bq1YGJeiKjGL0OyKXo_l4afyHN2I0JnBvwowp9xw"
+      },
+      {
+        "reviewId": "AbFvOqm_tMMtlW7bkz3YrG04fnAW01sOkXlEob-GGdjm5khglS30MDnSZfJyYp-qmWS_6YfQvb5BHA",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV_OfnRy5izPjWyjfPobsJmT50c1ACS2_VbB6om9zWnahjn9cGN=s120-c-rp-mo-ba3-br100",
+          "displayName": "Denise G"
+        },
+        "starRating": "FIVE",
+        "comment": "I live in Sacramento and come here to see my sister and her husband this is our spot. We love it here. The food is amazing. The wine is amazing.The atmosphere.Is amazing",
+        "createTime": "2025-04-29T01:24:18.779774Z",
+        "updateTime": "2025-04-29T01:24:18.779774Z",
+        "reviewReply": {
+          "comment": "Thank you, Denise, for your glowing 5-star review! We're honored that you choose Whispering Vine as your go-to spot when visiting your sister and her husband. We're thrilled that you love our food, wine, and atmosphere, and we can't wait to serve you again on your next visit!",
+          "updateTime": "2025-04-29T02:27:43.464081Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqm_tMMtlW7bkz3YrG04fnAW01sOkXlEob-GGdjm5khglS30MDnSZfJyYp-qmWS_6YfQvb5BHA"
+      },
+      {
+        "reviewId": "AbFvOqnfiZs64VNQPs1Tb99ikk_c2mjgPr9sFYzu0R0SRZCBIeb5_NeSXPlGaJah7aNl0RZLp3XoSg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUxZZmjIibL0zLRENfBOG0Gu01T4h0j_YSlhGwzVZJfEE1RqKAR=s120-c-rp-mo-br100",
+          "displayName": "Edwin van Doorn"
+        },
+        "starRating": "FIVE",
+        "comment": "We visited Whispering Vine a couple of times when we stay with family in Reno. We fell in love with the place! It’s a great place to go for a glass of wine or food and they have a great selection of wines and spirits. It’s definitely worth checking out!!!",
+        "createTime": "2025-04-26T17:54:02.876505Z",
+        "updateTime": "2025-04-26T17:54:02.876505Z",
+        "reviewReply": {
+          "comment": "Thanks for the 5-star review, Edwin! We're delighted to hear that you've fallen in love with Whispering Vine and consider us a must-visit spot when you're in Reno. Our extensive selection of wines and spirits is something we take great pride in, and we're glad you enjoy it too!\n\nYour positive feedback means the world to us, and we hope to see you again the next time you're in town.",
+          "updateTime": "2025-04-27T17:29:26.418949Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnfiZs64VNQPs1Tb99ikk_c2mjgPr9sFYzu0R0SRZCBIeb5_NeSXPlGaJah7aNl0RZLp3XoSg"
+      },
+      {
+        "reviewId": "AbFvOqnSq_kdzsmX8MPe552VitB-MbH-29vo9NWmNbvP1u2QrgakUXtTyEc5c0jgPmv9WsVrBhpYqQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX_cN_E7xC-n50slr1zEiiVsuRuJgQQlGNuSo943WVAjTD12aGEFQ=s120-c-rp-mo-ba2-br100",
+          "displayName": "Rebecca LaBelle"
+        },
+        "starRating": "FIVE",
+        "comment": "So much fun. Great atmosphere, service, and food.\nThe atmosphere was intimate and cozy. There were 4 of us and we had everything- it was\n$$$.",
+        "createTime": "2025-03-31T19:36:13.422350Z",
+        "updateTime": "2025-03-31T19:36:13.422350Z",
+        "reviewReply": {
+          "comment": "Thank you, Rebecca, for your glowing 5-star review! We're thrilled to hear that you and your group enjoyed the intimate atmosphere, excellent service, and fantastic food. We can't wait to have you back for another fun night out!",
+          "updateTime": "2025-03-31T20:18:15.058541Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnSq_kdzsmX8MPe552VitB-MbH-29vo9NWmNbvP1u2QrgakUXtTyEc5c0jgPmv9WsVrBhpYqQ"
+      },
+      {
+        "reviewId": "AbFvOqmaTSk4x5qBQC1s6aJBFTmqOxwiplW7x7IBdkHpuaj4wdPvwTv_nEtacDXkCNByEgH4C1m3Yg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXF_jg6n3g3sd2hw-9icVaB2OQ4-5NKJaCt0EbWFFUEBWi1yqk=s120-c-rp-mo-ba3-br100",
+          "displayName": "Joseph Snider"
+        },
+        "starRating": "FIVE",
+        "comment": "love this place",
+        "createTime": "2025-02-19T19:46:59.796869Z",
+        "updateTime": "2025-02-19T19:46:59.796869Z",
+        "reviewReply": {
+          "comment": "Thank you for the 5-star review, Joseph! We're glad to hear you love Whispering Vine. We can't wait to have you back for another great experience!",
+          "updateTime": "2025-03-27T05:11:04.333207Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmaTSk4x5qBQC1s6aJBFTmqOxwiplW7x7IBdkHpuaj4wdPvwTv_nEtacDXkCNByEgH4C1m3Yg"
+      },
+      {
+        "reviewId": "AbFvOqkZEOrG8PGxu1REY6SeIrkaiB8MOQBapoIRn2GbllC63qlE-N3mGu6DMyoUsFHrHJ9-_RVB",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLJHztJKlzfraVn4oV9HAzDk1Njol3pVMBdUcSTTQs95lqRCA=s120-c-rp-mo-br100",
+          "displayName": "Scott Gillmore"
+        },
+        "starRating": "FIVE",
+        "comment": "Been there 3 times and every time it's been excellent. Good service, great food, and excellent wine at very good prices. The meatballs are 🤌🏻💋.",
+        "createTime": "2025-01-07T03:43:58.189056Z",
+        "updateTime": "2025-01-07T03:43:58.189056Z",
+        "reviewReply": {
+          "comment": "Thanks for the 5-star review, Scott! We appreciate your support and are thrilled to hear that you’ve enjoyed each of your three visits with us. We strive to provide excellent service, delicious food, and an impressive wine selection at great prices. We’re glad to hear that our meatballs have earned your seal of approval—they’re a favorite of ours, too! We look forward to seeing you again soon and making your next visit just as memorable.",
+          "updateTime": "2025-03-27T05:21:16.403985Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkZEOrG8PGxu1REY6SeIrkaiB8MOQBapoIRn2GbllC63qlE-N3mGu6DMyoUsFHrHJ9-_RVB"
+      },
+      {
+        "reviewId": "AbFvOqlI4LfauV6590eNVYkyqd0xTSqA4juMgEPSktfRiTWUzWZueZ219lNA3EPY_yz1SJGtjGgdhw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVIeOp77ehWaYhxgjGJcKb1mcus0z2KEMhVWoIA_-u4EpbUC6iPcg=s120-c-rp-mo-ba6-br100",
+          "displayName": "Matthew P"
+        },
+        "starRating": "FIVE",
+        "comment": "Loved Whispering Vine!\n\nHad the grilled cheese and wine - so yummy!",
+        "createTime": "2024-12-22T05:55:57.429501Z",
+        "updateTime": "2024-12-22T05:56:15.718661Z",
+        "reviewReply": {
+          "comment": "Thanks for the 5-star review, Matthew! We're glad you loved Whispering Vine, and we appreciate your feedback. Our grilled cheese is a fan favorite, and we're thrilled to hear you enjoyed it with a nice glass of wine. Looking forward to your return!",
+          "updateTime": "2025-03-27T05:22:25.103880Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlI4LfauV6590eNVYkyqd0xTSqA4juMgEPSktfRiTWUzWZueZ219lNA3EPY_yz1SJGtjGgdhw"
+      },
+      {
+        "reviewId": "AbFvOqk4EkFkRtysOhu9f7yFl9reWQSOrF_z8VqPBeTYWK_39mq_CjYF__ea7ACYN__OkpYlSfmj",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX1NFaA23VVZLuQ-BReTYZ7PTv-n2z8yl3mBFQrYKTHOA2rRLw=s120-c-rp-mo-ba4-br100",
+          "displayName": "Arniceous Maximus"
+        },
+        "starRating": "FIVE",
+        "comment": "A nice wine bar , they have some nice bottles for sale as well, glass size is generous glasses are not very big however. Some staff are new others more seasoned . Nice private areas in the cellar . The flights do not change often and contain wines that they want to sell some are not always what I would choose . Wines by the glass as well as by the bottle prices are reasonable. Food menu looked good but we did not try. Close to my location and making it a regular hang out .\n\nSince my last review I have frequently dropped in. Hot food is not served till 4pm, however nice dishes are being served. Wine prices are very reasonable considering Reno prices have sored sky high in the past few years.  The atmosphere is charming an older building formerly known as the glory hole a steak house, with a hint of contemporary flare. Patio is nice in spring through autumn and gets pretty noisy in the evenings as many come from all over. Sunday they are closed sad but true. Try them any other day you will be happy you did if you are looking for a cool wine shop with very friendly and knowledgeable staff.",
+        "createTime": "2022-03-13T18:44:09.202288Z",
+        "updateTime": "2025-03-27T06:44:52.994926Z",
+        "reviewReply": {
+          "comment": "Arniceous, Thank you for taking the time to check us out and give us a review. We think our 8oz pours are generous, but you can always just grab a bottle, with no corkage fee. Our 9oz flights are rotated weekly at our 4th Street location. We hope you return to try our food menu, the burger and truffle tots are a favorite. Cheers!",
+          "updateTime": "2022-03-30T00:24:39.728654Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk4EkFkRtysOhu9f7yFl9reWQSOrF_z8VqPBeTYWK_39mq_CjYF__ea7ACYN__OkpYlSfmj"
+      },
+      {
+        "reviewId": "AbFvOqk5UZMJSmRHEsrVdTX8fmVyB6Oaq5wqnRYjjwiD0fOJB5zAJQv8gp-yWG_18uLwQ-1fhVr-eA",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWI-jC_vx66Iy8-53dS8P0Kj0Z1dVFtpLVTt3AEopK7ahkkR18=s120-c-rp-mo-ba4-br100",
+          "displayName": "Dani Rhoda"
+        },
+        "starRating": "FIVE",
+        "comment": "Lovely place to go peruse wines and spirits, and enjoy some fantastic food.  Excellent selection of wines that are reasonably priced. If you’re more of a spirit person, they have some interesting bottles to consider. With a full bar, they can accommodate anyone with wine, beer, or cocktails. The portions are on the small side, but the food is oh so delicious. Reservations are highly recommended. It tends to be very loud so request the tall tables by the window for a slightly quieter experience.  During the summer the patio is nice.",
+        "createTime": "2019-04-09T00:59:21.322206Z",
+        "updateTime": "2025-04-10T19:22:20.656451Z",
+        "reviewReply": {
+          "comment": "Dani, how can we improve our rating with you? We strive to be the best and love knowing how we can improve! f",
+          "updateTime": "2019-04-25T19:17:07.834123Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk5UZMJSmRHEsrVdTX8fmVyB6Oaq5wqnRYjjwiD0fOJB5zAJQv8gp-yWG_18uLwQ-1fhVr-eA"
+      }
+    ]
   },
-  {
-    "reviewId": "AbFvOqnHKbYHzCCAizEdiGQORtcPgV6a3-i_zem48IvkwLJYxjeGhOcN3T99n-CElSHmRhFIciR_ug",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWZx9IcGPjzzApZq_2lO78yaSnBbxuzrf0-0zqNfgotYfepbFs=s120-c-rp-mo-ba7-br100",
-      "displayName": "Frank T"
-    },
-    "starRating": "FIVE",
-    "comment": "Great food. Marvelous wine cellar",
-    "createTime": "2026-02-18T01:41:28.852146Z",
-    "updateTime": "2026-02-18T01:41:28.852146Z",
-    "reviewReply": {
-      "comment": "Thanks, Frank! Glad you enjoyed the food and got a chance to explore our wines. We’d love to have you back soon to try more of what we offer.",
-      "updateTime": "2026-02-18T04:10:31.496180Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnHKbYHzCCAizEdiGQORtcPgV6a3-i_zem48IvkwLJYxjeGhOcN3T99n-CElSHmRhFIciR_ug"
-  },
-  {
-    "reviewId": "AbFvOqlcxwBT3pxk6LXbguLx6vR0Hq7Jnys2RDWnlQ5TNO_3VWauBz7Ic0y1R9ionYWJZ3GAsxN3jA",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL7aiBiHdatGHGGDPFGkFVOh4a8QOZf61GDCk7Bg192OnU9wGw=s120-c-rp-mo-ba2-br100",
-      "displayName": "Nichole Heglund"
-    },
-    "starRating": "FIVE",
-    "comment": "We love Whispering Vine whether it is to meet friends, date night or to host guests. The good is great and the staff is always welcoming.",
-    "createTime": "2026-02-18T00:59:34.622101Z",
-    "updateTime": "2026-02-18T00:59:34.622101Z",
-    "reviewReply": {
-      "comment": "Nichole, we’re so happy to hear Whispering Vine is your go-to for catching up with friends, date nights, and hosting guests. Knowing you enjoy the food and feel welcomed by our team means a lot. Can’t wait to have you back for your next visit!",
-      "updateTime": "2026-02-18T22:12:31.700088Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlcxwBT3pxk6LXbguLx6vR0Hq7Jnys2RDWnlQ5TNO_3VWauBz7Ic0y1R9ionYWJZ3GAsxN3jA"
-  },
-  {
-    "reviewId": "AbFvOqm3_MQBeRVKxaSO1xHMUXCxXTAeHHSK46fK1EbJegKUd464s-6_1MpguYX7kpVHPWWmrv_O",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ6jNwL8W6rEqbl8hF-EE2ctpOIo9iaidH22U1XVs9vyYDL_w=s120-c-rp-mo-br100",
-      "displayName": "Marilee Watts"
-    },
-    "starRating": "FIVE",
-    "comment": "Food, service and atmosphere are consistently 5 star which makes this our favorite neighborhood eatery! The ability to select wine off their shelf and have it served to you is another 5star amenity! great locally owned establishment with fantastic prices so it’s easy to BUY LOCAL without sacrificing price or quality!",
-    "createTime": "2026-02-17T21:26:14.187608Z",
-    "updateTime": "2026-02-17T21:26:14.187608Z",
-    "reviewReply": {
-      "comment": "Thanks so much for the incredible review, Marilee! We love being your go-to neighborhood spot and are glad you enjoy the food, service, and atmosphere. We appreciate your support of local and can’t wait to welcome you back soon!",
-      "updateTime": "2026-02-18T22:11:55.866017Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqm3_MQBeRVKxaSO1xHMUXCxXTAeHHSK46fK1EbJegKUd464s-6_1MpguYX7kpVHPWWmrv_O"
-  },
-  {
-    "reviewId": "AbFvOqlB1AYd74SYLt8sdfIaxjWWqzWJP0OijIDs-Mhn887aLe75rGk618mEY5JzqMaJlYTgNz9wDg",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIU98ll0rQ1Uh-uYPYNErGQZslZpmmusz7kiv6w0ASqK_7zxg=s120-c-rp-mo-br100",
-      "displayName": "Christi Nachtsheim"
-    },
-    "starRating": "FIVE",
-    "comment": "My husband and I love Whispering Vine. Reservations are easy, service and food is great. They don’t have a mark up on bottles of wine like in other restaurants. Just pick a bottle off the shelf from their huge selection. If you don’t want wine they have a full bar and great specialty drinks.",
-    "createTime": "2026-02-17T21:17:41.318934Z",
-    "updateTime": "2026-02-17T21:17:41.318934Z",
-    "reviewReply": {
-      "comment": "Thanks so much for sharing your experience! It’s great to hear you and your husband enjoy our wine selection and the ease of reservations. Glad you liked the service and specialty drinks too. Looking forward to welcoming you back soon!",
-      "updateTime": "2026-02-18T22:10:51.914621Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlB1AYd74SYLt8sdfIaxjWWqzWJP0OijIDs-Mhn887aLe75rGk618mEY5JzqMaJlYTgNz9wDg"
-  },
-  {
-    "reviewId": "AbFvOqkxuBOyAkKkzPXrRmqHTYl97SgRVrGOIr_X6l5ewJpC4ljQp49xmlmgSLgvcmETixCwUHJSLA",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLPjn-aMiUEa0fSGdR93DhMJHQ7gN6WbhKt55OIlu_-bRnNJw=s120-c-rp-mo-br100",
-      "displayName": "Amy Saathoff"
-    },
-    "starRating": "FIVE",
-    "comment": "The Whispering Vine is my favorite places to wine shop! The prices are the best in town and the selection is incredible. I also love the food offerings at the 4th Street location - how cool to be able to order dinner and select a fantastic bottle of wine without the mark up. The knowledge of the staff and their willingness to guide shoppers through their abundant selection makes this a one-of-kind, date night experience. If you haven't been to the Whispering Vine Wine Co., you have been missing out.",
-    "createTime": "2026-02-06T00:18:09.739566Z",
-    "updateTime": "2026-02-06T00:18:09.739566Z",
-    "reviewReply": {
-      "comment": "Thanks so much for sharing your experience, Amy! It’s great to hear you enjoy both the wine selection and the food at our 4th Street spot. Our team loves helping make date nights special, so we’re glad that comes through. Looking forward to your next visit!",
-      "updateTime": "2026-02-18T22:04:16.192312Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkxuBOyAkKkzPXrRmqHTYl97SgRVrGOIr_X6l5ewJpC4ljQp49xmlmgSLgvcmETixCwUHJSLA"
-  },
-  {
-    "reviewId": "AbFvOqneN6tSXhUolj-BwVScnE4lnENKXlwRcyHN7JMNlMlcer7cQk58r2AHW6CNy8zvwGyT1cSl",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIpOj-EYMe8ThZXnY50hCT3sXX1z9iO_PBGE76erSj4h-tA4g=s120-c-rp-mo-br100",
-      "displayName": "Laney Harden"
-    },
-    "starRating": "FIVE",
-    "comment": "This is consistently one of my favorite spots in Reno! The food is always incredible, the cocktails are spot-on and the wine selection is obviously stellar. I highly recommend trying a wine flight, the value is unbeatable for the quality of wines they offer. Definitely order any one of the taco offerings and the salt and vinegar tots!",
-    "createTime": "2026-02-04T01:38:43.125456Z",
-    "updateTime": "2026-02-04T01:38:43.125456Z",
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqneN6tSXhUolj-BwVScnE4lnENKXlwRcyHN7JMNlMlcer7cQk58r2AHW6CNy8zvwGyT1cSl"
-  },
-  {
-    "reviewId": "AbFvOqmDFlvs4UpsDZz5I3QG-HR6-PfGLeTKKgSiDfwOAz2XdRwf-hkrJRLO6MzNQdIQHMyKTJc8",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK5PTb_I2Rjrvea8IORiViU2MD1QnXjXMgPL2O3DzuQ3ajAhg=s120-c-rp-mo-ba2-br100",
-      "displayName": "Rob Weston"
-    },
-    "starRating": "FIVE",
-    "comment": "Whispering Vine is my local go-to for wine tastings and purchases. Their tasting flights are always interesting, and their one glass 8oz pours are very fairly priced. They also offer great prices on weekly specials and some great wine tasting educational events. Cheers to Brian and crew at both locations.",
-    "createTime": "2026-01-16T21:30:06.266975Z",
-    "updateTime": "2026-01-16T21:30:06.266975Z",
-    "reviewReply": {
-      "comment": "Thank you so much, Rob! We're thrilled to be your local go-to for wine tastings and purchases. It's great to hear you enjoy our tasting flights, fair pricing, and educational events. Brian and the crew send their thanks as well. We look forward to welcoming you back to Whispering Vine soon! Cheers!",
-      "updateTime": "2026-01-21T00:47:10.135345Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmDFlvs4UpsDZz5I3QG-HR6-PfGLeTKKgSiDfwOAz2XdRwf-hkrJRLO6MzNQdIQHMyKTJc8"
-  },
-  {
-    "reviewId": "AbFvOqks-qg0XNTThq9rQr-FajfPCHv03w1TiDolz5brNEMHUZjR2-mxyvldGLpR3T4WDJY4Pu_gnw",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLHUt1apXKe4WswMGuV3pJYOz3_S6w-8GLUfK8T96QHcOOmPw=s120-c-rp-mo-ba3-br100",
-      "displayName": "John Distefano"
-    },
-    "starRating": "FIVE",
-    "comment": "Wonderful food, wine, and service",
-    "createTime": "2026-01-14T01:46:03.347129Z",
-    "updateTime": "2026-01-14T01:46:03.347129Z",
-    "reviewReply": {
-      "comment": "Thank you, John, for your wonderful feedback! We're delighted you enjoyed the food, wine, and service at Whispering Vine. We look forward to welcoming you back soon for another great experience!",
-      "updateTime": "2026-01-21T00:46:51.815271Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqks-qg0XNTThq9rQr-FajfPCHv03w1TiDolz5brNEMHUZjR2-mxyvldGLpR3T4WDJY4Pu_gnw"
-  },
-  {
-    "reviewId": "AbFvOqnf8AzniywW1vur9L2HSkXxG1EhDK-pxr26vzWWfX9hgDnnrwSa8_785ZVOFh7IpFq26mogAg",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIi8vGwPvhZunalpNXT-rqR4f5sziTwMvVE-8P-3JsnqGUzvA=s120-c-rp-mo-ba2-br100",
-      "displayName": "Patrick Croarkin"
-    },
-    "starRating": "FIVE",
-    "comment": "We are always happy when we go to Whispering Vine, and we’re never disappointed. The food, the drinks (obviously), and the staff are consistently excellent.\n\nThey have a great selection of unique, flavorful dishes, and the salt and vinegar tater tots are an absolute staple for us every visit. The charcuterie board is our go-to appetizer—it’s loaded with delicious options and always hits the mark.\n\nThe staff is incredibly friendly and welcoming, and we really enjoy being able to wander around and choose a bottle (or bottles) of wine to enjoy with dinner. It adds to the overall experience and makes it feel relaxed and personal.\n\nPricing is very fair for the quality of food, the portion sizes, and the level of service. The wine and alcohol pricing is also very competitive with local shops, and unlike many restaurants, you don’t pay an inflated premium on wine here.\n\nOverall, I highly recommend Whispering Vine. It’s a consistently great experience and one of our favorite spots in town.",
-    "createTime": "2026-01-10T01:41:25.976132Z",
-    "updateTime": "2026-01-10T01:41:25.976132Z",
-    "reviewReply": {
-      "comment": "Thank you, Patrick, for the glowing 5-star review! We're thrilled to hear that every visit to Whispering Vine is a delight for you. We take pride in our excellent staff, fair pricing, and our laid-back, personal atmosphere. We can't wait to have you back for your next wine selection and dining experience!",
-      "updateTime": "2026-01-11T23:47:53.185466Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnf8AzniywW1vur9L2HSkXxG1EhDK-pxr26vzWWfX9hgDnnrwSa8_785ZVOFh7IpFq26mogAg"
-  },
-  {
-    "reviewId": "AbFvOqnaqgGWEYnMhd7ddddUmTVRkm8S1BTRFc-8QzWCF0HqZRqSNTmkLWumAXyucG9TU5fiV908xw",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLqpmdoGFwHGy_O8Ol2Pe8vvNpZRLjmcaiqQHmw3RKw2uyGEw=s120-c-rp-mo-br100",
-      "displayName": "Barb Hawn"
-    },
-    "starRating": "FIVE",
-    "comment": "Food, wine and amosphere were exceptional",
-    "createTime": "2025-12-20T22:50:09.818688Z",
-    "updateTime": "2026-01-08T18:29:52.384142Z",
-    "reviewReply": {
-      "comment": "Thanks so much, Barb, for the 5-star review! We hope to see you again soon at Whispering Vine.",
-      "updateTime": "2026-01-11T23:48:36.332717Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnaqgGWEYnMhd7ddddUmTVRkm8S1BTRFc-8QzWCF0HqZRqSNTmkLWumAXyucG9TU5fiV908xw"
-  },
-  {
-    "reviewId": "AbFvOqkiH2EDUTKCx8bcPlDcbyPqEgkvkCDNAnqDYZS1ENCydn3YrfNve_YFh4k3258YyM4O4CRdXw",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK-mZME_nCvjLMFI4Ysenuf0s8QvD3VuixjMpDov8cY1mmLfg=s120-c-rp-mo-ba2-br100",
-      "displayName": "Anna Jones"
-    },
-    "starRating": "FIVE",
-    "comment": "Jordan was so helpful in organising a gift for a colleague from overseas. Very friendly, professional and knowledgable. Thank you so much, we will definitely be using Whispering Vine again.",
-    "createTime": "2025-12-17T23:21:13.399558Z",
-    "updateTime": "2025-12-17T23:21:13.399558Z",
-    "reviewReply": {
-      "comment": "Thank you, Anna! We’re thrilled to hear Jordan made your gift experience so pleasant and smooth. We look forward to welcoming you back to Whispering Vine soon!",
-      "updateTime": "2026-01-12T01:27:58.772952Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkiH2EDUTKCx8bcPlDcbyPqEgkvkCDNAnqDYZS1ENCydn3YrfNve_YFh4k3258YyM4O4CRdXw"
-  },
-  {
-    "reviewId": "AbFvOqkK9IJoG0AGNjBP_HU58-0gKrhVWoaFpvTpU4hIT3EbqB8FCiMiLYHCcL9wEUfUq12VbVSH",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJDxYkrH5QLsE5IVtjxgiiPqWrQ6SJ0WrEzFzaBTMxAaKfqFQ=s120-c-rp-mo-br100",
-      "displayName": "chet cessford"
-    },
-    "starRating": "FIVE",
-    "comment": "We were looking for a great wine bar to go to on our anniversary, and a client of mine recommended Whispering vine. I’m so glad we decided to go with her recommendation. My wife and i absolutely loved it! The wine was amazing and the food was incredible! This is now going to be our go to spot! Thank you guys for the great experience!",
-    "createTime": "2025-12-16T16:28:45.255985Z",
-    "updateTime": "2025-12-16T16:28:45.255985Z",
-    "reviewReply": {
-      "comment": "Thank you so much, Chet! We're thrilled to hear that Whispering Vine was the perfect spot for your anniversary celebration. It means a lot that you and your wife enjoyed the wine and food so much. We look forward to welcoming you both back for many more great experiences!",
-      "updateTime": "2026-01-12T01:28:13.550192Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkK9IJoG0AGNjBP_HU58-0gKrhVWoaFpvTpU4hIT3EbqB8FCiMiLYHCcL9wEUfUq12VbVSH"
-  },
-  {
-    "reviewId": "AbFvOqkvOBOrTVOV6OT5_ahJPOK8Q1qnWAwYIyfAahJtbv1bwJ9vL7WSQ_HzxzOTG0l36-Jr6zLc1A",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUvn4zQn_cuq6w7SGJYdwQq0_q62PrLRpRz6MHZ2KxVeGBI_wg=s120-c-rp-mo-br100",
-      "displayName": "R.Patrick Hicks"
-    },
-    "starRating": "FIVE",
-    "comment": "My friend took me here for my birthday. It was a wonderful dinner, with wonderful wine and conversation.",
-    "createTime": "2025-12-03T23:52:59.812659Z",
-    "updateTime": "2025-12-03T23:52:59.812659Z",
-    "reviewReply": {
-      "comment": "Thank you, R. Patrick Hicks, for sharing your wonderful birthday experience at Whispering Vine! We're delighted to hear you enjoyed the dinner, wine, and conversation. We look forward to welcoming you back for many more special occasions!",
-      "updateTime": "2026-01-12T01:28:37.727982Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkvOBOrTVOV6OT5_ahJPOK8Q1qnWAwYIyfAahJtbv1bwJ9vL7WSQ_HzxzOTG0l36-Jr6zLc1A"
-  },
-  {
-    "reviewId": "AbFvOqn3jCiP_Znyy0IQvLLvLoTtXmrHbNP5ZvQvfyh4O85xqyEBxttlRSljWo5_ZXnNOcPzQluTsw",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVrwAykziU0Br8BWZnwTsVmUSynGDQ6diS8i7vFbfNEli-tPMoE=s120-c-rp-mo-br100",
-      "displayName": "Tim Ruffin"
-    },
-    "starRating": "FIVE",
-    "comment": "Great place to sip a wonderful wine while have a good conversation with close friends!",
-    "createTime": "2025-11-27T01:14:51.764541Z",
-    "updateTime": "2025-11-27T01:14:51.764541Z",
-    "reviewReply": {
-      "comment": "Thank you, Tim! We're so glad you enjoyed sipping wine and sharing great conversations with your friends at Whispering Vine. We look forward to welcoming you back for more memorable moments soon!",
-      "updateTime": "2026-01-12T01:30:48.584355Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqn3jCiP_Znyy0IQvLLvLoTtXmrHbNP5ZvQvfyh4O85xqyEBxttlRSljWo5_ZXnNOcPzQluTsw"
-  },
-  {
-    "reviewId": "AbFvOqlHP9F74EUNJZEQIkSS2oeKKHU-FjrdNsBy9TW8UvzaZxzqUx73kOnlWLwJuM_41owS_8zX",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXsDKjGqGGSOx-U3VOcQ9ycmS5Z4Ae6z9FOuSEV8ACUQKBE0hqS=s120-c-rp-mo-ba2-br100",
-      "displayName": "Sigrid Sattler"
-    },
-    "starRating": "FIVE",
-    "comment": "When I want to have a good time in a comfortable place with good food and wine, I think of the Whispering Vine! I know 100% my friends and I will enjoy a delicious meal in a place with great ambiance! The staff is super nice and attentive. Not once have I had a bad experience and I have dined at Whispering Vine many many times! Give them a try, you won’t be sorry!",
-    "createTime": "2025-11-24T17:17:17.023044Z",
-    "updateTime": "2025-11-24T17:17:17.023044Z",
-    "reviewReply": {
-      "comment": "Thank you, Sigrid, for your glowing 5-star review! We're thrilled to hear that you and your friends always enjoy your time at Whispering Vine. Your support means the world to us, and we can't wait to serve you again soon!",
-      "updateTime": "2025-11-24T19:29:09.171789Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlHP9F74EUNJZEQIkSS2oeKKHU-FjrdNsBy9TW8UvzaZxzqUx73kOnlWLwJuM_41owS_8zX"
-  },
-  {
-    "reviewId": "AbFvOqksKT9WIzabaEfFAE03rfcJpVJ3p9QO3ZTrtra35jIvJ23w4o2WjZdRCSdoSwtSM3YBffxg",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXzVWsb4oLFt2qG05at302hAOaaxd34SxzIXE1SCEgNnQxnp2Y5=s120-c-rp-mo-br100",
-      "displayName": "Phil Barackman"
-    },
-    "starRating": "FIVE",
-    "comment": "Great food, wine, and service.",
-    "createTime": "2025-11-15T19:25:26.184933Z",
-    "updateTime": "2025-11-15T19:25:26.184933Z",
-    "reviewReply": {
-      "comment": "Thanks for the 5-star review, Phil! Can’t wait to have you back at Whispering Vine for another fantastic experience.",
-      "updateTime": "2025-11-24T19:29:39.884410Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqksKT9WIzabaEfFAE03rfcJpVJ3p9QO3ZTrtra35jIvJ23w4o2WjZdRCSdoSwtSM3YBffxg"
-  },
-  {
-    "reviewId": "AbFvOql0NRia6QxGDWjeJSOqmKOl2fiQweZYFneosFggOj7a_zTt_uwW4iqqYnAaelGkrop9y-zp",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWWy7ivEwGxaFiqOotOwMVr7Me8Wd0I0rPnYGL56rGIplAjh3Eb=s120-c-rp-mo-br100",
-      "displayName": "Rita Royer"
-    },
-    "starRating": "FIVE",
-    "comment": "Check this place out!  So much wine, delicious foisted & great service.  See you there!",
-    "createTime": "2025-11-03T01:23:28.138492Z",
-    "updateTime": "2025-11-03T01:23:28.138492Z",
-    "reviewReply": {
-      "comment": "Thanks, Rita, for the glowing 5-star review! We're glad you enjoyed our extensive wine selection, delicious food, and excellent service. We can't wait to see you again soon!",
-      "updateTime": "2025-11-24T19:30:19.297851Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOql0NRia6QxGDWjeJSOqmKOl2fiQweZYFneosFggOj7a_zTt_uwW4iqqYnAaelGkrop9y-zp"
-  },
-  {
-    "reviewId": "AbFvOqlIpU-qY-3yI0BdxhRFu-ue1SKjG6DrhBdrBq3MUSqxWhtKGU4tr7eUvm0UGezIdCSVWnVv",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocICnOWdLytLK-Q0iBnttojtBbLdvdIRnet_7fiAG1KDLNleDQ=s120-c-rp-mo-br100",
-      "displayName": "La Vonne Johnson"
-    },
-    "starRating": "FIVE",
-    "comment": "Had an 80th birthday celebration at Whispering Vine last night.  Food, as well as the service, were great. Always a go to place.",
-    "createTime": "2025-11-01T00:49:37.206386Z",
-    "updateTime": "2025-11-01T00:49:37.206386Z",
-    "reviewReply": {
-      "comment": "Thank you, La Vonne, for choosing Whispering Vine for such a special occasion! We're honored to have been part of the 80th birthday celebration. We're happy to hear that you and your guests enjoyed the food and service, and hope to see you again soon.",
-      "updateTime": "2025-11-01T18:06:08.274735Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlIpU-qY-3yI0BdxhRFu-ue1SKjG6DrhBdrBq3MUSqxWhtKGU4tr7eUvm0UGezIdCSVWnVv"
-  },
-  {
-    "reviewId": "AbFvOqmqhC2zKBhuNPAYtnqGENuX3WsfCpIMAzHEEMb4m53pnApzc6ROv7e7VFdtIublkoOSSu9J",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV295AObJPktYQxWPIqlSExxwRyrnQjMNJ5P6_bKDaAqYU2yOkW6w=s120-c-rp-mo-ba4-br100",
-      "displayName": "Larry Strocchia"
-    },
-    "starRating": "FIVE",
-    "comment": "Great wine deals, good food, great service",
-    "createTime": "2025-09-29T20:51:05.191772Z",
-    "updateTime": "2025-09-29T20:51:05.191772Z",
-    "reviewReply": {
-      "comment": "Thank you, Larry, for the 5-star review! Glad you enjoyed our wine deals, food, and service. Looking forward to welcoming you back to Whispering Vine soon!",
-      "updateTime": "2025-11-01T18:05:02.251952Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmqhC2zKBhuNPAYtnqGENuX3WsfCpIMAzHEEMb4m53pnApzc6ROv7e7VFdtIublkoOSSu9J"
-  },
-  {
-    "reviewId": "AbFvOqmiSil3Zlwka8INnAtr8gJsRV77sTIL6bJtQrgOe_qpNOs7tjYwnF8OpmRRqt0zuJJrMTdt3A",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWYEK_WN6-s44jUlf4__oIC8vYicRlD9sA157b9s2vW58zWXa2f=s120-c-rp-mo-ba3-br100",
-      "displayName": "Melissa CH"
-    },
-    "starRating": "FIVE",
-    "comment": "Whispering Vine is a total gem. Delicious food, great wine, excellent service in a cozy and comfortable atmosphere with excellent service. I love this place!",
-    "createTime": "2025-08-31T13:18:41.725564Z",
-    "updateTime": "2025-08-31T13:18:41.725564Z",
-    "reviewReply": {
-      "comment": "Thank you, Melissa, for the glowing 5-star review! We're thrilled that you enjoy our food, wine, and atmosphere. Your kind words about our service mean the world to us. We can't wait to serve you again on your next visit!",
-      "updateTime": "2025-11-01T18:04:15.591571Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmiSil3Zlwka8INnAtr8gJsRV77sTIL6bJtQrgOe_qpNOs7tjYwnF8OpmRRqt0zuJJrMTdt3A"
-  },
-  {
-    "reviewId": "AbFvOqkm3saYlpeuMHFp4CBt-4a9TvJ-F9Zg7mGHh6LzecqEzR4gG0snhGgvfP5g0fdU5Hvcss9Wcg",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJGjLtav2eO-as0I0LX7CYJ4slFfQJOwrfTEdHBzInBtwyRag=s120-c-rp-mo-ba3-br100",
-      "displayName": "Abraham DeLeon"
-    },
-    "starRating": "FIVE",
-    "comment": "By far my favorite place to eat and have a glass of wine.\n\nPlus if you love wine they have the best prices on the bottle and you can enjoy it with your meal. They beat the price at the store and even the vineyard on most of the wine.",
-    "createTime": "2025-07-13T18:58:48.647182Z",
-    "updateTime": "2025-07-13T18:58:48.647182Z",
-    "reviewReply": {
-      "comment": "Thank you, Abraham, for the glowing 5-star review! We're thrilled to hear that Whispering Vine is your favorite spot to enjoy great food and wine. We pride ourselves on offering an extensive wine selection at unbeatable prices for you to savor with your meal. We look forward to raising a glass with you on your next visit!",
-      "updateTime": "2025-07-15T17:02:01.812380Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkm3saYlpeuMHFp4CBt-4a9TvJ-F9Zg7mGHh6LzecqEzR4gG0snhGgvfP5g0fdU5Hvcss9Wcg"
-  },
-  {
-    "reviewId": "AbFvOqnRHz_5P1FVF_HsB_zwdgiWShRbfWELaMMkoBXMOSH-nL96ptxdCKP88-CNgJDKkuWTeEMdKQ",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVZhMkILB-e3kRhJexXblag0RhlI3hRE_QoqFWxbfiG1MgaglV-=s120-c-rp-mo-ba5-br100",
-      "displayName": "Taner Kiranbay"
-    },
-    "starRating": "FIVE",
-    "comment": "Best wine store and high end food. I think the chef is trained by Loulu's owner Troy.\nFood was impressive.",
-    "createTime": "2025-07-08T02:19:37.798014Z",
-    "updateTime": "2025-07-08T02:19:37.798014Z",
-    "reviewReply": {
-      "comment": "Thanks so much, Taner! We really appreciate the kind words and the photos you shared of the store. It means a lot to hear you enjoyed the food and wine, and we’re glad it made an impression. Hope to see you again soon!",
-      "updateTime": "2025-07-08T16:44:28.509572Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnRHz_5P1FVF_HsB_zwdgiWShRbfWELaMMkoBXMOSH-nL96ptxdCKP88-CNgJDKkuWTeEMdKQ"
-  },
-  {
-    "reviewId": "AbFvOqlD9e9r_dwYJNrCcGExrOjJvVQUHDEHkJeMOGMciMcZ_l0yTlOlTVjesst6EqoZOF-ULjK5HA",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK29bd_g9kktQoXnHF9rA8YwEegHcV3n_Uz_5K0UaV1mNKJCSA=s120-c-rp-mo-ba2-br100",
-      "displayName": "Suzanne Greenwood"
-    },
-    "starRating": "FIVE",
-    "comment": "The veggie burger is really good along with the tater tots. Yum!\nAlso great service and knowledgeable staff about many different wines. 😊👍",
-    "createTime": "2025-06-28T14:33:46.743204Z",
-    "updateTime": "2025-06-28T14:33:46.743204Z",
-    "reviewReply": {
-      "comment": "Thank you, Suzanne! We’re happy to hear you loved the veggie burger and tots, and that our team made a great impression. We appreciate the kind words and can’t wait to have you back for more good food and wine!",
-      "updateTime": "2025-06-29T03:15:40.951414Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlD9e9r_dwYJNrCcGExrOjJvVQUHDEHkJeMOGMciMcZ_l0yTlOlTVjesst6EqoZOF-ULjK5HA"
-  },
-  {
-    "reviewId": "AbFvOqkyTrBzJeka5I8nbIdovO8Qp8Q_0WzbaBdlWUXKZ9RJ5C1Wxh2xdxBVRfZ0PaLj_FFkPs-PAg",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX0jNEaamylLJ_A07Mar5m9NHyw1pKa8pTZ-z6dPSgM0xbIqX988Q=s120-c-rp-mo-ba5-br100",
-      "displayName": "Karen McPherson"
-    },
-    "starRating": "FIVE",
-    "comment": "First time here after moving to Spanish Springs. Just 🩷 the Whispering Vine. This is our go-to to purchase bottles of wine. However, decided to stop and have dinner. Fantastic food with a wonderful view. You can make your reservation online and choose either the patio, the dining room, or our favorite window view.\nHighly recommend the bison sliders and mushroom flatbread.",
-    "createTime": "2025-06-28T02:40:53.672272Z",
-    "updateTime": "2025-06-28T02:44:05.228857Z",
-    "reviewReply": {
-      "comment": "Thank you, Karen! We’re so glad you found us and made the stop for dinner. It means a lot to hear we’re your go-to for wine, and we’re thrilled you enjoyed the food and view. Great pic of the view from the windows! We look forward to seeing you again soon!",
-      "updateTime": "2025-06-29T03:14:55.793850Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkyTrBzJeka5I8nbIdovO8Qp8Q_0WzbaBdlWUXKZ9RJ5C1Wxh2xdxBVRfZ0PaLj_FFkPs-PAg"
-  },
-  {
-    "reviewId": "AbFvOqkFkBPmEn2YNIZqxUp7CEL9E3AiDV-Aq5KVE0bmJebK4kg6K4C4qxG9qe6RmvlDgLIbX4S-Fg",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWsn-HQyi5dqfwveQ_qy1WiQh7P279pZHz7S0H-BTjU2JKn6g2W=s120-c-rp-mo-br100",
-      "displayName": "Serafina Devincenzi"
-    },
-    "starRating": "FIVE",
-    "comment": "Best neighborhood feel spot for a really delicious bite and a solid glass of wine. Cocktails are yummy too! When the weather is nice, the patio is the best spot for dinner (reservations can be done online or over the phone and you can ask for the patio or whatever you prefer!)",
-    "createTime": "2025-06-12T18:18:30.617465Z",
-    "updateTime": "2025-06-12T18:18:30.617465Z",
-    "reviewReply": {
-      "comment": "Thanks for the kind words Serafina! Glad you love the food, wine, and cocktails. The patio is indeed a fan favorite when the weather is nice! We appreciate your tips on reservations too. I am sure we will see you again very soon ;)",
-      "updateTime": "2025-06-18T01:14:08.431797Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkFkBPmEn2YNIZqxUp7CEL9E3AiDV-Aq5KVE0bmJebK4kg6K4C4qxG9qe6RmvlDgLIbX4S-Fg"
-  },
-  {
-    "reviewId": "AbFvOqk01yAs5GKV8dYbJQcQqR9KpaKTiBd4vGWecANRhx4D3cC_KkdLBeN-jFWX3dYMl_DHfTxPcQ",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV4EBY1ptihxDcyLWx2bOF620VxUzjUWMmTk96RkvrE3R_Zeyk=s120-c-rp-mo-ba4-br100",
-      "displayName": "Laura Furumoto"
-    },
-    "starRating": "FIVE",
-    "comment": "My new favorite salad in town! Burrata, feta, asparagus and snap peas...lemony creamy cool goodness.",
-    "createTime": "2025-06-04T23:03:26.617614Z",
-    "updateTime": "2025-06-04T23:03:26.617614Z",
-    "reviewReply": {
-      "comment": "Thanks, Laura! Glad that the new Spring Panzanella salad has become your new favorite. See you next time!",
-      "updateTime": "2025-06-05T23:28:03.218311Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk01yAs5GKV8dYbJQcQqR9KpaKTiBd4vGWecANRhx4D3cC_KkdLBeN-jFWX3dYMl_DHfTxPcQ"
-  },
-  {
-    "reviewId": "AbFvOqmbOwg4fSthuOzB-UDojk2-7bJaZpZyx-WVWH6pE_5ASMMaGgAchotgRgmsmhKDYM-UDd6LuQ",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWVk5SMRWoefzZI2dHf1UGcAwhX5SuhfSFSAz4E8DVRtKt1Fvx0=s120-c-rp-mo-ba2-br100",
-      "displayName": "Harry B. Miller III"
-    },
-    "starRating": "FOUR",
-    "comment": "Love this place. Excellent atmosphere, service. Food is good, but I wish they’d update/ refresh the food menu. Maybe add some specials. Will definitely return with my family.",
-    "createTime": "2025-05-31T03:18:13.946555Z",
-    "updateTime": "2025-05-31T03:18:13.946555Z",
-    "reviewReply": {
-      "comment": "Harry, thank you for the kind words and for being a fan of the atmosphere and service! We really appreciate your feedback on the menu. In fact, we just recently added a few new dishes, including a Spring Panzanella Salad and a Shrimp Scampi Flatbread—if you haven’t had a chance to try them yet, we’d love for you to come back and give them a shot. Thanks again for the support, and we look forward to welcoming you and your family back soon!",
-      "updateTime": "2025-05-31T20:06:05.038444Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmbOwg4fSthuOzB-UDojk2-7bJaZpZyx-WVWH6pE_5ASMMaGgAchotgRgmsmhKDYM-UDd6LuQ"
-  },
-  {
-    "reviewId": "AbFvOqmB0fnBVseYq2PRZYpwVLiDBsUUYB31Z--5mb_dYbvgSPp4s2ibe51NYMLxghN63l1sBvWTkg",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLqd6X-UlCwfdnJli9mQ3LZ-hYwYE1F7AGRJrd0gNhdub8enA=s120-c-rp-mo-ba4-br100",
-      "displayName": "Shawn Sabloff"
-    },
-    "starRating": "FIVE",
-    "comment": "Great place to meet friends for a drink and have a some light fare before heading out. Plus why not grab a hard to find treat on the way out?",
-    "createTime": "2025-05-24T12:11:54.361452Z",
-    "updateTime": "2025-05-24T12:11:54.361452Z",
-    "reviewReply": {
-      "comment": "Thanks for the 5-star review, Shawn! We're glad you enjoy Whispering Vine as a gathering spot to meet friends and enjoy a drink with some light fare. We hope to see you again soon for another delightful experience!",
-      "updateTime": "2025-05-24T17:58:20.090047Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmB0fnBVseYq2PRZYpwVLiDBsUUYB31Z--5mb_dYbvgSPp4s2ibe51NYMLxghN63l1sBvWTkg"
-  },
-  {
-    "reviewId": "AbFvOqm7SienSEJQ0s0vzh8V7BS3IbT9V6WmV-bq1YGJeiKjGL0OyKXo_l4afyHN2I0JnBvwowp9xw",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUvlWQ44vN9d8UiG3tUwKR-3fhtYKaw5zBb3QuxWSif0ZgF0FtoIw=s120-c-rp-mo-ba5-br100",
-      "displayName": "S. Park"
-    },
-    "starRating": "FIVE",
-    "comment": "I took a friend visiting from Vegas. She was charmed by the place, along with their creative drinks, dishes, and friendly staff. I had a great time and realized that you don't have to drink wine to enjoy the place.",
-    "createTime": "2025-05-07T15:45:22.898653Z",
-    "updateTime": "2025-05-07T15:45:22.898653Z",
-    "reviewReply": {
-      "comment": "Thanks for the 5-star review, S. Park! We're delighted to hear that both you and your friend had such a wonderful experience at Whispering Vine. It is our goal to make sure that all of our guests, regardless of their drink preferences, feel welcome and have a fantastic time. We can't wait to see you both on your next visit!",
-      "updateTime": "2025-05-07T18:12:25.788846Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqm7SienSEJQ0s0vzh8V7BS3IbT9V6WmV-bq1YGJeiKjGL0OyKXo_l4afyHN2I0JnBvwowp9xw"
-  },
-  {
-    "reviewId": "AbFvOqm_tMMtlW7bkz3YrG04fnAW01sOkXlEob-GGdjm5khglS30MDnSZfJyYp-qmWS_6YfQvb5BHA",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV_OfnRy5izPjWyjfPobsJmT50c1ACS2_VbB6om9zWnahjn9cGN=s120-c-rp-mo-ba3-br100",
-      "displayName": "Denise G"
-    },
-    "starRating": "FIVE",
-    "comment": "I live in Sacramento and come here to see my sister and her husband this is our spot. We love it here. The food is amazing. The wine is amazing.The atmosphere.Is amazing",
-    "createTime": "2025-04-29T01:24:18.779774Z",
-    "updateTime": "2025-04-29T01:24:18.779774Z",
-    "reviewReply": {
-      "comment": "Thank you, Denise, for your glowing 5-star review! We're honored that you choose Whispering Vine as your go-to spot when visiting your sister and her husband. We're thrilled that you love our food, wine, and atmosphere, and we can't wait to serve you again on your next visit!",
-      "updateTime": "2025-04-29T02:27:43.464081Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqm_tMMtlW7bkz3YrG04fnAW01sOkXlEob-GGdjm5khglS30MDnSZfJyYp-qmWS_6YfQvb5BHA"
-  },
-  {
-    "reviewId": "AbFvOqnfiZs64VNQPs1Tb99ikk_c2mjgPr9sFYzu0R0SRZCBIeb5_NeSXPlGaJah7aNl0RZLp3XoSg",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUxZZmjIibL0zLRENfBOG0Gu01T4h0j_YSlhGwzVZJfEE1RqKAR=s120-c-rp-mo-br100",
-      "displayName": "Edwin van Doorn"
-    },
-    "starRating": "FIVE",
-    "comment": "We visited Whispering Vine a couple of times when we stay with family in Reno. We fell in love with the place! It’s a great place to go for a glass of wine or food and they have a great selection of wines and spirits. It’s definitely worth checking out!!!",
-    "createTime": "2025-04-26T17:54:02.876505Z",
-    "updateTime": "2025-04-26T17:54:02.876505Z",
-    "reviewReply": {
-      "comment": "Thanks for the 5-star review, Edwin! We're delighted to hear that you've fallen in love with Whispering Vine and consider us a must-visit spot when you're in Reno. Our extensive selection of wines and spirits is something we take great pride in, and we're glad you enjoy it too!\n\nYour positive feedback means the world to us, and we hope to see you again the next time you're in town.",
-      "updateTime": "2025-04-27T17:29:26.418949Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnfiZs64VNQPs1Tb99ikk_c2mjgPr9sFYzu0R0SRZCBIeb5_NeSXPlGaJah7aNl0RZLp3XoSg"
-  },
-  {
-    "reviewId": "AbFvOqnSq_kdzsmX8MPe552VitB-MbH-29vo9NWmNbvP1u2QrgakUXtTyEc5c0jgPmv9WsVrBhpYqQ",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX_cN_E7xC-n50slr1zEiiVsuRuJgQQlGNuSo943WVAjTD12aGEFQ=s120-c-rp-mo-ba2-br100",
-      "displayName": "Rebecca LaBelle"
-    },
-    "starRating": "FIVE",
-    "comment": "So much fun. Great atmosphere, service, and food.\nThe atmosphere was intimate and cozy. There were 4 of us and we had everything- it was\n$$$.",
-    "createTime": "2025-03-31T19:36:13.422350Z",
-    "updateTime": "2025-03-31T19:36:13.422350Z",
-    "reviewReply": {
-      "comment": "Thank you, Rebecca, for your glowing 5-star review! We're thrilled to hear that you and your group enjoyed the intimate atmosphere, excellent service, and fantastic food. We can't wait to have you back for another fun night out!",
-      "updateTime": "2025-03-31T20:18:15.058541Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnSq_kdzsmX8MPe552VitB-MbH-29vo9NWmNbvP1u2QrgakUXtTyEc5c0jgPmv9WsVrBhpYqQ"
-  },
-  {
-    "reviewId": "AbFvOqmaTSk4x5qBQC1s6aJBFTmqOxwiplW7x7IBdkHpuaj4wdPvwTv_nEtacDXkCNByEgH4C1m3Yg",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXF_jg6n3g3sd2hw-9icVaB2OQ4-5NKJaCt0EbWFFUEBWi1yqk=s120-c-rp-mo-ba3-br100",
-      "displayName": "Joseph Snider"
-    },
-    "starRating": "FIVE",
-    "comment": "love this place",
-    "createTime": "2025-02-19T19:46:59.796869Z",
-    "updateTime": "2025-02-19T19:46:59.796869Z",
-    "reviewReply": {
-      "comment": "Thank you for the 5-star review, Joseph! We're glad to hear you love Whispering Vine. We can't wait to have you back for another great experience!",
-      "updateTime": "2025-03-27T05:11:04.333207Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmaTSk4x5qBQC1s6aJBFTmqOxwiplW7x7IBdkHpuaj4wdPvwTv_nEtacDXkCNByEgH4C1m3Yg"
-  },
-  {
-    "reviewId": "AbFvOqkZEOrG8PGxu1REY6SeIrkaiB8MOQBapoIRn2GbllC63qlE-N3mGu6DMyoUsFHrHJ9-_RVB",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLJHztJKlzfraVn4oV9HAzDk1Njol3pVMBdUcSTTQs95lqRCA=s120-c-rp-mo-br100",
-      "displayName": "Scott Gillmore"
-    },
-    "starRating": "FIVE",
-    "comment": "Been there 3 times and every time it's been excellent. Good service, great food, and excellent wine at very good prices. The meatballs are 🤌🏻💋.",
-    "createTime": "2025-01-07T03:43:58.189056Z",
-    "updateTime": "2025-01-07T03:43:58.189056Z",
-    "reviewReply": {
-      "comment": "Thanks for the 5-star review, Scott! We appreciate your support and are thrilled to hear that you’ve enjoyed each of your three visits with us. We strive to provide excellent service, delicious food, and an impressive wine selection at great prices. We’re glad to hear that our meatballs have earned your seal of approval—they’re a favorite of ours, too! We look forward to seeing you again soon and making your next visit just as memorable.",
-      "updateTime": "2025-03-27T05:21:16.403985Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkZEOrG8PGxu1REY6SeIrkaiB8MOQBapoIRn2GbllC63qlE-N3mGu6DMyoUsFHrHJ9-_RVB"
-  },
-  {
-    "reviewId": "AbFvOqlI4LfauV6590eNVYkyqd0xTSqA4juMgEPSktfRiTWUzWZueZ219lNA3EPY_yz1SJGtjGgdhw",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVIeOp77ehWaYhxgjGJcKb1mcus0z2KEMhVWoIA_-u4EpbUC6iPcg=s120-c-rp-mo-ba6-br100",
-      "displayName": "Matthew P"
-    },
-    "starRating": "FIVE",
-    "comment": "Loved Whispering Vine!\n\nHad the grilled cheese and wine - so yummy!",
-    "createTime": "2024-12-22T05:55:57.429501Z",
-    "updateTime": "2024-12-22T05:56:15.718661Z",
-    "reviewReply": {
-      "comment": "Thanks for the 5-star review, Matthew! We're glad you loved Whispering Vine, and we appreciate your feedback. Our grilled cheese is a fan favorite, and we're thrilled to hear you enjoyed it with a nice glass of wine. Looking forward to your return!",
-      "updateTime": "2025-03-27T05:22:25.103880Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlI4LfauV6590eNVYkyqd0xTSqA4juMgEPSktfRiTWUzWZueZ219lNA3EPY_yz1SJGtjGgdhw"
-  },
-  {
-    "reviewId": "AbFvOqk4EkFkRtysOhu9f7yFl9reWQSOrF_z8VqPBeTYWK_39mq_CjYF__ea7ACYN__OkpYlSfmj",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX1NFaA23VVZLuQ-BReTYZ7PTv-n2z8yl3mBFQrYKTHOA2rRLw=s120-c-rp-mo-ba4-br100",
-      "displayName": "Arniceous Maximus"
-    },
-    "starRating": "FIVE",
-    "comment": "A nice wine bar , they have some nice bottles for sale as well, glass size is generous glasses are not very big however. Some staff are new others more seasoned . Nice private areas in the cellar . The flights do not change often and contain wines that they want to sell some are not always what I would choose . Wines by the glass as well as by the bottle prices are reasonable. Food menu looked good but we did not try. Close to my location and making it a regular hang out .\n\nSince my last review I have frequently dropped in. Hot food is not served till 4pm, however nice dishes are being served. Wine prices are very reasonable considering Reno prices have sored sky high in the past few years.  The atmosphere is charming an older building formerly known as the glory hole a steak house, with a hint of contemporary flare. Patio is nice in spring through autumn and gets pretty noisy in the evenings as many come from all over. Sunday they are closed sad but true. Try them any other day you will be happy you did if you are looking for a cool wine shop with very friendly and knowledgeable staff.",
-    "createTime": "2022-03-13T18:44:09.202288Z",
-    "updateTime": "2025-03-27T06:44:52.994926Z",
-    "reviewReply": {
-      "comment": "Arniceous, Thank you for taking the time to check us out and give us a review. We think our 8oz pours are generous, but you can always just grab a bottle, with no corkage fee. Our 9oz flights are rotated weekly at our 4th Street location. We hope you return to try our food menu, the burger and truffle tots are a favorite. Cheers!",
-      "updateTime": "2022-03-30T00:24:39.728654Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk4EkFkRtysOhu9f7yFl9reWQSOrF_z8VqPBeTYWK_39mq_CjYF__ea7ACYN__OkpYlSfmj"
-  },
-  {
-    "reviewId": "AbFvOqk5UZMJSmRHEsrVdTX8fmVyB6Oaq5wqnRYjjwiD0fOJB5zAJQv8gp-yWG_18uLwQ-1fhVr-eA",
-    "reviewer": {
-      "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWI-jC_vx66Iy8-53dS8P0Kj0Z1dVFtpLVTt3AEopK7ahkkR18=s120-c-rp-mo-ba4-br100",
-      "displayName": "Dani Rhoda"
-    },
-    "starRating": "FIVE",
-    "comment": "Lovely place to go peruse wines and spirits, and enjoy some fantastic food.  Excellent selection of wines that are reasonably priced. If you’re more of a spirit person, they have some interesting bottles to consider. With a full bar, they can accommodate anyone with wine, beer, or cocktails. The portions are on the small side, but the food is oh so delicious. Reservations are highly recommended. It tends to be very loud so request the tall tables by the window for a slightly quieter experience.  During the summer the patio is nice.",
-    "createTime": "2019-04-09T00:59:21.322206Z",
-    "updateTime": "2025-04-10T19:22:20.656451Z",
-    "reviewReply": {
-      "comment": "Dani, how can we improve our rating with you? We strive to be the best and love knowing how we can improve! f",
-      "updateTime": "2019-04-25T19:17:07.834123Z"
-    },
-    "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk5UZMJSmRHEsrVdTX8fmVyB6Oaq5wqnRYjjwiD0fOJB5zAJQv8gp-yWG_18uLwQ-1fhVr-eA"
+  "south_creek": {
+    "locationId": "13161654569190612682",
+    "reviews": [
+      {
+        "reviewId": "AbFvOqm8aMV0D6-TMhi4od_PQ_6CKa7VeYvl96_JRCQG_656jY9PCvpVudFMKvJUhCoURwHs12GDEA",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJdbCRC0EuKltwNDpfH80OawDZuzPXwEfpAONw2pAgwz2FmHA=s120-c-rp-mo-ba6-br100",
+          "displayName": "Jim English"
+        },
+        "starRating": "FIVE",
+        "comment": "Great service and selection",
+        "createTime": "2025-11-08T19:14:44.731157Z",
+        "updateTime": "2025-11-08T19:14:44.731157Z",
+        "reviewReply": {
+          "comment": "Thanks, Jim! We're glad you enjoyed our great service and selection. We're looking forward to seeing you next time you're in the mood for fantastic food and drinks",
+          "updateTime": "2025-11-24T19:29:58.506691Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqm8aMV0D6-TMhi4od_PQ_6CKa7VeYvl96_JRCQG_656jY9PCvpVudFMKvJUhCoURwHs12GDEA"
+      },
+      {
+        "reviewId": "AbFvOqnAKPLtjK66amr_ze4rSR1rx7AkCTz0h8xF8YWzmSdB_jbxkcKvgBeY5ODKLVrRi7ZVSeLHlw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUG6rIzZYdY4wENPaY3LbXQbyKEE9ze8skyqHEWm5Skmwej-XODJQ=s120-c-rp-mo-ba4-br100",
+          "displayName": "Ms. L."
+        },
+        "starRating": "FIVE",
+        "comment": "Mmmm. They have some delicious stuff here! Trying to post a picture of the two I recommend trying but it's not working. I'll update soon.",
+        "createTime": "2025-01-07T15:11:13.671530Z",
+        "updateTime": "2025-01-07T15:27:45.048323Z",
+        "reviewReply": {
+          "comment": "Thank you so much for your 5-star review, Ms. L! We are looking forward to your next visit.",
+          "updateTime": "2025-06-06T00:07:32.964282Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqnAKPLtjK66amr_ze4rSR1rx7AkCTz0h8xF8YWzmSdB_jbxkcKvgBeY5ODKLVrRi7ZVSeLHlw"
+      },
+      {
+        "reviewId": "AbFvOqlgJgOAYtIC66Sja8fLWFOQRFHQU_L3Mw90NgD-6pJdamJNx2cTphZls8nBL_dmFkR4w-lYFw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocI3K6N6u5Aj7XrLepBpQ2F9Y0haVDY5rorIy4UZrN_EzO2d5wQ=s120-c-rp-mo-ba2-br100",
+          "displayName": "Cameron Evans"
+        },
+        "starRating": "FIVE",
+        "comment": "Jordan is the best! She recommends really good wines within a reasonable price range. She’s friendly, prompt, and took care of our dogs. I highly recommend this place, especially Jordan!!",
+        "createTime": "2024-10-22T23:02:10.596808Z",
+        "updateTime": "2024-10-22T23:02:10.596808Z",
+        "reviewReply": {
+          "comment": "Thank you so much for the 5-star review, Cameron! We're thrilled to hear that Jordan made your experience so enjoyable. It's wonderful that she could help you find great wines within your price range and take such good care of your dogs too! We can't wait to welcome you back for more amazing moments at Whispering Vine!",
+          "updateTime": "2024-10-22T23:43:19.167399Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqlgJgOAYtIC66Sja8fLWFOQRFHQU_L3Mw90NgD-6pJdamJNx2cTphZls8nBL_dmFkR4w-lYFw"
+      },
+      {
+        "reviewId": "AbFvOqmgH4AZPd-sKi7fzsWctNBC3Au3beqSXg9DOL9R-3hKwr949cU2tHx-_disi__jCA09Amjj",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW1mv-W_ztyqwDqJFaylkPlz5EAAJTgSVv5m0OxkSIZbl4FWBmM=s120-c-rp-mo-br100",
+          "displayName": "graysen labrie"
+        },
+        "starRating": "FIVE",
+        "comment": "This is my fav place ever ! The patio is perfect and the location is awesome. I’m sad they close so early and the bartenders are pretty strict on it. But the owners son is super nice and friendly. Glad to know it’s in such good hands.",
+        "createTime": "2024-04-03T05:01:58.149114Z",
+        "updateTime": "2024-04-03T05:01:58.149114Z",
+        "reviewReply": {
+          "comment": "Thank you, Graysen, for your wonderful review! We're thrilled to hear that Whispering Vine is your favorite spot and that you enjoy our perfect patio and awesome location. We appreciate your feedback regarding our closing time, and we'll take it into consideration. We're delighted to hear you had a positive interaction with the owner's son. Looking forward to welcoming you back soon!",
+          "updateTime": "2024-04-03T05:09:21.987805Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmgH4AZPd-sKi7fzsWctNBC3Au3beqSXg9DOL9R-3hKwr949cU2tHx-_disi__jCA09Amjj"
+      },
+      {
+        "reviewId": "AbFvOqkDK7fX5M6nts_OzaSnw_s1TeQIrtIplhCQQ-dqzvJeqhwnKHwnituPwgMb7z7q3-1RjZGmnQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWtn7qn51-RGwdGmz9m4w0j1FbTWgkucAr7nJe-IwIdpINMx9E=s120-c-rp-mo-ba2-br100",
+          "displayName": "Shirley P"
+        },
+        "starRating": "FIVE",
+        "comment": "Best prices, and selection!!",
+        "createTime": "2023-11-17T17:46:04.856764Z",
+        "updateTime": "2023-11-17T17:46:04.856764Z",
+        "reviewReply": {
+          "comment": "Shirley, Thank you for taking the time to rate and review us! We look forward to your return!",
+          "updateTime": "2023-11-28T17:10:22.554821Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkDK7fX5M6nts_OzaSnw_s1TeQIrtIplhCQQ-dqzvJeqhwnKHwnituPwgMb7z7q3-1RjZGmnQ"
+      },
+      {
+        "reviewId": "AbFvOqn933BZcVSlHZVMYeNDMP2JfkXZfsyiha37KuENEzvGdmmDg6Rwe_kDoeUfmJMS41z4zB5q",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVq5R_dVy30DE1kLJW8PowtKEGgNhMIz5kWJ4JOhAeVIe1n2BDk=s120-c-rp-mo-ba4-br100",
+          "displayName": "Melanie Rose Osborne"
+        },
+        "starRating": "FIVE",
+        "comment": "Live this place",
+        "createTime": "2023-06-25T01:17:38.141176Z",
+        "updateTime": "2023-06-25T01:17:38.141176Z",
+        "reviewReply": {
+          "comment": "Melanie - Thank you for taking the time to rate and review us! We look forward to your return!",
+          "updateTime": "2023-06-28T20:32:11.128129Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqn933BZcVSlHZVMYeNDMP2JfkXZfsyiha37KuENEzvGdmmDg6Rwe_kDoeUfmJMS41z4zB5q"
+      },
+      {
+        "reviewId": "AbFvOqky4SGDSjR2B_pQuyQ5B14w5TXzAsLU3vdAcR6HRyNaUqZ8ty2TEmWGHd2tLaRbxoQclqTWZQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWFM3vFdus1I9oIB9r0hbWou5eU4ivKkQXOE_AXg5hV3-uTQQACIw=s120-c-rp-mo-ba5-br100",
+          "displayName": "Carlos Ulloa"
+        },
+        "starRating": "FIVE",
+        "comment": "Fantastic wine bar with great beer selection as well. Traveling from Texas, so glad we were able to enjoy some delicious juice. Friendly staff, great pricing on their wines. .",
+        "createTime": "2023-04-20T21:25:38.555648Z",
+        "updateTime": "2023-04-20T21:25:38.555648Z",
+        "reviewReply": {
+          "comment": "Carlos - Thank you for stopping by while you were in town! \nWe appreciate your kind words and taking the time to leave us a great 5 star review!",
+          "updateTime": "2023-04-20T21:49:55.719672Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqky4SGDSjR2B_pQuyQ5B14w5TXzAsLU3vdAcR6HRyNaUqZ8ty2TEmWGHd2tLaRbxoQclqTWZQ"
+      },
+      {
+        "reviewId": "AbFvOqkZUjmcYBPnCshVb8as1L_Iz4HubMjC2xf7FSmSv0UR4_w_ETT0Y6y1M8WS8KFkRt5lZ4IDbQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXYEbJLgdkhjZv7eRoZTf5pls9dXlSwTI-wy5tdHa8brbsFygbELQ=s120-c-rp-mo-ba3-br100",
+          "displayName": "Laura Balogh"
+        },
+        "starRating": "FIVE",
+        "comment": "One of my favorite South Reno watering holes! Great place to grab a glass of wine after work or a weekend cocktail outside. The staff is friendly and knowledgeable. Not sure what you want? They have both wine and bubbles flights! They also always have a great seasonal cocktail menu. You can also buy wine and champagne by the bottle to go, and their prices are hard to beat!",
+        "createTime": "2023-04-16T14:15:50.560337Z",
+        "updateTime": "2023-04-16T14:28:58.219421Z",
+        "reviewReply": {
+          "comment": "Laura, Thank you for your amazing 5 star review! We are so grateful for your patronage and kind words. We look forward to your return for a paloma or 2.",
+          "updateTime": "2023-04-20T21:50:48.120226Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkZUjmcYBPnCshVb8as1L_Iz4HubMjC2xf7FSmSv0UR4_w_ETT0Y6y1M8WS8KFkRt5lZ4IDbQ"
+      },
+      {
+        "reviewId": "AbFvOqniPWSTJ21qzQ56-5Jms6wRTVZyq1QLmtXSsz7cu_ojny4AN_bNbdZE3I6bQdnuNCrgnnH4uQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK6Dnll8gaQIrw625T3q7mE0Y6dXyeMXaSJHt7xdsbhmD6qUA=s120-c-rp-mo-ba3-br100",
+          "displayName": "Liz Sellstrom"
+        },
+        "starRating": "FIVE",
+        "comment": "They were very friendly and helpful. A great place to relax, try some wines and pick something out for a special occasion or just to find something nice for at home 😉\n\nThey also have a variety of beers and harder stuff if you're looking for more than wine to enjoy on site or buy.\n\nThey have a few snacks on site but also allow food to be brought in to enjoy while you either taste test a sampler or enjoy your full glass of choice.\n\nAlso a perfect start to a date night😉",
+        "createTime": "2022-12-30T18:37:59.545643Z",
+        "updateTime": "2022-12-30T18:40:55.952759Z",
+        "reviewReply": {
+          "comment": "Liz, thank you for taking the time to leave us a 5 star review! We look forward to your return for all of the occasions!",
+          "updateTime": "2023-01-19T00:13:59.192513Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqniPWSTJ21qzQ56-5Jms6wRTVZyq1QLmtXSsz7cu_ojny4AN_bNbdZE3I6bQdnuNCrgnnH4uQ"
+      },
+      {
+        "reviewId": "AbFvOqkh4sAMk8Yc-hdNXs4e3kDYL8Gk-yKY81k9FyWUEt49wAmt92PLNs-LOR_ww9mNbF0qeaN7ww",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLxs1vyNNVgXQtsqQych_90h0uWFILjehbU76Ht17Vo6ZhC2A=s120-c-rp-mo-ba4-br100",
+          "displayName": "Ryan Baskharoon"
+        },
+        "starRating": "FIVE",
+        "comment": "If you haven't been here before, they have an amazing selection of wine and alcohol. I highly recommend coming here and enjoying their wine.",
+        "createTime": "2022-12-06T22:28:44.724667Z",
+        "updateTime": "2022-12-06T22:28:44.724667Z",
+        "reviewReply": {
+          "comment": "Ryan, Thank you for taking the time to leave us a 5 star review. We look forward to your return to all locations!",
+          "updateTime": "2023-03-07T19:52:19.988699Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkh4sAMk8Yc-hdNXs4e3kDYL8Gk-yKY81k9FyWUEt49wAmt92PLNs-LOR_ww9mNbF0qeaN7ww"
+      },
+      {
+        "reviewId": "AbFvOqkAbIdrOMwqWNosh0rqRAFQ-lxKGTaJc2i0TRRTKXBO6NXzqCJOlQzro2Opee7c4RD0-P0q7A",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL_8AXqTKBIpNMdgS3fz1XUR1nID1ivxEdoBEM91Mdu9ajTFQ=s120-c-rp-mo-ba3-br100",
+          "displayName": "Blake D'Amico"
+        },
+        "starRating": "FIVE",
+        "comment": "Calm quiet atmosphere, a warm and inviting front room, spacious outdoor seating, and wonderful staff. Great place for an afternoon drink with friends.",
+        "createTime": "2022-05-21T01:50:10.775564Z",
+        "updateTime": "2022-05-21T01:50:59.808426Z",
+        "reviewReply": {
+          "comment": "Hi Blake,\n\nThank you for stopping by our location in SouthCreek and taking the time to leave us a review! We're glad you enjoyed our selection and atmosphere. We appreciate your feedback and look forward to seeing you again soon.\n\nCheers!\nWhispering Vine",
+          "updateTime": "2022-05-23T22:07:52.275427Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkAbIdrOMwqWNosh0rqRAFQ-lxKGTaJc2i0TRRTKXBO6NXzqCJOlQzro2Opee7c4RD0-P0q7A"
+      },
+      {
+        "reviewId": "AbFvOqnrx6TSS944NzTlnwff_NcGI-x_fLSPanIQ_AZvCN6OMo3GAwI-ZbQ9m_Q-aQ5x-zPAMeXPSg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocI91xYYQjiGlZJ1z3ofoEfdGOIQgvB9UybuMHESJVuRVCJ64w=s120-c-rp-mo-ba4-br100",
+          "displayName": "Susan Long"
+        },
+        "starRating": "FIVE",
+        "comment": "My first time here.. I come from wine COUNTRY.. This place is a find! Atmosphere and customer service ..the whole ENCHILADA.. It's a MUST ..",
+        "createTime": "2022-04-01T00:28:09.856624Z",
+        "updateTime": "2022-04-01T00:28:09.856624Z",
+        "reviewReply": {
+          "comment": "Susan, Thank you so much for taking the time to rate and review us! We are so happy you enjoyed \"the\nwhole ENCHILADA\". We look forward to your return!",
+          "updateTime": "2022-04-07T17:18:08.322128Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqnrx6TSS944NzTlnwff_NcGI-x_fLSPanIQ_AZvCN6OMo3GAwI-ZbQ9m_Q-aQ5x-zPAMeXPSg"
+      },
+      {
+        "reviewId": "AbFvOqmqPu1RWWk7v3pLjM91rYja6m7uuhLrFkOXsaytZ_GnrDDZWHg6jp4VFkYQiu-eoGOcd6pOtA",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV9awQm-UoassaeVV73PFBNzjP-ku1EwkEYXFeeiuZUNlBpwL39=s120-c-rp-mo-ba5-br100",
+          "displayName": "Mary Kusiek"
+        },
+        "starRating": "FIVE",
+        "comment": "First time at this Whispering Vine. The one on 4th street is better, in my opinion.  The layout at this one is harder to maneuver. Service was extremely slow. At one point I walked up to the bar to get our own drinks and the bartender assured me she would take the drinks to our table outdoors.  Not to my liking.",
+        "createTime": "2021-05-01T23:59:06.287043Z",
+        "updateTime": "2021-05-01T23:59:06.287043Z",
+        "reviewReply": {
+          "comment": "Mary, Thank you for taking the time to review us! We apologize for the slow service, (you must of caught us on an off day as we take great pride in our friendly, and timely service). Due to current covid restrictions, at this time there is no bar ordering. We thank you for your patronage, and we will see you again at 4th!",
+          "updateTime": "2021-05-04T16:15:32.216362Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmqPu1RWWk7v3pLjM91rYja6m7uuhLrFkOXsaytZ_GnrDDZWHg6jp4VFkYQiu-eoGOcd6pOtA"
+      },
+      {
+        "reviewId": "AbFvOqmWOc7JcCNHDqhfebbm03wcZzWj9FEu2sj4RuOi1JweePipLwU_-mtCT4mMrHlwXiedqn-Ynw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWl_eOeoS4j8AfBVnyWoGOfNcBSjK4nLNN5abaG_GGaJgdOB7oDxg=s120-c-rp-mo-ba6-br100",
+          "displayName": "Thomas Hallén"
+        },
+        "starRating": "FIVE",
+        "comment": "Really nice place. Super inexpensive sine you just drink one of the wine bottles they sell.",
+        "createTime": "2021-03-04T02:55:51.920978Z",
+        "updateTime": "2021-03-04T02:55:59.361619Z",
+        "reviewReply": {
+          "comment": "Thomas, thank you for taking the time to give us a review! We look forward to your return!",
+          "updateTime": "2021-04-14T00:38:33.948450Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmWOc7JcCNHDqhfebbm03wcZzWj9FEu2sj4RuOi1JweePipLwU_-mtCT4mMrHlwXiedqn-Ynw"
+      },
+      {
+        "reviewId": "AbFvOqn63CfMrmFiUvLSYoZm4rFW6e5XKPsODbWwKkoqOxtR_K01M7-W_B1dsVf7AighF78W90aUlg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX49llSgUZRP7ZFoDehjbhaU97KwWWz6q-SNGam_5voTLjUtQYKNg=s120-c-rp-mo-ba3-br100",
+          "displayName": "Lonesome Dove"
+        },
+        "starRating": "FIVE",
+        "comment": "Friendly and helpful service; very clean environment 👌",
+        "createTime": "2021-01-24T18:34:22.908579Z",
+        "updateTime": "2021-01-24T18:34:36.719923Z",
+        "reviewReply": {
+          "comment": "Thank you for taking the time to give us a review! We look forward to your return!",
+          "updateTime": "2021-04-14T00:38:42.075595Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqn63CfMrmFiUvLSYoZm4rFW6e5XKPsODbWwKkoqOxtR_K01M7-W_B1dsVf7AighF78W90aUlg"
+      },
+      {
+        "reviewId": "AbFvOqlncCfwdsfZcfmKd3BY4GrquQpK8UOWDdEpYl1XsUZAL4l77A7gWso98gK2PoEnwBDyRBV4vw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIiyNUumpc5IUdki4EYGUScX8l7oOnUDkjmc602hIBvbZzgvg=s120-c-rp-mo-ba5-br100",
+          "displayName": "Linda Allen"
+        },
+        "starRating": "FOUR",
+        "comment": "Shared a nice bottle of wine on the patio. Server was first day back from COVID time so was not as good of service as usual.",
+        "createTime": "2020-06-26T17:03:52.942949Z",
+        "updateTime": "2020-06-26T17:04:46.075041Z",
+        "reviewReply": {
+          "comment": "Linda, Thank you for taking the time to review us! We look forward to giving you speedier service next time you are in!",
+          "updateTime": "2020-07-01T21:11:22.479994Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqlncCfwdsfZcfmKd3BY4GrquQpK8UOWDdEpYl1XsUZAL4l77A7gWso98gK2PoEnwBDyRBV4vw"
+      },
+      {
+        "reviewId": "AbFvOql02FaDi0KWmBr2wxtvfoo3Kgq16ztr5YOFk2OxJmVFbS2WPNL6mqOttVMzi5f9RNCZyabzrQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW5UrY0LeuwHbBxjy65Dn1WRbxBQJ4aWBV-Cxl5TZZTC7wBpMYt=s120-c-rp-mo-ba5-br100",
+          "displayName": "Ron Ronald"
+        },
+        "starRating": "FIVE",
+        "comment": "Great service and huge wine selection.",
+        "createTime": "2020-02-26T04:25:47.579837Z",
+        "updateTime": "2020-02-26T04:25:47.579837Z",
+        "reviewReply": {
+          "comment": "Ron, Thank you for your 5 star review!",
+          "updateTime": "2020-05-30T23:08:50.182476Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOql02FaDi0KWmBr2wxtvfoo3Kgq16ztr5YOFk2OxJmVFbS2WPNL6mqOttVMzi5f9RNCZyabzrQ"
+      },
+      {
+        "reviewId": "AbFvOqlog_io9Ax7Xxq4iVMcIIlm4fix9ui-EkPa2QktQcyMqZglZRGxMNShntpKm9G4Ew6fWTAI_g",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVB18sgW5KyEVjJGVHCWeJJEohfO-Xt6BKnX54b58Qf6hxEaf6x=s120-c-rp-mo-ba5-br100",
+          "displayName": "Terry Shackelford"
+        },
+        "starRating": "FIVE",
+        "comment": "This store is always neat and clean. Friendly staff. Can be very busy at times. If the weather allows, they have the patio open. They have signs showing how they are beating competitors pricing, so there are deals to be had. Sometimes they have additional open wines behind the bar that are not on the menu so be sure to ask if you want something different. They may even open up one for you.",
+        "createTime": "2020-01-16T17:17:25.952407Z",
+        "updateTime": "2020-01-16T17:17:25.952407Z",
+        "reviewReply": {
+          "comment": "Terry,\nThank you so much for your wonderful review!",
+          "updateTime": "2020-01-16T19:10:24.860813Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqlog_io9Ax7Xxq4iVMcIIlm4fix9ui-EkPa2QktQcyMqZglZRGxMNShntpKm9G4Ew6fWTAI_g"
+      },
+      {
+        "reviewId": "AbFvOqkpCFtxcbzJx07FBeja4Bu5mzsjFU7E9mMC6p4Qrxoh78uoBTnKH7Zy-fB8nDGNUNUsfG1YVg",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUw34dGFU7bcT0lhTzydXEQm706eZ3arskqEfIm3hFIH1M_RO3e=s120-c-rp-mo-ba3-br100",
+          "displayName": "Aaron Bart Fricke"
+        },
+        "starRating": "FIVE",
+        "comment": "WV is the best wine shop in town!  We love you, Jackson and Jess!!!",
+        "createTime": "2020-01-13T22:15:13.557171Z",
+        "updateTime": "2020-01-13T22:15:13.557171Z",
+        "reviewReply": {
+          "comment": "Aaron! Thank you for an amazing review! We love our friendly staff and amazing customers like you!",
+          "updateTime": "2020-01-16T19:11:41.133877Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkpCFtxcbzJx07FBeja4Bu5mzsjFU7E9mMC6p4Qrxoh78uoBTnKH7Zy-fB8nDGNUNUsfG1YVg"
+      },
+      {
+        "reviewId": "AbFvOqmaTiAQ6JmZWQRfJptJLLxKFQUBC7GGtSUj8tv_u4UDOO_d73SaY1dQCj55PfiV8Ga5XgimjQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIum-QQ0TkHzP3-DuxS-p1qrm6XlwqPDl7JVZqpblXGq7tmgg=s120-c-rp-mo-ba5-br100",
+          "displayName": "Rich B"
+        },
+        "starRating": "FIVE",
+        "comment": "Picked up some wine for Christmas.  Tara was very helpful.",
+        "createTime": "2020-01-05T23:52:44.392179Z",
+        "updateTime": "2020-01-05T23:52:44.392179Z",
+        "reviewReply": {
+          "comment": "Rich, Thank you for your 5 star review! We are happy Tara was such a help! Thank you for your business.",
+          "updateTime": "2020-01-16T19:12:17.103443Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmaTiAQ6JmZWQRfJptJLLxKFQUBC7GGtSUj8tv_u4UDOO_d73SaY1dQCj55PfiV8Ga5XgimjQ"
+      },
+      {
+        "reviewId": "AbFvOqmNC7jPxQABMiWL8Osv__ed35l-ysEpX9TaHOM5UkEqOimoTi0i2j7ok3ODN-gL1xm0rI8",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU9vmPEz1XMqZpDFOmKFI9QnfVtHDW0FzNho1AME-w4UhvnR7lzFA=s120-c-rp-mo-ba3-br100",
+          "displayName": "Kathleen Balogh"
+        },
+        "starRating": "FIVE",
+        "comment": "Get staff, gret choice of wines",
+        "createTime": "2019-12-06T22:32:39.001352Z",
+        "updateTime": "2019-12-06T22:32:39.001352Z",
+        "reviewReply": {
+          "comment": "Kathleen, Thank you for your 5 star review! We look forward to your visit again soon!",
+          "updateTime": "2020-01-16T19:12:38.763984Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmNC7jPxQABMiWL8Osv__ed35l-ysEpX9TaHOM5UkEqOimoTi0i2j7ok3ODN-gL1xm0rI8"
+      },
+      {
+        "reviewId": "AbFvOqmOu3odZAnUBc7KHckEIHzbHij8HYwCJUjUat1QyV10VZIU7Oc0I3LaZmOEA-hM30Tv9PjpOw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocI8cSkOXVau3b9v8wkJprqN6bpVRHqVFvefMmKFeFCs7P7qYQ=s120-c-rp-mo-ba4-br100",
+          "displayName": "Linda Bartlett"
+        },
+        "starRating": "FIVE",
+        "comment": "Great sales and atmosphere",
+        "createTime": "2019-12-03T05:24:12.732132Z",
+        "updateTime": "2019-12-03T05:24:12.732132Z",
+        "reviewReply": {
+          "comment": "Linda, Thank you for taking the time to give us such a great 5 star review!",
+          "updateTime": "2020-01-16T19:12:59.586660Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmOu3odZAnUBc7KHckEIHzbHij8HYwCJUjUat1QyV10VZIU7Oc0I3LaZmOEA-hM30Tv9PjpOw"
+      },
+      {
+        "reviewId": "AbFvOqkXqFgjUewH2JZHh3hps6tyYBDfnkCJGjGuvSBiG5xEUDQrMCc82M9cJCwpitFrS5w_y804",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWhB1AOQiQO1_PA3fXNw-2ol_bGdbiTDBMiVGeTUwUtMS3Ee0mh1g=s120-c-rp-mo-ba3-br100",
+          "displayName": "Matthew P"
+        },
+        "starRating": "FIVE",
+        "comment": "Great service and selection",
+        "createTime": "2019-06-12T04:02:45.146586Z",
+        "updateTime": "2019-06-12T04:02:45.146586Z",
+        "reviewReply": {
+          "comment": "Matthew, Thank you for taking the time to give is an amazing 5 star review!",
+          "updateTime": "2019-06-13T22:05:30.915061Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkXqFgjUewH2JZHh3hps6tyYBDfnkCJGjGuvSBiG5xEUDQrMCc82M9cJCwpitFrS5w_y804"
+      },
+      {
+        "reviewId": "AbFvOqmoEuUiyKk_3968bKbH3ne3bVMaiTlpJDdmSD8q0QnUHtr0Ki4hxz14LGpsAg_HOJ0gf6js",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKligZOV5ZWSSC5-4puvvLvGnauJR1rI984acbh8hpNnGglKBSn=s120-c-rp-mo-ba3-br100",
+          "displayName": "Haily Hergerger"
+        },
+        "starRating": "FOUR",
+        "comment": "I love the selection here. I also love how knowledgeable the staff is. I don't think it's possible to stump them! If you drink at Whispering Vine and don't finish a bottle they'll cork it for to enjoy at home! (I love Nevada) the only thing disappointing here is they're Meat and Cheese plates.  (They have a couple other \"Appetizers\" I'm gluten free I haven't had them. I digress)\nDry cheese, dry meat, sloppily thrown in a plate. It's quite expensive for what I is. I think it would be easy to make something a bit more presentable, and enjoyable.",
+        "createTime": "2019-06-11T02:57:07.052044Z",
+        "updateTime": "2019-06-11T02:57:07.052044Z",
+        "reviewReply": {
+          "comment": "Haily, Thank you for taking the time to review us! We are limited on what we can offer at our South store as we do not have a kitchen there. Please enjoy some small plates at our 4th street location and let us know what you think! We have more GF options there from 4-close Tues - Sat",
+          "updateTime": "2019-06-13T22:05:09.378282Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmoEuUiyKk_3968bKbH3ne3bVMaiTlpJDdmSD8q0QnUHtr0Ki4hxz14LGpsAg_HOJ0gf6js"
+      },
+      {
+        "reviewId": "AbFvOqlyADY22JOuiDvUAymGZsvskv2ST10q9x_7KQV_exoe1v9aXyWieQBTGuF0SW7d1NMD1ma9",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKSMPdc8jIwcfASN74J9BFB9QdIqydreGdLG2v10AGTD1I92g=s120-c-rp-mo-ba4-br100",
+          "displayName": "Rene Preciado"
+        },
+        "starRating": "FIVE",
+        "comment": "Service was excellent. Kelly, our bartender was very professional, she made us feel welcome and at home.",
+        "createTime": "2019-06-02T06:11:10.059852Z",
+        "updateTime": "2019-06-02T06:11:10.059852Z",
+        "reviewReply": {
+          "comment": "Rene, We love Kelly too! Thank you for taking the time to review us!",
+          "updateTime": "2019-06-13T22:03:11.065792Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqlyADY22JOuiDvUAymGZsvskv2ST10q9x_7KQV_exoe1v9aXyWieQBTGuF0SW7d1NMD1ma9"
+      },
+      {
+        "reviewId": "AbFvOqmww9Gzc6R8lmAZafSQ6yxbOOHFq2T2De9vrPasa42R9Dltci4TEERXWD0CWpWuRcCcSmD6tQ",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKv-qtqfm3FDVHUYH3Ns9ScrR9pBh0hDvboSJNI0VdMoYwSkQ=s120-c-rp-mo-ba2-br100",
+          "displayName": "Azelin Diggs"
+        },
+        "starRating": "FIVE",
+        "comment": "Everyone is always so helpful and the wine is always wonderful!",
+        "createTime": "2019-05-19T06:38:20.303780Z",
+        "updateTime": "2019-05-19T06:38:20.303780Z",
+        "reviewReply": {
+          "comment": "Azelin, thank you for your amazing 5 star review! We look forward to helping you with some wonderful wine soon!",
+          "updateTime": "2019-06-13T22:02:20.773481Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmww9Gzc6R8lmAZafSQ6yxbOOHFq2T2De9vrPasa42R9Dltci4TEERXWD0CWpWuRcCcSmD6tQ"
+      },
+      {
+        "reviewId": "AbFvOqmeZ0c1HUa5bDkCX6psftl08-ioKzL_mktmkAxArwdkueCSNhX7KF6lbiQZN-exGkLsXNggNw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLqNmS6dj4eDVig8K9AmyOwtw1WhIwayw6U1HL4m3_fpxDBC4B2=s120-c-rp-mo-ba3-br100",
+          "displayName": "Mi Ah Lee Clark"
+        },
+        "starRating": "FIVE",
+        "comment": "Super consistent, great selection of wine, fantastic atmosphere, very reasonable prices. This place is our go-to for a girls' night out! Highly recommend!!!",
+        "createTime": "2019-05-04T04:40:12.542745Z",
+        "updateTime": "2019-05-04T04:40:12.542745Z",
+        "reviewReply": {
+          "comment": "Mi Ah Lee Clark,\nThank you for your fantastic 5 star review! We look forward to seeing you and your girls!",
+          "updateTime": "2019-06-13T22:01:54.080608Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmeZ0c1HUa5bDkCX6psftl08-ioKzL_mktmkAxArwdkueCSNhX7KF6lbiQZN-exGkLsXNggNw"
+      },
+      {
+        "reviewId": "AbFvOqncZ6fgp85lBe-__6fzBJ0HFIeqUlbXrncVEGuuKnXERIeMatKIeVGFkPKmmL79SqaaNirA",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJgCHh7gNPKV2ZeyLRP_-seq6jUt_iln_9zCZYVk1Nwoe6LJA=s120-c-rp-mo-ba5-br100",
+          "displayName": "Dominik Altheimer"
+        },
+        "starRating": "FOUR",
+        "comment": "A locals favorite, could be more organized. Great selection of wine.",
+        "createTime": "2019-03-15T02:48:10.114829Z",
+        "updateTime": "2019-03-15T02:48:10.114829Z",
+        "reviewReply": {
+          "comment": "Dominik, Thank you for your review!",
+          "updateTime": "2019-04-25T19:09:59.310097Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqncZ6fgp85lBe-__6fzBJ0HFIeqUlbXrncVEGuuKnXERIeMatKIeVGFkPKmmL79SqaaNirA"
+      },
+      {
+        "reviewId": "AbFvOql11nwR8u2NdwI7_o04wzsF2ik-haiKb40i8-nuWpVjFYfJT0B61c967ht4c7_Aqnw4mu79vw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKOjydtzTD2_vnt30AGBGtsXQHYtt0x9gO8-S4lZuPSYiobVQ=s120-c-rp-mo-ba5-br100",
+          "displayName": "Rebecca London"
+        },
+        "starRating": "FOUR",
+        "comment": "Friendly staff and large selection of wines.  Fun place for a glass of wine.",
+        "createTime": "2019-03-11T01:37:43.587648Z",
+        "updateTime": "2019-03-11T01:37:43.587648Z",
+        "reviewReply": {
+          "comment": "Rebecca, Thank you for your great review! We look forward to your return!",
+          "updateTime": "2019-04-25T19:09:35.735064Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOql11nwR8u2NdwI7_o04wzsF2ik-haiKb40i8-nuWpVjFYfJT0B61c967ht4c7_Aqnw4mu79vw"
+      },
+      {
+        "reviewId": "AbFvOqkriPEuJclYt13ZyVph_wqcSQ27FUZDKPIkCYOz33ocTJpTlm0BbTue7wtOQU2SDG-XqbPf",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIaKS05RDCAjrt1SVx8tCvtROVSCjcVzNnhnrlNDoFLKi4ybQ=s120-c-rp-mo-ba3-br100",
+          "displayName": "Ron Vana"
+        },
+        "starRating": "FIVE",
+        "comment": "#localspot",
+        "createTime": "2019-02-01T03:14:52.039507Z",
+        "updateTime": "2019-02-01T03:14:52.039507Z",
+        "reviewReply": {
+          "comment": "Ron, Thank you for taking the time to give us a 5 star review!",
+          "updateTime": "2019-02-01T04:26:19.931165Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkriPEuJclYt13ZyVph_wqcSQ27FUZDKPIkCYOz33ocTJpTlm0BbTue7wtOQU2SDG-XqbPf"
+      },
+      {
+        "reviewId": "AbFvOqkuvO7oH_beNwRpSGA69-XWrPb7anJiVv7CSJB-g9TT0rOvVnVnK0VrvlBywgh9oyCQF6WlbA",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW8uNjKykULjwm7w4VAvfFbXrWUhlhc8HBYoClYIRAT7JverAjR=s120-c-rp-mo-ba5-br100",
+          "displayName": "Colm Lowndes"
+        },
+        "starRating": "FIVE",
+        "comment": "Great selection, reasonably priced and service to match",
+        "createTime": "2019-01-13T04:06:06.661647Z",
+        "updateTime": "2019-01-13T04:06:06.661647Z",
+        "reviewReply": {
+          "comment": "Colm, Thank you for taking the time to leave us a great 5 star review!  We look forward to your return!",
+          "updateTime": "2019-01-24T23:04:24.846154Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkuvO7oH_beNwRpSGA69-XWrPb7anJiVv7CSJB-g9TT0rOvVnVnK0VrvlBywgh9oyCQF6WlbA"
+      }
+    ]
   }
-]
+}
