@@ -141,22 +141,6 @@
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnf8AzniywW1vur9L2HSkXxG1EhDK-pxr26vzWWfX9hgDnnrwSa8_785ZVOFh7IpFq26mogAg"
       },
       {
-        "reviewId": "AbFvOqkiH2EDUTKCx8bcPlDcbyPqEgkvkCDNAnqDYZS1ENCydn3YrfNve_YFh4k3258YyM4O4CRdXw",
-        "reviewer": {
-          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK-mZME_nCvjLMFI4Ysenuf0s8QvD3VuixjMpDov8cY1mmLfg=s120-c-rp-mo-ba2-br100",
-          "displayName": "Anna Jones"
-        },
-        "starRating": "FIVE",
-        "comment": "Jordan was so helpful in organising a gift for a colleague from overseas. Very friendly, professional and knowledgable. Thank you so much, we will definitely be using Whispering Vine again.",
-        "createTime": "2025-12-17T23:21:13.399558Z",
-        "updateTime": "2025-12-17T23:21:13.399558Z",
-        "reviewReply": {
-          "comment": "Thank you, Anna! We’re thrilled to hear Jordan made your gift experience so pleasant and smooth. We look forward to welcoming you back to Whispering Vine soon!",
-          "updateTime": "2026-01-12T01:27:58.772952Z"
-        },
-        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkiH2EDUTKCx8bcPlDcbyPqEgkvkCDNAnqDYZS1ENCydn3YrfNve_YFh4k3258YyM4O4CRdXw"
-      },
-      {
         "reviewId": "AbFvOqmN0Ay5K8lo24oQK6XVYxKP3L4RHxtoM3Vi-fjgF_AQtbzNBsEjhb7wEvbSkJchuVee1zNKRQ",
         "reviewer": {
           "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKYqEG1l_732pm9TE_u_kkNMbJwV57IcPUYmNbISywR59Ujsw=s120-c-rp-mo-ba3-br100",
@@ -171,6 +155,22 @@
           "updateTime": "2026-01-12T01:28:23.527744Z"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmN0Ay5K8lo24oQK6XVYxKP3L4RHxtoM3Vi-fjgF_AQtbzNBsEjhb7wEvbSkJchuVee1zNKRQ"
+      },
+      {
+        "reviewId": "AbFvOqkvOBOrTVOV6OT5_ahJPOK8Q1qnWAwYIyfAahJtbv1bwJ9vL7WSQ_HzxzOTG0l36-Jr6zLc1A",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUvn4zQn_cuq6w7SGJYdwQq0_q62PrLRpRz6MHZ2KxVeGBI_wg=s120-c-rp-mo-br100",
+          "displayName": "R.Patrick Hicks"
+        },
+        "starRating": "FIVE",
+        "comment": "My friend took me here for my birthday. It was a wonderful dinner, with wonderful wine and conversation.",
+        "createTime": "2025-12-03T23:52:59.812659Z",
+        "updateTime": "2025-12-03T23:52:59.812659Z",
+        "reviewReply": {
+          "comment": "Thank you, R. Patrick Hicks, for sharing your wonderful birthday experience at Whispering Vine! We're delighted to hear you enjoyed the dinner, wine, and conversation. We look forward to welcoming you back for many more special occasions!",
+          "updateTime": "2026-01-12T01:28:37.727982Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkvOBOrTVOV6OT5_ahJPOK8Q1qnWAwYIyfAahJtbv1bwJ9vL7WSQ_HzxzOTG0l36-Jr6zLc1A"
       },
       {
         "reviewId": "AbFvOqn3jCiP_Znyy0IQvLLvLoTtXmrHbNP5ZvQvfyh4O85xqyEBxttlRSljWo5_ZXnNOcPzQluTsw",
@@ -299,22 +299,6 @@
           "updateTime": "2025-07-15T17:02:01.812380Z"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkm3saYlpeuMHFp4CBt-4a9TvJ-F9Zg7mGHh6LzecqEzR4gG0snhGgvfP5g0fdU5Hvcss9Wcg"
-      },
-      {
-        "reviewId": "AbFvOqmaYnLksklCrX4FeHV1tOgfWoEwkxGXdHe_DD5EV1Dzy1yUcg1eSsVh5JWrEiV5fDu3C3rnDA",
-        "reviewer": {
-          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXlb9YLOZzRt6wVlDfGRQ6XTlcjpLgYjfjQKrgqEomnE_IOAxMS=s120-c-rp-mo-br100",
-          "displayName": "Cyndi White"
-        },
-        "starRating": "FIVE",
-        "comment": "Wonderful dinner and Kelly, our server, was spectacular!",
-        "createTime": "2025-07-12T22:30:43.321336Z",
-        "updateTime": "2025-07-12T22:30:43.321336Z",
-        "reviewReply": {
-          "comment": "Thanks for the 5-star review, Cyndi! We're thrilled you enjoyed your dinner and had a spectacular experience with Kelly. We can't wait to serve you again soon!",
-          "updateTime": "2025-07-15T17:01:34.223350Z"
-        },
-        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmaYnLksklCrX4FeHV1tOgfWoEwkxGXdHe_DD5EV1Dzy1yUcg1eSsVh5JWrEiV5fDu3C3rnDA"
       },
       {
         "reviewId": "AbFvOqnRHz_5P1FVF_HsB_zwdgiWShRbfWELaMMkoBXMOSH-nL96ptxdCKP88-CNgJDKkuWTeEMdKQ",
@@ -557,6 +541,38 @@
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmIOCosRrAL-BddFPBjnruJATYNN7VY8-9ZBIC0rNC3leM0stnv99IgOZQ-xK0V-wiwOC5PiQ"
       },
       {
+        "reviewId": "AbFvOqkZEOrG8PGxu1REY6SeIrkaiB8MOQBapoIRn2GbllC63qlE-N3mGu6DMyoUsFHrHJ9-_RVB",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLJHztJKlzfraVn4oV9HAzDk1Njol3pVMBdUcSTTQs95lqRCA=s120-c-rp-mo-br100",
+          "displayName": "Scott Gillmore"
+        },
+        "starRating": "FIVE",
+        "comment": "Been there 3 times and every time it's been excellent. Good service, great food, and excellent wine at very good prices. The meatballs are 🤌🏻💋.",
+        "createTime": "2025-01-07T03:43:58.189056Z",
+        "updateTime": "2025-01-07T03:43:58.189056Z",
+        "reviewReply": {
+          "comment": "Thanks for the 5-star review, Scott! We appreciate your support and are thrilled to hear that you’ve enjoyed each of your three visits with us. We strive to provide excellent service, delicious food, and an impressive wine selection at great prices. We’re glad to hear that our meatballs have earned your seal of approval—they’re a favorite of ours, too! We look forward to seeing you again soon and making your next visit just as memorable.",
+          "updateTime": "2025-03-27T05:21:16.403985Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkZEOrG8PGxu1REY6SeIrkaiB8MOQBapoIRn2GbllC63qlE-N3mGu6DMyoUsFHrHJ9-_RVB"
+      },
+      {
+        "reviewId": "AbFvOqlI4LfauV6590eNVYkyqd0xTSqA4juMgEPSktfRiTWUzWZueZ219lNA3EPY_yz1SJGtjGgdhw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVIeOp77ehWaYhxgjGJcKb1mcus0z2KEMhVWoIA_-u4EpbUC6iPcg=s120-c-rp-mo-ba6-br100",
+          "displayName": "Matthew P"
+        },
+        "starRating": "FIVE",
+        "comment": "Loved Whispering Vine!\n\nHad the grilled cheese and wine - so yummy!",
+        "createTime": "2024-12-22T05:55:57.429501Z",
+        "updateTime": "2024-12-22T05:56:15.718661Z",
+        "reviewReply": {
+          "comment": "Thanks for the 5-star review, Matthew! We're glad you loved Whispering Vine, and we appreciate your feedback. Our grilled cheese is a fan favorite, and we're thrilled to hear you enjoyed it with a nice glass of wine. Looking forward to your return!",
+          "updateTime": "2025-03-27T05:22:25.103880Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlI4LfauV6590eNVYkyqd0xTSqA4juMgEPSktfRiTWUzWZueZ219lNA3EPY_yz1SJGtjGgdhw"
+      },
+      {
         "reviewId": "AbFvOqnPRmX7JvaJO0Iaq0XayVI6RDabJRvFduDV_ar3ZAx2G8mlDh_P9jr13Tf-LkjHKTQo9s56iw",
         "reviewer": {
           "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocI9Wxp2ucEML9duCKLxwU6RkozSwEsgU1Nk8pgzHIkKZsXw7Q=s120-c-rp-mo-ba3-br100",
@@ -628,6 +644,22 @@
     "averageRating": 4.800000190734863,
     "reviews": [
       {
+        "reviewId": "AbFvOqnAKPLtjK66amr_ze4rSR1rx7AkCTz0h8xF8YWzmSdB_jbxkcKvgBeY5ODKLVrRi7ZVSeLHlw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUG6rIzZYdY4wENPaY3LbXQbyKEE9ze8skyqHEWm5Skmwej-XODJQ=s120-c-rp-mo-ba4-br100",
+          "displayName": "Ms. L."
+        },
+        "starRating": "FIVE",
+        "comment": "Mmmm. They have some delicious stuff here! Trying to post a picture of the two I recommend trying but it's not working. I'll update soon.",
+        "createTime": "2025-01-07T15:11:13.671530Z",
+        "updateTime": "2025-01-07T15:27:45.048323Z",
+        "reviewReply": {
+          "comment": "Thank you so much for your 5-star review, Ms. L! We are looking forward to your next visit.",
+          "updateTime": "2025-06-06T00:07:32.964282Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqnAKPLtjK66amr_ze4rSR1rx7AkCTz0h8xF8YWzmSdB_jbxkcKvgBeY5ODKLVrRi7ZVSeLHlw"
+      },
+      {
         "reviewId": "AbFvOqlgJgOAYtIC66Sja8fLWFOQRFHQU_L3Mw90NgD-6pJdamJNx2cTphZls8nBL_dmFkR4w-lYFw",
         "reviewer": {
           "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocI3K6N6u5Aj7XrLepBpQ2F9Y0haVDY5rorIy4UZrN_EzO2d5wQ=s120-c-rp-mo-ba2-br100",
@@ -642,6 +674,22 @@
           "updateTime": "2024-10-22T23:43:19.167399Z"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqlgJgOAYtIC66Sja8fLWFOQRFHQU_L3Mw90NgD-6pJdamJNx2cTphZls8nBL_dmFkR4w-lYFw"
+      },
+      {
+        "reviewId": "AbFvOqmgH4AZPd-sKi7fzsWctNBC3Au3beqSXg9DOL9R-3hKwr949cU2tHx-_disi__jCA09Amjj",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW1mv-W_ztyqwDqJFaylkPlz5EAAJTgSVv5m0OxkSIZbl4FWBmM=s120-c-rp-mo-br100",
+          "displayName": "graysen labrie"
+        },
+        "starRating": "FIVE",
+        "comment": "This is my fav place ever ! The patio is perfect and the location is awesome. I’m sad they close so early and the bartenders are pretty strict on it. But the owners son is super nice and friendly. Glad to know it’s in such good hands.",
+        "createTime": "2024-04-03T05:01:58.149114Z",
+        "updateTime": "2024-04-03T05:01:58.149114Z",
+        "reviewReply": {
+          "comment": "Thank you, Graysen, for your wonderful review! We're thrilled to hear that Whispering Vine is your favorite spot and that you enjoy our perfect patio and awesome location. We appreciate your feedback regarding our closing time, and we'll take it into consideration. We're delighted to hear you had a positive interaction with the owner's son. Looking forward to welcoming you back soon!",
+          "updateTime": "2024-04-03T05:09:21.987805Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmgH4AZPd-sKi7fzsWctNBC3Au3beqSXg9DOL9R-3hKwr949cU2tHx-_disi__jCA09Amjj"
       },
       {
         "reviewId": "AbFvOqkDK7fX5M6nts_OzaSnw_s1TeQIrtIplhCQQ-dqzvJeqhwnKHwnituPwgMb7z7q3-1RjZGmnQ",
