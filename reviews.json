@@ -1,9 +1,25 @@
 {
   "fourth_st": {
     "locationId": "13762251274808944694",
-    "totalReviewCount": 546,
+    "totalReviewCount": 547,
     "averageRating": 4.699999809265137,
     "reviews": [
+      {
+        "reviewId": "AbFvOqla_liPH5G0pakl7B1WR4mfeEPcDxc4gcDVtslBSAuEna2y7dU0zJ4HL5KyrDLgP0n7zl4M",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKpHeAu5zrVokgHkQKBQ4oIlTplugNw7nsEdiJ6jTAs_ml_KA=s120-c-rp-mo-ba3-br100",
+          "displayName": "James Hanson"
+        },
+        "starRating": "FIVE",
+        "comment": "N/A",
+        "createTime": "2026-03-17T19:08:23.144387Z",
+        "updateTime": "2026-03-17T19:08:23.144387Z",
+        "reviewReply": {
+          "comment": "Thanks for the 5-star rating, James! We’re glad you had a great experience and hope to welcome you back soon for another visit.",
+          "updateTime": "2026-03-17T22:03:13.565271Z"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqla_liPH5G0pakl7B1WR4mfeEPcDxc4gcDVtslBSAuEna2y7dU0zJ4HL5KyrDLgP0n7zl4M"
+      },
       {
         "reviewId": "AbFvOqnk-52qnl-mRNJZtCsdRNXOQTxlfziPC7tDTO8z-tqtj5FD9fWJjLMcgzPMvxYO-NpR607vgg",
         "reviewer": {
@@ -30,6 +46,10 @@
         "comment": "They are amazing at whispering vine. It’s a great atmosphere. They accommodating for parties and the food is fantastic. It is going to be one of our regular spots. I just wanna say thank you to everyone that works there for making it such a great experience every time.",
         "createTime": "2026-02-26T00:27:15.436425Z",
         "updateTime": "2026-02-26T00:27:15.436425Z",
+        "reviewReply": {
+          "comment": "Thanks so much, Ryan! We're glad the atmosphere and food keep bringing you back. It’s awesome to hear we’re becoming one of your regular spots. We’ll share your kind words with the team, they’ll appreciate it. Looking forward to seeing you at your next visit!",
+          "updateTime": "2026-03-17T22:03:05.225593Z"
+        },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqn_Vj1MOBg_WygwFTH6ZPmGbKGHHgoRdDJXZXQvqxGQ97CQKJqP5wejH-DpxvA-EaLGPvqBvA"
       },
       {
@@ -138,6 +158,10 @@
         "comment": "This is consistently one of my favorite spots in Reno! The food is always incredible, the cocktails are spot-on and the wine selection is obviously stellar. I highly recommend trying a wine flight, the value is unbeatable for the quality of wines they offer. Definitely order any one of the taco offerings and the salt and vinegar tots!",
         "createTime": "2026-02-04T01:38:43.125456Z",
         "updateTime": "2026-02-04T01:38:43.125456Z",
+        "reviewReply": {
+          "comment": "Laney, thanks so much for coming back time and again! We're glad you’ve enjoyed the wine flights and especially the tacos and salt and vinegar tots. It’s great to hear the cocktails and food continue to hit the mark for you. Looking forward to your next visit!",
+          "updateTime": "2026-03-17T22:02:49.295706Z"
+        },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqneN6tSXhUolj-BwVScnE4lnENKXlwRcyHN7JMNlMlcer7cQk58r2AHW6CNy8zvwGyT1cSl"
       },
       {
@@ -619,22 +643,6 @@
           "updateTime": "2025-05-24T17:58:20.090047Z"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmB0fnBVseYq2PRZYpwVLiDBsUUYB31Z--5mb_dYbvgSPp4s2ibe51NYMLxghN63l1sBvWTkg"
-      },
-      {
-        "reviewId": "AbFvOqm7SienSEJQ0s0vzh8V7BS3IbT9V6WmV-bq1YGJeiKjGL0OyKXo_l4afyHN2I0JnBvwowp9xw",
-        "reviewer": {
-          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUvlWQ44vN9d8UiG3tUwKR-3fhtYKaw5zBb3QuxWSif0ZgF0FtoIw=s120-c-rp-mo-ba5-br100",
-          "displayName": "S. Park"
-        },
-        "starRating": "FIVE",
-        "comment": "I took a friend visiting from Vegas. She was charmed by the place, along with their creative drinks, dishes, and friendly staff. I had a great time and realized that you don't have to drink wine to enjoy the place.",
-        "createTime": "2025-05-07T15:45:22.898653Z",
-        "updateTime": "2025-05-07T15:45:22.898653Z",
-        "reviewReply": {
-          "comment": "Thanks for the 5-star review, S. Park! We're delighted to hear that both you and your friend had such a wonderful experience at Whispering Vine. It is our goal to make sure that all of our guests, regardless of their drink preferences, feel welcome and have a fantastic time. We can't wait to see you both on your next visit!",
-          "updateTime": "2025-05-07T18:12:25.788846Z"
-        },
-        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqm7SienSEJQ0s0vzh8V7BS3IbT9V6WmV-bq1YGJeiKjGL0OyKXo_l4afyHN2I0JnBvwowp9xw"
       },
       {
         "reviewId": "AbFvOqnPRmX7JvaJO0Iaq0XayVI6RDabJRvFduDV_ar3ZAx2G8mlDh_P9jr13Tf-LkjHKTQo9s56iw",
