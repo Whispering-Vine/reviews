@@ -1,9 +1,21 @@
 {
   "fourth_st": {
     "locationId": "13762251274808944694",
-    "totalReviewCount": 548,
+    "totalReviewCount": 549,
     "averageRating": 4.699999809265137,
     "reviews": [
+      {
+        "reviewId": "AbFvOqlq36ViDJuLs3gFDxwebmwO-v-c-GkjS_g8eyGvpefQj3Kj6R6r0qjFHPFm7YUCuE4Ft9NLWw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXGSlDLlW-aiEdW2nTNEiGm4rgyi3yCGWIXW9tgP7i8TBaVzM4b=s120-c-rp-mo-ba4-br100",
+          "displayName": "Ellen Lowder"
+        },
+        "starRating": "FIVE",
+        "comment": "Excellent food and wine flights.",
+        "createTime": "2026-04-06T16:49:05.675595Z",
+        "updateTime": "2026-04-06T16:49:05.675595Z",
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlq36ViDJuLs3gFDxwebmwO-v-c-GkjS_g8eyGvpefQj3Kj6R6r0qjFHPFm7YUCuE4Ft9NLWw"
+      },
       {
         "reviewId": "AbFvOqla_liPH5G0pakl7B1WR4mfeEPcDxc4gcDVtslBSAuEna2y7dU0zJ4HL5KyrDLgP0n7zl4M",
         "reviewer": {
@@ -16,7 +28,8 @@
         "updateTime": "2026-03-17T19:08:23.144387Z",
         "reviewReply": {
           "comment": "Thanks for the 5-star rating, James! We’re glad you had a great experience and hope to welcome you back soon for another visit.",
-          "updateTime": "2026-03-17T22:03:13.565271Z"
+          "updateTime": "2026-03-17T22:03:13.565271Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqla_liPH5G0pakl7B1WR4mfeEPcDxc4gcDVtslBSAuEna2y7dU0zJ4HL5KyrDLgP0n7zl4M"
       },
@@ -32,7 +45,8 @@
         "updateTime": "2026-03-09T03:34:18.867010Z",
         "reviewReply": {
           "comment": "Thanks for the kind words, Polly! We’re glad our patio and shareable appetizers hit the spot for your after-work hangouts. It’s awesome to hear you’ve enjoyed both the wine picks and our service. Looking forward to seeing you back soon!",
-          "updateTime": "2026-03-09T17:06:15.605322Z"
+          "updateTime": "2026-03-09T17:06:15.605322Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnk-52qnl-mRNJZtCsdRNXOQTxlfziPC7tDTO8z-tqtj5FD9fWJjLMcgzPMvxYO-NpR607vgg"
       },
@@ -48,7 +62,8 @@
         "updateTime": "2026-02-26T00:27:15.436425Z",
         "reviewReply": {
           "comment": "Thanks so much, Ryan! We're glad the atmosphere and food keep bringing you back. It’s awesome to hear we’re becoming one of your regular spots. We’ll share your kind words with the team, they’ll appreciate it. Looking forward to seeing you at your next visit!",
-          "updateTime": "2026-03-17T22:03:05.225593Z"
+          "updateTime": "2026-03-17T22:03:05.225593Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqn_Vj1MOBg_WygwFTH6ZPmGbKGHHgoRdDJXZXQvqxGQ97CQKJqP5wejH-DpxvA-EaLGPvqBvA"
       },
@@ -64,7 +79,8 @@
         "updateTime": "2026-02-18T03:26:11.899096Z",
         "reviewReply": {
           "comment": "Lena, thank you for such kind words! It’s awesome to hear the service, food, and vibe consistently hit the mark for you. We love having you with us and can’t wait to welcome you back for another great experience soon.",
-          "updateTime": "2026-02-18T22:12:49.012759Z"
+          "updateTime": "2026-02-18T22:12:49.012759Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkj40B03JpY6nVFhpmMWubLTnrsTBWkJ0zr7xl6R99dX8dlC3qvdxkrWzOO0QeYqxAG5rliwQ"
       },
@@ -80,7 +96,8 @@
         "updateTime": "2026-02-18T01:41:28.852146Z",
         "reviewReply": {
           "comment": "Thanks, Frank! Glad you enjoyed the food and got a chance to explore our wines. We’d love to have you back soon to try more of what we offer.",
-          "updateTime": "2026-02-18T04:10:31.496180Z"
+          "updateTime": "2026-02-18T04:10:31.496180Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnHKbYHzCCAizEdiGQORtcPgV6a3-i_zem48IvkwLJYxjeGhOcN3T99n-CElSHmRhFIciR_ug"
       },
@@ -96,7 +113,8 @@
         "updateTime": "2026-02-18T00:59:34.622101Z",
         "reviewReply": {
           "comment": "Nichole, we’re so happy to hear Whispering Vine is your go-to for catching up with friends, date nights, and hosting guests. Knowing you enjoy the food and feel welcomed by our team means a lot. Can’t wait to have you back for your next visit!",
-          "updateTime": "2026-02-18T22:12:31.700088Z"
+          "updateTime": "2026-02-18T22:12:31.700088Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlcxwBT3pxk6LXbguLx6vR0Hq7Jnys2RDWnlQ5TNO_3VWauBz7Ic0y1R9ionYWJZ3GAsxN3jA"
       },
@@ -112,7 +130,8 @@
         "updateTime": "2026-02-17T21:26:14.187608Z",
         "reviewReply": {
           "comment": "Thanks so much for the incredible review, Marilee! We love being your go-to neighborhood spot and are glad you enjoy the food, service, and atmosphere. We appreciate your support of local and can’t wait to welcome you back soon!",
-          "updateTime": "2026-02-18T22:11:55.866017Z"
+          "updateTime": "2026-02-18T22:11:55.866017Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqm3_MQBeRVKxaSO1xHMUXCxXTAeHHSK46fK1EbJegKUd464s-6_1MpguYX7kpVHPWWmrv_O"
       },
@@ -128,7 +147,8 @@
         "updateTime": "2026-02-17T21:17:41.318934Z",
         "reviewReply": {
           "comment": "Thanks so much for sharing your experience! It’s great to hear you and your husband enjoy our wine selection and the ease of reservations. Glad you liked the service and specialty drinks too. Looking forward to welcoming you back soon!",
-          "updateTime": "2026-02-18T22:10:51.914621Z"
+          "updateTime": "2026-02-18T22:10:51.914621Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlB1AYd74SYLt8sdfIaxjWWqzWJP0OijIDs-Mhn887aLe75rGk618mEY5JzqMaJlYTgNz9wDg"
       },
@@ -144,7 +164,8 @@
         "updateTime": "2026-02-06T00:18:09.739566Z",
         "reviewReply": {
           "comment": "Thanks so much for sharing your experience, Amy! It’s great to hear you enjoy both the wine selection and the food at our 4th Street spot. Our team loves helping make date nights special, so we’re glad that comes through. Looking forward to your next visit!",
-          "updateTime": "2026-02-18T22:04:16.192312Z"
+          "updateTime": "2026-02-18T22:04:16.192312Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkxuBOyAkKkzPXrRmqHTYl97SgRVrGOIr_X6l5ewJpC4ljQp49xmlmgSLgvcmETixCwUHJSLA"
       },
@@ -160,7 +181,8 @@
         "updateTime": "2026-02-04T01:38:43.125456Z",
         "reviewReply": {
           "comment": "Laney, thanks so much for coming back time and again! We're glad you’ve enjoyed the wine flights and especially the tacos and salt and vinegar tots. It’s great to hear the cocktails and food continue to hit the mark for you. Looking forward to your next visit!",
-          "updateTime": "2026-03-17T22:02:49.295706Z"
+          "updateTime": "2026-03-17T22:02:49.295706Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqneN6tSXhUolj-BwVScnE4lnENKXlwRcyHN7JMNlMlcer7cQk58r2AHW6CNy8zvwGyT1cSl"
       },
@@ -176,7 +198,8 @@
         "updateTime": "2026-01-31T04:46:34.813515Z",
         "reviewReply": {
           "comment": "Thank you so much, Charlie! We truly appreciate your kind words and your unwavering support. It’s been an honor to be part of Reno’s wine and food scene, and we look forward to many more years of serving you. Cheers to you as well, and we can’t wait to welcome you back to Whispering Vine soon!",
-          "updateTime": "2026-01-31T07:19:08.327516Z"
+          "updateTime": "2026-01-31T07:19:08.327516Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk9TMtj5a_sNCQZpkf7j-78tEmge9HATNBFIrstxeKQEn7u84WbUnF7aa_jKyDjnPh9BgEENQ"
       },
@@ -192,7 +215,8 @@
         "updateTime": "2026-01-20T20:00:34.288726Z",
         "reviewReply": {
           "comment": "Thank you, Cesarina, for the wonderful feedback! We're delighted you enjoyed the food and service enough to take some home for the next day. We look forward to welcoming you back to Whispering Vine soon!",
-          "updateTime": "2026-01-21T00:47:23.394951Z"
+          "updateTime": "2026-01-21T00:47:23.394951Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmGQLmKnwPbfOKj7yu3ySdNjR6-CbLPVGYi0xz1FFKe_HPZE3T9QNzMgDiO2ZmIMzJ_fCOtFA"
       },
@@ -208,7 +232,8 @@
         "updateTime": "2026-01-16T21:30:06.266975Z",
         "reviewReply": {
           "comment": "Thank you so much, Rob! We're thrilled to be your local go-to for wine tastings and purchases. It's great to hear you enjoy our tasting flights, fair pricing, and educational events. Brian and the crew send their thanks as well. We look forward to welcoming you back to Whispering Vine soon! Cheers!",
-          "updateTime": "2026-01-21T00:47:10.135345Z"
+          "updateTime": "2026-01-21T00:47:10.135345Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmDFlvs4UpsDZz5I3QG-HR6-PfGLeTKKgSiDfwOAz2XdRwf-hkrJRLO6MzNQdIQHMyKTJc8"
       },
@@ -224,7 +249,8 @@
         "updateTime": "2026-01-14T01:46:03.347129Z",
         "reviewReply": {
           "comment": "Thank you, John, for your wonderful feedback! We're delighted you enjoyed the food, wine, and service at Whispering Vine. We look forward to welcoming you back soon for another great experience!",
-          "updateTime": "2026-01-21T00:46:51.815271Z"
+          "updateTime": "2026-01-21T00:46:51.815271Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqks-qg0XNTThq9rQr-FajfPCHv03w1TiDolz5brNEMHUZjR2-mxyvldGLpR3T4WDJY4Pu_gnw"
       },
@@ -240,7 +266,8 @@
         "updateTime": "2026-01-10T01:41:25.976132Z",
         "reviewReply": {
           "comment": "Thank you, Patrick, for the glowing 5-star review! We're thrilled to hear that every visit to Whispering Vine is a delight for you. We take pride in our excellent staff, fair pricing, and our laid-back, personal atmosphere. We can't wait to have you back for your next wine selection and dining experience!",
-          "updateTime": "2026-01-11T23:47:53.185466Z"
+          "updateTime": "2026-01-11T23:47:53.185466Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnf8AzniywW1vur9L2HSkXxG1EhDK-pxr26vzWWfX9hgDnnrwSa8_785ZVOFh7IpFq26mogAg"
       },
@@ -256,7 +283,8 @@
         "updateTime": "2026-01-08T18:29:52.384142Z",
         "reviewReply": {
           "comment": "Thanks so much, Barb, for the 5-star review! We hope to see you again soon at Whispering Vine.",
-          "updateTime": "2026-01-11T23:48:36.332717Z"
+          "updateTime": "2026-01-11T23:48:36.332717Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnaqgGWEYnMhd7ddddUmTVRkm8S1BTRFc-8QzWCF0HqZRqSNTmkLWumAXyucG9TU5fiV908xw"
       },
@@ -272,7 +300,8 @@
         "updateTime": "2025-12-17T23:21:13.399558Z",
         "reviewReply": {
           "comment": "Thank you, Anna! We’re thrilled to hear Jordan made your gift experience so pleasant and smooth. We look forward to welcoming you back to Whispering Vine soon!",
-          "updateTime": "2026-01-12T01:27:58.772952Z"
+          "updateTime": "2026-01-12T01:27:58.772952Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkiH2EDUTKCx8bcPlDcbyPqEgkvkCDNAnqDYZS1ENCydn3YrfNve_YFh4k3258YyM4O4CRdXw"
       },
@@ -288,7 +317,8 @@
         "updateTime": "2025-12-16T16:28:45.255985Z",
         "reviewReply": {
           "comment": "Thank you so much, Chet! We're thrilled to hear that Whispering Vine was the perfect spot for your anniversary celebration. It means a lot that you and your wife enjoyed the wine and food so much. We look forward to welcoming you both back for many more great experiences!",
-          "updateTime": "2026-01-12T01:28:13.550192Z"
+          "updateTime": "2026-01-12T01:28:13.550192Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkK9IJoG0AGNjBP_HU58-0gKrhVWoaFpvTpU4hIT3EbqB8FCiMiLYHCcL9wEUfUq12VbVSH"
       },
@@ -304,7 +334,8 @@
         "updateTime": "2025-12-08T20:06:22.879522Z",
         "reviewReply": {
           "comment": "Thank you so much, Penny! We're thrilled to hear you always have a great time at Whispering Vine. We look forward to welcoming you back soon for another wonderful experience!",
-          "updateTime": "2026-01-12T01:28:23.527744Z"
+          "updateTime": "2026-01-12T01:28:23.527744Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmN0Ay5K8lo24oQK6XVYxKP3L4RHxtoM3Vi-fjgF_AQtbzNBsEjhb7wEvbSkJchuVee1zNKRQ"
       },
@@ -320,7 +351,8 @@
         "updateTime": "2025-12-03T23:52:59.812659Z",
         "reviewReply": {
           "comment": "Thank you, R. Patrick Hicks, for sharing your wonderful birthday experience at Whispering Vine! We're delighted to hear you enjoyed the dinner, wine, and conversation. We look forward to welcoming you back for many more special occasions!",
-          "updateTime": "2026-01-12T01:28:37.727982Z"
+          "updateTime": "2026-01-12T01:28:37.727982Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkvOBOrTVOV6OT5_ahJPOK8Q1qnWAwYIyfAahJtbv1bwJ9vL7WSQ_HzxzOTG0l36-Jr6zLc1A"
       },
@@ -336,7 +368,8 @@
         "updateTime": "2025-11-27T01:14:51.764541Z",
         "reviewReply": {
           "comment": "Thank you, Tim! We're so glad you enjoyed sipping wine and sharing great conversations with your friends at Whispering Vine. We look forward to welcoming you back for more memorable moments soon!",
-          "updateTime": "2026-01-12T01:30:48.584355Z"
+          "updateTime": "2026-01-12T01:30:48.584355Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqn3jCiP_Znyy0IQvLLvLoTtXmrHbNP5ZvQvfyh4O85xqyEBxttlRSljWo5_ZXnNOcPzQluTsw"
       },
@@ -352,7 +385,8 @@
         "updateTime": "2025-11-24T17:17:17.023044Z",
         "reviewReply": {
           "comment": "Thank you, Sigrid, for your glowing 5-star review! We're thrilled to hear that you and your friends always enjoy your time at Whispering Vine. Your support means the world to us, and we can't wait to serve you again soon!",
-          "updateTime": "2025-11-24T19:29:09.171789Z"
+          "updateTime": "2025-11-24T19:29:09.171789Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlHP9F74EUNJZEQIkSS2oeKKHU-FjrdNsBy9TW8UvzaZxzqUx73kOnlWLwJuM_41owS_8zX"
       },
@@ -368,7 +402,8 @@
         "updateTime": "2025-11-15T19:25:26.184933Z",
         "reviewReply": {
           "comment": "Thanks for the 5-star review, Phil! Can’t wait to have you back at Whispering Vine for another fantastic experience.",
-          "updateTime": "2025-11-24T19:29:39.884410Z"
+          "updateTime": "2025-11-24T19:29:39.884410Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqksKT9WIzabaEfFAE03rfcJpVJ3p9QO3ZTrtra35jIvJ23w4o2WjZdRCSdoSwtSM3YBffxg"
       },
@@ -384,7 +419,8 @@
         "updateTime": "2025-11-03T01:23:28.138492Z",
         "reviewReply": {
           "comment": "Thanks, Rita, for the glowing 5-star review! We're glad you enjoyed our extensive wine selection, delicious food, and excellent service. We can't wait to see you again soon!",
-          "updateTime": "2025-11-24T19:30:19.297851Z"
+          "updateTime": "2025-11-24T19:30:19.297851Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOql0NRia6QxGDWjeJSOqmKOl2fiQweZYFneosFggOj7a_zTt_uwW4iqqYnAaelGkrop9y-zp"
       },
@@ -400,7 +436,8 @@
         "updateTime": "2025-11-01T00:49:37.206386Z",
         "reviewReply": {
           "comment": "Thank you, La Vonne, for choosing Whispering Vine for such a special occasion! We're honored to have been part of the 80th birthday celebration. We're happy to hear that you and your guests enjoyed the food and service, and hope to see you again soon.",
-          "updateTime": "2025-11-01T18:06:08.274735Z"
+          "updateTime": "2025-11-01T18:06:08.274735Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlIpU-qY-3yI0BdxhRFu-ue1SKjG6DrhBdrBq3MUSqxWhtKGU4tr7eUvm0UGezIdCSVWnVv"
       },
@@ -416,7 +453,8 @@
         "updateTime": "2025-09-29T20:51:05.191772Z",
         "reviewReply": {
           "comment": "Thank you, Larry, for the 5-star review! Glad you enjoyed our wine deals, food, and service. Looking forward to welcoming you back to Whispering Vine soon!",
-          "updateTime": "2025-11-01T18:05:02.251952Z"
+          "updateTime": "2025-11-01T18:05:02.251952Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmqhC2zKBhuNPAYtnqGENuX3WsfCpIMAzHEEMb4m53pnApzc6ROv7e7VFdtIublkoOSSu9J"
       },
@@ -432,7 +470,8 @@
         "updateTime": "2025-08-31T13:18:41.725564Z",
         "reviewReply": {
           "comment": "Thank you, Melissa, for the glowing 5-star review! We're thrilled that you enjoy our food, wine, and atmosphere. Your kind words about our service mean the world to us. We can't wait to serve you again on your next visit!",
-          "updateTime": "2025-11-01T18:04:15.591571Z"
+          "updateTime": "2025-11-01T18:04:15.591571Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmiSil3Zlwka8INnAtr8gJsRV77sTIL6bJtQrgOe_qpNOs7tjYwnF8OpmRRqt0zuJJrMTdt3A"
       },
@@ -448,7 +487,8 @@
         "updateTime": "2025-07-20T17:18:33.295687Z",
         "reviewReply": {
           "comment": "Thank you for the 5-star review and for your enthusiasm about our wine selection! We're thrilled that you enjoyed the service and atmosphere. We can't wait to have you back at Whispering Vine.",
-          "updateTime": "2025-08-13T03:52:07.458655Z"
+          "updateTime": "2025-08-13T03:52:07.458655Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnl9cJPrmmAJSPiRe0wvGH4BrbJymL3oZlylaAF7007h0HPl98wm3fF92FLQ-kx40eI4n1-hA"
       },
@@ -464,7 +504,8 @@
         "updateTime": "2025-07-13T18:58:48.647182Z",
         "reviewReply": {
           "comment": "Thank you, Abraham, for the glowing 5-star review! We're thrilled to hear that Whispering Vine is your favorite spot to enjoy great food and wine. We pride ourselves on offering an extensive wine selection at unbeatable prices for you to savor with your meal. We look forward to raising a glass with you on your next visit!",
-          "updateTime": "2025-07-15T17:02:01.812380Z"
+          "updateTime": "2025-07-15T17:02:01.812380Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkm3saYlpeuMHFp4CBt-4a9TvJ-F9Zg7mGHh6LzecqEzR4gG0snhGgvfP5g0fdU5Hvcss9Wcg"
       },
@@ -480,7 +521,8 @@
         "updateTime": "2025-07-12T22:30:43.321336Z",
         "reviewReply": {
           "comment": "Thanks for the 5-star review, Cyndi! We're thrilled you enjoyed your dinner and had a spectacular experience with Kelly. We can't wait to serve you again soon!",
-          "updateTime": "2025-07-15T17:01:34.223350Z"
+          "updateTime": "2025-07-15T17:01:34.223350Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmaYnLksklCrX4FeHV1tOgfWoEwkxGXdHe_DD5EV1Dzy1yUcg1eSsVh5JWrEiV5fDu3C3rnDA"
       },
@@ -496,7 +538,8 @@
         "updateTime": "2025-07-08T02:19:37.798014Z",
         "reviewReply": {
           "comment": "Thanks so much, Taner! We really appreciate the kind words and the photos you shared of the store. It means a lot to hear you enjoyed the food and wine, and we’re glad it made an impression. Hope to see you again soon!",
-          "updateTime": "2025-07-08T16:44:28.509572Z"
+          "updateTime": "2025-07-08T16:44:28.509572Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnRHz_5P1FVF_HsB_zwdgiWShRbfWELaMMkoBXMOSH-nL96ptxdCKP88-CNgJDKkuWTeEMdKQ"
       },
@@ -512,7 +555,8 @@
         "updateTime": "2025-06-28T14:33:46.743204Z",
         "reviewReply": {
           "comment": "Thank you, Suzanne! We’re happy to hear you loved the veggie burger and tots, and that our team made a great impression. We appreciate the kind words and can’t wait to have you back for more good food and wine!",
-          "updateTime": "2025-06-29T03:15:40.951414Z"
+          "updateTime": "2025-06-29T03:15:40.951414Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlD9e9r_dwYJNrCcGExrOjJvVQUHDEHkJeMOGMciMcZ_l0yTlOlTVjesst6EqoZOF-ULjK5HA"
       },
@@ -528,7 +572,8 @@
         "updateTime": "2025-06-28T02:44:05.228857Z",
         "reviewReply": {
           "comment": "Thank you, Karen! We’re so glad you found us and made the stop for dinner. It means a lot to hear we’re your go-to for wine, and we’re thrilled you enjoyed the food and view. Great pic of the view from the windows! We look forward to seeing you again soon!",
-          "updateTime": "2025-06-29T03:14:55.793850Z"
+          "updateTime": "2025-06-29T03:14:55.793850Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkyTrBzJeka5I8nbIdovO8Qp8Q_0WzbaBdlWUXKZ9RJ5C1Wxh2xdxBVRfZ0PaLj_FFkPs-PAg"
       },
@@ -544,7 +589,8 @@
         "updateTime": "2025-06-12T18:18:30.617465Z",
         "reviewReply": {
           "comment": "Thanks for the kind words Serafina! Glad you love the food, wine, and cocktails. The patio is indeed a fan favorite when the weather is nice! We appreciate your tips on reservations too. I am sure we will see you again very soon ;)",
-          "updateTime": "2025-06-18T01:14:08.431797Z"
+          "updateTime": "2025-06-18T01:14:08.431797Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkFkBPmEn2YNIZqxUp7CEL9E3AiDV-Aq5KVE0bmJebK4kg6K4C4qxG9qe6RmvlDgLIbX4S-Fg"
       },
@@ -560,7 +606,8 @@
         "updateTime": "2025-06-10T20:30:44.503757Z",
         "reviewReply": {
           "comment": "Thanks for the 5-star review, Cherae! Glad you enjoyed our food and drinks, and special thanks for the shoutout to our truffle tots! We can't wait to serve you again soon.",
-          "updateTime": "2025-06-10T21:24:31.086211Z"
+          "updateTime": "2025-06-10T21:24:31.086211Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkIfHXTQ7oFO35mmTm2rsaIt0S0lebvt5Pwscx4SDGlcwJUwtP4blyXvkKczCiHZuem8czHqg"
       },
@@ -576,7 +623,8 @@
         "updateTime": "2025-06-04T23:03:26.617614Z",
         "reviewReply": {
           "comment": "Thanks, Laura! Glad that the new Spring Panzanella salad has become your new favorite. See you next time!",
-          "updateTime": "2025-06-05T23:28:03.218311Z"
+          "updateTime": "2025-06-05T23:28:03.218311Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk01yAs5GKV8dYbJQcQqR9KpaKTiBd4vGWecANRhx4D3cC_KkdLBeN-jFWX3dYMl_DHfTxPcQ"
       },
@@ -592,7 +640,8 @@
         "updateTime": "2025-06-03T02:35:17.710566Z",
         "reviewReply": {
           "comment": "Thank you, Vineet, for the 5-star review! We're thrilled you enjoyed your date night at the Vine and appreciated our extensive wine selection and the Lentil Tacos. We can't wait to have you back again soon.",
-          "updateTime": "2025-06-03T19:23:41.555142Z"
+          "updateTime": "2025-06-03T19:23:41.555142Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkPaSWeTGNFYHwqFPRH63PJx7Mk8-xBJ0epO0bOBId2yP3CTyA034BcFDNI2VvdUp7jFuAJyA"
       },
@@ -608,25 +657,10 @@
         "updateTime": "2025-05-31T03:18:13.946555Z",
         "reviewReply": {
           "comment": "Harry, thank you for the kind words and for being a fan of the atmosphere and service! We really appreciate your feedback on the menu. In fact, we just recently added a few new dishes, including a Spring Panzanella Salad and a Shrimp Scampi Flatbread—if you haven’t had a chance to try them yet, we’d love for you to come back and give them a shot. Thanks again for the support, and we look forward to welcoming you and your family back soon!",
-          "updateTime": "2025-05-31T20:06:05.038444Z"
+          "updateTime": "2025-05-31T20:06:05.038444Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmbOwg4fSthuOzB-UDojk2-7bJaZpZyx-WVWH6pE_5ASMMaGgAchotgRgmsmhKDYM-UDd6LuQ"
-      },
-      {
-        "reviewId": "AbFvOqkj2PAIwWYvGZwcZg2LvzfnMzhJT_EbvH2sX_6AtU--QT8a42ltryVGcmHHLGAFStXonzAluA",
-        "reviewer": {
-          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV5WYJ_LXmZQLZcmf_Q6CCALF6zbEh6yhrMcHUs57JKIuScEVee8w=s120-c-rp-mo-ba2-br100",
-          "displayName": "Chad Moore"
-        },
-        "starRating": "FIVE",
-        "comment": "Fancy, cool ambiance, but a bit pricey for the portions",
-        "createTime": "2025-05-30T03:02:32.866325Z",
-        "updateTime": "2025-05-30T03:02:32.866325Z",
-        "reviewReply": {
-          "comment": "Chad, thank you for the 5-star review. We’re glad you enjoyed the ambiance and appreciate your feedback on the portions and pricing. We’re always working to make sure the experience matches the value. Hope to welcome you back again soon!",
-          "updateTime": "2025-05-31T20:48:08.529962Z"
-        },
-        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkj2PAIwWYvGZwcZg2LvzfnMzhJT_EbvH2sX_6AtU--QT8a42ltryVGcmHHLGAFStXonzAluA"
       },
       {
         "reviewId": "AbFvOqnPRmX7JvaJO0Iaq0XayVI6RDabJRvFduDV_ar3ZAx2G8mlDh_P9jr13Tf-LkjHKTQo9s56iw",
@@ -640,7 +674,8 @@
         "updateTime": "2026-02-05T15:14:33.562999Z",
         "reviewReply": {
           "comment": "Thank you, Peggy, for your glowing review! We're thrilled to hear that you had a fantastic experience at Whispering Vine. It's wonderful to know that Leslie made your evening memorable with her warm hospitality and excellent service. We look forward to welcoming you and your friends back soon for another delightful evening.",
-          "updateTime": "2024-04-09T19:12:20.904372Z"
+          "updateTime": "2024-04-09T19:12:20.904372Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnPRmX7JvaJO0Iaq0XayVI6RDabJRvFduDV_ar3ZAx2G8mlDh_P9jr13Tf-LkjHKTQo9s56iw"
       },
@@ -656,7 +691,8 @@
         "updateTime": "2026-02-05T07:49:47.459010Z",
         "reviewReply": {
           "comment": "Dare, Thank you for taking the time to rate and review our 4th Street location. We look forward to your return for more charcuterie and wine!",
-          "updateTime": "2023-05-10T22:15:46.386413Z"
+          "updateTime": "2023-05-10T22:15:46.386413Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkeQkiP8uhMllQ5RWrKS3CpgYlJptyQ4W97tJ69Z-K30j4pvlQ7271byS2Yyu4qyDD2_DKi"
       }
@@ -679,7 +715,8 @@
         "updateTime": "2025-11-08T19:14:44.731157Z",
         "reviewReply": {
           "comment": "Thanks, Jim! We're glad you enjoyed our great service and selection. We're looking forward to seeing you next time you're in the mood for fantastic food and drinks",
-          "updateTime": "2025-11-24T19:29:58.506691Z"
+          "updateTime": "2025-11-24T19:29:58.506691Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqm8aMV0D6-TMhi4od_PQ_6CKa7VeYvl96_JRCQG_656jY9PCvpVudFMKvJUhCoURwHs12GDEA"
       },
@@ -695,7 +732,8 @@
         "updateTime": "2025-01-07T15:27:45.048323Z",
         "reviewReply": {
           "comment": "Thank you so much for your 5-star review, Ms. L! We are looking forward to your next visit.",
-          "updateTime": "2025-06-06T00:07:32.964282Z"
+          "updateTime": "2025-06-06T00:07:32.964282Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqnAKPLtjK66amr_ze4rSR1rx7AkCTz0h8xF8YWzmSdB_jbxkcKvgBeY5ODKLVrRi7ZVSeLHlw"
       },
@@ -711,7 +749,8 @@
         "updateTime": "2024-10-22T23:02:10.596808Z",
         "reviewReply": {
           "comment": "Thank you so much for the 5-star review, Cameron! We're thrilled to hear that Jordan made your experience so enjoyable. It's wonderful that she could help you find great wines within your price range and take such good care of your dogs too! We can't wait to welcome you back for more amazing moments at Whispering Vine!",
-          "updateTime": "2024-10-22T23:43:19.167399Z"
+          "updateTime": "2024-10-22T23:43:19.167399Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqlgJgOAYtIC66Sja8fLWFOQRFHQU_L3Mw90NgD-6pJdamJNx2cTphZls8nBL_dmFkR4w-lYFw"
       },
@@ -727,7 +766,8 @@
         "updateTime": "2024-04-03T05:01:58.149114Z",
         "reviewReply": {
           "comment": "Thank you, Graysen, for your wonderful review! We're thrilled to hear that Whispering Vine is your favorite spot and that you enjoy our perfect patio and awesome location. We appreciate your feedback regarding our closing time, and we'll take it into consideration. We're delighted to hear you had a positive interaction with the owner's son. Looking forward to welcoming you back soon!",
-          "updateTime": "2024-04-03T05:09:21.987805Z"
+          "updateTime": "2024-04-03T05:09:21.987805Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmgH4AZPd-sKi7fzsWctNBC3Au3beqSXg9DOL9R-3hKwr949cU2tHx-_disi__jCA09Amjj"
       },
@@ -743,7 +783,8 @@
         "updateTime": "2023-11-17T17:46:04.856764Z",
         "reviewReply": {
           "comment": "Shirley, Thank you for taking the time to rate and review us! We look forward to your return!",
-          "updateTime": "2023-11-28T17:10:22.554821Z"
+          "updateTime": "2023-11-28T17:10:22.554821Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkDK7fX5M6nts_OzaSnw_s1TeQIrtIplhCQQ-dqzvJeqhwnKHwnituPwgMb7z7q3-1RjZGmnQ"
       },
@@ -759,7 +800,8 @@
         "updateTime": "2023-06-25T01:17:38.141176Z",
         "reviewReply": {
           "comment": "Melanie - Thank you for taking the time to rate and review us! We look forward to your return!",
-          "updateTime": "2023-06-28T20:32:11.128129Z"
+          "updateTime": "2023-06-28T20:32:11.128129Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqn933BZcVSlHZVMYeNDMP2JfkXZfsyiha37KuENEzvGdmmDg6Rwe_kDoeUfmJMS41z4zB5q"
       },
@@ -775,7 +817,8 @@
         "updateTime": "2023-04-20T21:25:38.555648Z",
         "reviewReply": {
           "comment": "Carlos - Thank you for stopping by while you were in town! \nWe appreciate your kind words and taking the time to leave us a great 5 star review!",
-          "updateTime": "2023-04-20T21:49:55.719672Z"
+          "updateTime": "2023-04-20T21:49:55.719672Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqky4SGDSjR2B_pQuyQ5B14w5TXzAsLU3vdAcR6HRyNaUqZ8ty2TEmWGHd2tLaRbxoQclqTWZQ"
       },
@@ -791,7 +834,8 @@
         "updateTime": "2023-04-16T14:28:58.219421Z",
         "reviewReply": {
           "comment": "Laura, Thank you for your amazing 5 star review! We are so grateful for your patronage and kind words. We look forward to your return for a paloma or 2.",
-          "updateTime": "2023-04-20T21:50:48.120226Z"
+          "updateTime": "2023-04-20T21:50:48.120226Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkZUjmcYBPnCshVb8as1L_Iz4HubMjC2xf7FSmSv0UR4_w_ETT0Y6y1M8WS8KFkRt5lZ4IDbQ"
       },
@@ -807,7 +851,8 @@
         "updateTime": "2022-12-30T18:40:55.952759Z",
         "reviewReply": {
           "comment": "Liz, thank you for taking the time to leave us a 5 star review! We look forward to your return for all of the occasions!",
-          "updateTime": "2023-01-19T00:13:59.192513Z"
+          "updateTime": "2023-01-19T00:13:59.192513Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqniPWSTJ21qzQ56-5Jms6wRTVZyq1QLmtXSsz7cu_ojny4AN_bNbdZE3I6bQdnuNCrgnnH4uQ"
       },
@@ -823,7 +868,8 @@
         "updateTime": "2022-12-06T22:28:44.724667Z",
         "reviewReply": {
           "comment": "Ryan, Thank you for taking the time to leave us a 5 star review. We look forward to your return to all locations!",
-          "updateTime": "2023-03-07T19:52:19.988699Z"
+          "updateTime": "2023-03-07T19:52:19.988699Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkh4sAMk8Yc-hdNXs4e3kDYL8Gk-yKY81k9FyWUEt49wAmt92PLNs-LOR_ww9mNbF0qeaN7ww"
       },
@@ -839,7 +885,8 @@
         "updateTime": "2022-05-21T01:50:59.808426Z",
         "reviewReply": {
           "comment": "Hi Blake,\n\nThank you for stopping by our location in SouthCreek and taking the time to leave us a review! We're glad you enjoyed our selection and atmosphere. We appreciate your feedback and look forward to seeing you again soon.\n\nCheers!\nWhispering Vine",
-          "updateTime": "2022-05-23T22:07:52.275427Z"
+          "updateTime": "2022-05-23T22:07:52.275427Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkAbIdrOMwqWNosh0rqRAFQ-lxKGTaJc2i0TRRTKXBO6NXzqCJOlQzro2Opee7c4RD0-P0q7A"
       },
@@ -855,7 +902,8 @@
         "updateTime": "2022-04-01T00:28:09.856624Z",
         "reviewReply": {
           "comment": "Susan, Thank you so much for taking the time to rate and review us! We are so happy you enjoyed \"the\nwhole ENCHILADA\". We look forward to your return!",
-          "updateTime": "2022-04-07T17:18:08.322128Z"
+          "updateTime": "2022-04-07T17:18:08.322128Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqnrx6TSS944NzTlnwff_NcGI-x_fLSPanIQ_AZvCN6OMo3GAwI-ZbQ9m_Q-aQ5x-zPAMeXPSg"
       },
@@ -871,7 +919,8 @@
         "updateTime": "2021-05-01T23:59:06.287043Z",
         "reviewReply": {
           "comment": "Mary, Thank you for taking the time to review us! We apologize for the slow service, (you must of caught us on an off day as we take great pride in our friendly, and timely service). Due to current covid restrictions, at this time there is no bar ordering. We thank you for your patronage, and we will see you again at 4th!",
-          "updateTime": "2021-05-04T16:15:32.216362Z"
+          "updateTime": "2021-05-04T16:15:32.216362Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmqPu1RWWk7v3pLjM91rYja6m7uuhLrFkOXsaytZ_GnrDDZWHg6jp4VFkYQiu-eoGOcd6pOtA"
       },
@@ -887,7 +936,8 @@
         "updateTime": "2021-03-04T02:55:59.361619Z",
         "reviewReply": {
           "comment": "Thomas, thank you for taking the time to give us a review! We look forward to your return!",
-          "updateTime": "2021-04-14T00:38:33.948450Z"
+          "updateTime": "2021-04-14T00:38:33.948450Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmWOc7JcCNHDqhfebbm03wcZzWj9FEu2sj4RuOi1JweePipLwU_-mtCT4mMrHlwXiedqn-Ynw"
       },
@@ -903,7 +953,8 @@
         "updateTime": "2021-01-24T18:34:36.719923Z",
         "reviewReply": {
           "comment": "Thank you for taking the time to give us a review! We look forward to your return!",
-          "updateTime": "2021-04-14T00:38:42.075595Z"
+          "updateTime": "2021-04-14T00:38:42.075595Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqn63CfMrmFiUvLSYoZm4rFW6e5XKPsODbWwKkoqOxtR_K01M7-W_B1dsVf7AighF78W90aUlg"
       },
@@ -919,7 +970,8 @@
         "updateTime": "2020-06-26T17:04:46.075041Z",
         "reviewReply": {
           "comment": "Linda, Thank you for taking the time to review us! We look forward to giving you speedier service next time you are in!",
-          "updateTime": "2020-07-01T21:11:22.479994Z"
+          "updateTime": "2020-07-01T21:11:22.479994Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqlncCfwdsfZcfmKd3BY4GrquQpK8UOWDdEpYl1XsUZAL4l77A7gWso98gK2PoEnwBDyRBV4vw"
       },
@@ -935,7 +987,8 @@
         "updateTime": "2020-02-26T04:25:47.579837Z",
         "reviewReply": {
           "comment": "Ron, Thank you for your 5 star review!",
-          "updateTime": "2020-05-30T23:08:50.182476Z"
+          "updateTime": "2020-05-30T23:08:50.182476Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOql02FaDi0KWmBr2wxtvfoo3Kgq16ztr5YOFk2OxJmVFbS2WPNL6mqOttVMzi5f9RNCZyabzrQ"
       },
@@ -951,7 +1004,8 @@
         "updateTime": "2020-01-16T17:17:25.952407Z",
         "reviewReply": {
           "comment": "Terry,\nThank you so much for your wonderful review!",
-          "updateTime": "2020-01-16T19:10:24.860813Z"
+          "updateTime": "2020-01-16T19:10:24.860813Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqlog_io9Ax7Xxq4iVMcIIlm4fix9ui-EkPa2QktQcyMqZglZRGxMNShntpKm9G4Ew6fWTAI_g"
       },
@@ -967,7 +1021,8 @@
         "updateTime": "2020-01-13T22:15:13.557171Z",
         "reviewReply": {
           "comment": "Aaron! Thank you for an amazing review! We love our friendly staff and amazing customers like you!",
-          "updateTime": "2020-01-16T19:11:41.133877Z"
+          "updateTime": "2020-01-16T19:11:41.133877Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkpCFtxcbzJx07FBeja4Bu5mzsjFU7E9mMC6p4Qrxoh78uoBTnKH7Zy-fB8nDGNUNUsfG1YVg"
       },
@@ -983,7 +1038,8 @@
         "updateTime": "2020-01-05T23:52:44.392179Z",
         "reviewReply": {
           "comment": "Rich, Thank you for your 5 star review! We are happy Tara was such a help! Thank you for your business.",
-          "updateTime": "2020-01-16T19:12:17.103443Z"
+          "updateTime": "2020-01-16T19:12:17.103443Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmaTiAQ6JmZWQRfJptJLLxKFQUBC7GGtSUj8tv_u4UDOO_d73SaY1dQCj55PfiV8Ga5XgimjQ"
       },
@@ -999,7 +1055,8 @@
         "updateTime": "2019-12-06T22:32:39.001352Z",
         "reviewReply": {
           "comment": "Kathleen, Thank you for your 5 star review! We look forward to your visit again soon!",
-          "updateTime": "2020-01-16T19:12:38.763984Z"
+          "updateTime": "2020-01-16T19:12:38.763984Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmNC7jPxQABMiWL8Osv__ed35l-ysEpX9TaHOM5UkEqOimoTi0i2j7ok3ODN-gL1xm0rI8"
       },
@@ -1015,7 +1072,8 @@
         "updateTime": "2019-12-03T05:24:12.732132Z",
         "reviewReply": {
           "comment": "Linda, Thank you for taking the time to give us such a great 5 star review!",
-          "updateTime": "2020-01-16T19:12:59.586660Z"
+          "updateTime": "2020-01-16T19:12:59.586660Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmOu3odZAnUBc7KHckEIHzbHij8HYwCJUjUat1QyV10VZIU7Oc0I3LaZmOEA-hM30Tv9PjpOw"
       },
@@ -1031,7 +1089,8 @@
         "updateTime": "2019-06-12T04:02:45.146586Z",
         "reviewReply": {
           "comment": "Matthew, Thank you for taking the time to give is an amazing 5 star review!",
-          "updateTime": "2019-06-13T22:05:30.915061Z"
+          "updateTime": "2019-06-13T22:05:30.915061Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkXqFgjUewH2JZHh3hps6tyYBDfnkCJGjGuvSBiG5xEUDQrMCc82M9cJCwpitFrS5w_y804"
       },
@@ -1047,7 +1106,8 @@
         "updateTime": "2019-06-11T02:57:07.052044Z",
         "reviewReply": {
           "comment": "Haily, Thank you for taking the time to review us! We are limited on what we can offer at our South store as we do not have a kitchen there. Please enjoy some small plates at our 4th street location and let us know what you think! We have more GF options there from 4-close Tues - Sat",
-          "updateTime": "2019-06-13T22:05:09.378282Z"
+          "updateTime": "2019-06-13T22:05:09.378282Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmoEuUiyKk_3968bKbH3ne3bVMaiTlpJDdmSD8q0QnUHtr0Ki4hxz14LGpsAg_HOJ0gf6js"
       },
@@ -1063,7 +1123,8 @@
         "updateTime": "2019-06-02T06:11:10.059852Z",
         "reviewReply": {
           "comment": "Rene, We love Kelly too! Thank you for taking the time to review us!",
-          "updateTime": "2019-06-13T22:03:11.065792Z"
+          "updateTime": "2019-06-13T22:03:11.065792Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqlyADY22JOuiDvUAymGZsvskv2ST10q9x_7KQV_exoe1v9aXyWieQBTGuF0SW7d1NMD1ma9"
       },
@@ -1079,7 +1140,8 @@
         "updateTime": "2019-05-19T06:38:20.303780Z",
         "reviewReply": {
           "comment": "Azelin, thank you for your amazing 5 star review! We look forward to helping you with some wonderful wine soon!",
-          "updateTime": "2019-06-13T22:02:20.773481Z"
+          "updateTime": "2019-06-13T22:02:20.773481Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmww9Gzc6R8lmAZafSQ6yxbOOHFq2T2De9vrPasa42R9Dltci4TEERXWD0CWpWuRcCcSmD6tQ"
       },
@@ -1095,7 +1157,8 @@
         "updateTime": "2019-05-04T04:40:12.542745Z",
         "reviewReply": {
           "comment": "Mi Ah Lee Clark,\nThank you for your fantastic 5 star review! We look forward to seeing you and your girls!",
-          "updateTime": "2019-06-13T22:01:54.080608Z"
+          "updateTime": "2019-06-13T22:01:54.080608Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqmeZ0c1HUa5bDkCX6psftl08-ioKzL_mktmkAxArwdkueCSNhX7KF6lbiQZN-exGkLsXNggNw"
       },
@@ -1111,7 +1174,8 @@
         "updateTime": "2019-03-15T02:48:10.114829Z",
         "reviewReply": {
           "comment": "Dominik, Thank you for your review!",
-          "updateTime": "2019-04-25T19:09:59.310097Z"
+          "updateTime": "2019-04-25T19:09:59.310097Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqncZ6fgp85lBe-__6fzBJ0HFIeqUlbXrncVEGuuKnXERIeMatKIeVGFkPKmmL79SqaaNirA"
       },
@@ -1127,7 +1191,8 @@
         "updateTime": "2019-03-11T01:37:43.587648Z",
         "reviewReply": {
           "comment": "Rebecca, Thank you for your great review! We look forward to your return!",
-          "updateTime": "2019-04-25T19:09:35.735064Z"
+          "updateTime": "2019-04-25T19:09:35.735064Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOql11nwR8u2NdwI7_o04wzsF2ik-haiKb40i8-nuWpVjFYfJT0B61c967ht4c7_Aqnw4mu79vw"
       },
@@ -1143,7 +1208,8 @@
         "updateTime": "2019-02-01T03:14:52.039507Z",
         "reviewReply": {
           "comment": "Ron, Thank you for taking the time to give us a 5 star review!",
-          "updateTime": "2019-02-01T04:26:19.931165Z"
+          "updateTime": "2019-02-01T04:26:19.931165Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkriPEuJclYt13ZyVph_wqcSQ27FUZDKPIkCYOz33ocTJpTlm0BbTue7wtOQU2SDG-XqbPf"
       },
@@ -1159,7 +1225,8 @@
         "updateTime": "2019-01-13T04:06:06.661647Z",
         "reviewReply": {
           "comment": "Colm, Thank you for taking the time to leave us a great 5 star review!  We look forward to your return!",
-          "updateTime": "2019-01-24T23:04:24.846154Z"
+          "updateTime": "2019-01-24T23:04:24.846154Z",
+          "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkuvO7oH_beNwRpSGA69-XWrPb7anJiVv7CSJB-g9TT0rOvVnVnK0VrvlBywgh9oyCQF6WlbA"
       }
