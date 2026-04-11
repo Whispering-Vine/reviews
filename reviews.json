@@ -1,9 +1,21 @@
 {
   "fourth_st": {
     "locationId": "13762251274808944694",
-    "totalReviewCount": 549,
+    "totalReviewCount": 550,
     "averageRating": 4.699999809265137,
     "reviews": [
+      {
+        "reviewId": "AbFvOqlyBtvSM6Bhv4SjXOJcBpI05dE6ka_FqPm2huz14sljIgf1kshb8I-ap6wn0Y_k3CzwC_8r",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIsMc71RLuh-5uaHOv__CjpMZ65k5M_3iM1d30TzBTUAQc6XA=s120-c-rp-mo-ba2-br100",
+          "displayName": "Angela Reed"
+        },
+        "starRating": "FIVE",
+        "comment": "The best wine selection anywhere.  The flights are always worth a shot. You’ll see your old favorites and find plenty of new ones. Wonderful food and service . It’s an absolute favorite.",
+        "createTime": "2026-04-10T16:18:10.090314Z",
+        "updateTime": "2026-04-10T16:18:10.090314Z",
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlyBtvSM6Bhv4SjXOJcBpI05dE6ka_FqPm2huz14sljIgf1kshb8I-ap6wn0Y_k3CzwC_8r"
+      },
       {
         "reviewId": "AbFvOqlq36ViDJuLs3gFDxwebmwO-v-c-GkjS_g8eyGvpefQj3Kj6R6r0qjFHPFm7YUCuE4Ft9NLWw",
         "reviewer": {
@@ -644,23 +656,6 @@
           "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkPaSWeTGNFYHwqFPRH63PJx7Mk8-xBJ0epO0bOBId2yP3CTyA034BcFDNI2VvdUp7jFuAJyA"
-      },
-      {
-        "reviewId": "AbFvOqmbOwg4fSthuOzB-UDojk2-7bJaZpZyx-WVWH6pE_5ASMMaGgAchotgRgmsmhKDYM-UDd6LuQ",
-        "reviewer": {
-          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWVk5SMRWoefzZI2dHf1UGcAwhX5SuhfSFSAz4E8DVRtKt1Fvx0=s120-c-rp-mo-ba2-br100",
-          "displayName": "Harry B. Miller III"
-        },
-        "starRating": "FOUR",
-        "comment": "Love this place. Excellent atmosphere, service. Food is good, but I wish they’d update/ refresh the food menu. Maybe add some specials. Will definitely return with my family.",
-        "createTime": "2025-05-31T03:18:13.946555Z",
-        "updateTime": "2025-05-31T03:18:13.946555Z",
-        "reviewReply": {
-          "comment": "Harry, thank you for the kind words and for being a fan of the atmosphere and service! We really appreciate your feedback on the menu. In fact, we just recently added a few new dishes, including a Spring Panzanella Salad and a Shrimp Scampi Flatbread—if you haven’t had a chance to try them yet, we’d love for you to come back and give them a shot. Thanks again for the support, and we look forward to welcoming you and your family back soon!",
-          "updateTime": "2025-05-31T20:06:05.038444Z",
-          "reviewReplyState": "APPROVED"
-        },
-        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqmbOwg4fSthuOzB-UDojk2-7bJaZpZyx-WVWH6pE_5ASMMaGgAchotgRgmsmhKDYM-UDd6LuQ"
       },
       {
         "reviewId": "AbFvOqnPRmX7JvaJO0Iaq0XayVI6RDabJRvFduDV_ar3ZAx2G8mlDh_P9jr13Tf-LkjHKTQo9s56iw",
