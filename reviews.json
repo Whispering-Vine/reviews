@@ -1,9 +1,26 @@
 {
   "fourth_st": {
     "locationId": "13762251274808944694",
-    "totalReviewCount": 550,
+    "totalReviewCount": 551,
     "averageRating": 4.699999809265137,
     "reviews": [
+      {
+        "reviewId": "AbFvOqlv9wTRzBBvwL64l45Dh-R5xZFaXsO60enMemhqpIGJI-zMPIywgnf094ztLqOZuOHNsb2Lxw",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUa5xYDTaXbz1tsjY71bHASLtW7ayS2m-ZIueBKYivkYt852Ctw=s120-c-rp-mo-ba3-br100",
+          "displayName": "Paul Pabian"
+        },
+        "starRating": "FIVE",
+        "comment": "Great place close to home and super service.",
+        "createTime": "2026-04-19T03:14:54.758799Z",
+        "updateTime": "2026-04-19T03:14:54.758799Z",
+        "reviewReply": {
+          "comment": "Thanks for the kind words, Paul! We're glad you enjoy having us nearby and appreciate the service. Looking forward to your next visit!",
+          "updateTime": "2026-04-19T07:43:18.344749Z",
+          "reviewReplyState": "APPROVED"
+        },
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlv9wTRzBBvwL64l45Dh-R5xZFaXsO60enMemhqpIGJI-zMPIywgnf094ztLqOZuOHNsb2Lxw"
+      },
       {
         "reviewId": "AbFvOqlyBtvSM6Bhv4SjXOJcBpI05dE6ka_FqPm2huz14sljIgf1kshb8I-ap6wn0Y_k3CzwC_8r",
         "reviewer": {
@@ -14,6 +31,11 @@
         "comment": "The best wine selection anywhere.  The flights are always worth a shot. You’ll see your old favorites and find plenty of new ones. Wonderful food and service . It’s an absolute favorite.",
         "createTime": "2026-04-10T16:18:10.090314Z",
         "updateTime": "2026-04-10T16:18:10.090314Z",
+        "reviewReply": {
+          "comment": "Thanks for sharing your love for our wine flights and food, Angela! It’s great to hear you’re enjoying both the classics and discovering new favorites with us. Looking forward to welcoming you back for another round soon.",
+          "updateTime": "2026-04-19T07:43:08.183843Z",
+          "reviewReplyState": "APPROVED"
+        },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlyBtvSM6Bhv4SjXOJcBpI05dE6ka_FqPm2huz14sljIgf1kshb8I-ap6wn0Y_k3CzwC_8r"
       },
       {
@@ -26,6 +48,11 @@
         "comment": "Excellent food and wine flights.",
         "createTime": "2026-04-06T16:49:05.675595Z",
         "updateTime": "2026-04-06T16:49:05.675595Z",
+        "reviewReply": {
+          "comment": "Thanks for the great review, Ellen! We're glad you enjoyed the food and wine flights. Hope to see you back soon for another round!",
+          "updateTime": "2026-04-19T07:42:52.202389Z",
+          "reviewReplyState": "APPROVED"
+        },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqlq36ViDJuLs3gFDxwebmwO-v-c-GkjS_g8eyGvpefQj3Kj6R6r0qjFHPFm7YUCuE4Ft9NLWw"
       },
       {
@@ -639,23 +666,6 @@
           "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk01yAs5GKV8dYbJQcQqR9KpaKTiBd4vGWecANRhx4D3cC_KkdLBeN-jFWX3dYMl_DHfTxPcQ"
-      },
-      {
-        "reviewId": "AbFvOqkPaSWeTGNFYHwqFPRH63PJx7Mk8-xBJ0epO0bOBId2yP3CTyA034BcFDNI2VvdUp7jFuAJyA",
-        "reviewer": {
-          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjURUkuAyY9pqHpXvWs74usaEdLn1xe30j742DSl2IlVL7aIM9LE=s120-c-rp-mo-ba3-br100",
-          "displayName": "Vineet Arora"
-        },
-        "starRating": "FIVE",
-        "comment": "What a great find for a date night! Wonderful and huge selection of wine and some unique food items like this Indian Lentil Taco. Will definitely be back again very soon!",
-        "createTime": "2025-06-03T02:35:17.710566Z",
-        "updateTime": "2025-06-03T02:35:17.710566Z",
-        "reviewReply": {
-          "comment": "Thank you, Vineet, for the 5-star review! We're thrilled you enjoyed your date night at the Vine and appreciated our extensive wine selection and the Lentil Tacos. We can't wait to have you back again soon.",
-          "updateTime": "2025-06-03T19:23:41.555142Z",
-          "reviewReplyState": "APPROVED"
-        },
-        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkPaSWeTGNFYHwqFPRH63PJx7Mk8-xBJ0epO0bOBId2yP3CTyA034BcFDNI2VvdUp7jFuAJyA"
       },
       {
         "reviewId": "AbFvOqnPRmX7JvaJO0Iaq0XayVI6RDabJRvFduDV_ar3ZAx2G8mlDh_P9jr13Tf-LkjHKTQo9s56iw",
