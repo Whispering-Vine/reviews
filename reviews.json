@@ -580,7 +580,21 @@
           "updateTime": "2025-07-08T16:44:28.509572Z",
           "reviewReplyState": "APPROVED"
         },
-        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnRHz_5P1FVF_HsB_zwdgiWShRbfWELaMMkoBXMOSH-nL96ptxdCKP88-CNgJDKkuWTeEMdKQ"
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqnRHz_5P1FVF_HsB_zwdgiWShRbfWELaMMkoBXMOSH-nL96ptxdCKP88-CNgJDKkuWTeEMdKQ",
+        "reviewMediaItems": [
+          {
+            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lETw0LDSTKpExGuF3-oSZz0MDf1x2X6P_i6Qg7Ei9eEBp7ZI3dPcq5JbZEbzH7lC8wzS3kv_l6ltHgKuXRfyjjlkxQ3dVpZ0WwE8Z88ZrFsCV2tqUizODIbblLm8ya0ENrgoj34ytD4a9nhb"
+          },
+          {
+            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lET7wLooQg9xGropzjxtZP4TK4EP5NEeLAvlulqa-UN54-IuLEBut7j5BckvYWWRV4WbVm6bkjGQ_L3vmY_4VdJi4mzubs8M-Nmg83v1iFfN0mb5jnWTS9YBYVBcPeipgOeP4wLv9qkIA6qZ"
+          },
+          {
+            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lESB20Rx_z1TMDVZCteZCaE_ldX9_cd9LVA0EJezNXNyLmGWqjwPe4TDoF4_MBttejpDHz8VPyUtip7wge3Z6Gpzp_9QobYaTQcWtd_9qfMDzTDmgbak46yMi0sPG3W_ayqD25pILTF3M5I"
+          },
+          {
+            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lERAF0ITQxJTHJZHb8M5UpDHH8AeAtcR0XH0cxx0CYGGw2YHgTzlZpyLaAoutq1kdyDD6KGqa-fsCXy_8a8f1drkrBt3IFYmoWLoR7el6RhLqSzrnqwUBRNP58IwR5_ewt7yDqg_mCFjkyAA"
+          }
+        ]
       },
       {
         "reviewId": "AbFvOqlD9e9r_dwYJNrCcGExrOjJvVQUHDEHkJeMOGMciMcZ_l0yTlOlTVjesst6EqoZOF-ULjK5HA",
@@ -614,7 +628,12 @@
           "updateTime": "2025-06-29T03:14:55.793850Z",
           "reviewReplyState": "APPROVED"
         },
-        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkyTrBzJeka5I8nbIdovO8Qp8Q_0WzbaBdlWUXKZ9RJ5C1Wxh2xdxBVRfZ0PaLj_FFkPs-PAg"
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqkyTrBzJeka5I8nbIdovO8Qp8Q_0WzbaBdlWUXKZ9RJ5C1Wxh2xdxBVRfZ0PaLj_FFkPs-PAg",
+        "reviewMediaItems": [
+          {
+            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lERlDP-EzWbcmiI-dwwDegTt1DwEdNg0HMr48QyRPz_ssIGVJueabDgCMJ70zktQbeCbDfwZfiEGSCZqJYYBDhxmVmeszNLPF7--Zd75OB_aggP8ZNJgXpmGvIGGzv-ldrVoKzqc"
+          }
+        ]
       },
       {
         "reviewId": "AbFvOqkFkBPmEn2YNIZqxUp7CEL9E3AiDV-Aq5KVE0bmJebK4kg6K4C4qxG9qe6RmvlDgLIbX4S-Fg",
@@ -665,7 +684,12 @@
           "updateTime": "2025-06-05T23:28:03.218311Z",
           "reviewReplyState": "APPROVED"
         },
-        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk01yAs5GKV8dYbJQcQqR9KpaKTiBd4vGWecANRhx4D3cC_KkdLBeN-jFWX3dYMl_DHfTxPcQ"
+        "name": "accounts/104447125096839272944/locations/13762251274808944694/reviews/AbFvOqk01yAs5GKV8dYbJQcQqR9KpaKTiBd4vGWecANRhx4D3cC_KkdLBeN-jFWX3dYMl_DHfTxPcQ",
+        "reviewMediaItems": [
+          {
+            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lETcnr9AaPH0AxKR8Cm4mvE0ZmkzvNLXCZLgV0g6FQwbjayf8uwGDKSi_8lGvGuRSYmedsnaD8b7CaBpFcm08HqpfB_ayMw-cYmt2NSZk6dNwRiwXTKbwX8xLVAuwWoluckbZ6om"
+          }
+        ]
       },
       {
         "reviewId": "AbFvOqnPRmX7JvaJO0Iaq0XayVI6RDabJRvFduDV_ar3ZAx2G8mlDh_P9jr13Tf-LkjHKTQo9s56iw",
@@ -825,7 +849,12 @@
           "updateTime": "2023-04-20T21:49:55.719672Z",
           "reviewReplyState": "APPROVED"
         },
-        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqky4SGDSjR2B_pQuyQ5B14w5TXzAsLU3vdAcR6HRyNaUqZ8ty2TEmWGHd2tLaRbxoQclqTWZQ"
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqky4SGDSjR2B_pQuyQ5B14w5TXzAsLU3vdAcR6HRyNaUqZ8ty2TEmWGHd2tLaRbxoQclqTWZQ",
+        "reviewMediaItems": [
+          {
+            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lEQElg-ekzngD4x3JpNYHWTXUsbiponGe39ZVTbrbwjy2JxkYQXViY7eXqHoJeYGxucldBF2vBXMzNq9dtxs3JLP_oJbjy-3zWmjEw8TQ206OdIzquby688_qEhs8pq94_PjhO4R"
+          }
+        ]
       },
       {
         "reviewId": "AbFvOqkZUjmcYBPnCshVb8as1L_Iz4HubMjC2xf7FSmSv0UR4_w_ETT0Y6y1M8WS8KFkRt5lZ4IDbQ",
@@ -842,7 +871,13 @@
           "updateTime": "2023-04-20T21:50:48.120226Z",
           "reviewReplyState": "APPROVED"
         },
-        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkZUjmcYBPnCshVb8as1L_Iz4HubMjC2xf7FSmSv0UR4_w_ETT0Y6y1M8WS8KFkRt5lZ4IDbQ"
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkZUjmcYBPnCshVb8as1L_Iz4HubMjC2xf7FSmSv0UR4_w_ETT0Y6y1M8WS8KFkRt5lZ4IDbQ",
+        "reviewMediaItems": [
+          {
+            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lEQDsXc8475ClpzruuxcFY1uOa7RuEtYBU9wjFiV1dMDO-18orYDTdpWiIT8x6jTJrJXrU2kJiTvsITOczvkRp70RGc7GRHn_606vxd4HgGi3iiz7XAWNs7eYD-6uJAnJ4atgCw",
+            "thumbnailLabel": "Paloma and an Aperol Spritz"
+          }
+        ]
       },
       {
         "reviewId": "AbFvOqniPWSTJ21qzQ56-5Jms6wRTVZyq1QLmtXSsz7cu_ojny4AN_bNbdZE3I6bQdnuNCrgnnH4uQ",
