@@ -586,10 +586,10 @@
             "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lER65CdbwETXWBJuoJTIw8j02EXkGCnOyQtsUY2a29swKLmx3hJLtu5MNcGrUt3Y0hw31O4bEgfbwSRHxxXkg18hQpNw7F6_ZFde-natqTlHdha_tOgxxylR8tCarddVcldKK6J4qUuk7nJ0"
           },
           {
-            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lETeqB62ATZnlunb9yjX0OkqbDi8R4ExG_noAbsGobP-5R2B5peRJjXLQ8ligjD3myzb0kYhQSlm7YEfo2RQ0xk1SsNwdcvzp_nF_OvtzhVY_RACqUANzdFDSIIdjSLEV8u0pcdxZvwz35kC"
+            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lESM6_OgtZ44rr9H6qYg0iHTj_Y-K9k_e8qNQou4Kt6n8FG9I6CqPg4qJkARSL8u7rB-OPqm5_hDj8cnnIp_KWIylpJ9l5L92sRtrLpz0aplwAlaHTKHKuV-sTgZ3_rFozo_oPpSVlgK1syn"
           },
           {
-            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lEQkQ0lPHiMkTO_ruUgPlq4muNdlo3C1rQafUOWG3N3W79GvVUPOvNHGKOSlTo_qBsTcyWE219TJNkfGdazT7iGg_zrMMOU_vQWTNFn5vUJgQgLxwsuCppIseNNR3jXybMes1eEUndIRSVo"
+            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lETsjG6aR3jpIFwNFZqiDVRbLNUEfTH-iLQwrjGt86V2RsjJGPmu35E2hP40Kw5Du4SeWh_Ggo8e0CVO8DF50tSX55CG-wvqY3DQ7GT3ckrbnhjktfTKDzgCuM6QBVOkGea5Ofissj0N8rA"
           },
           {
             "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lEQnBfKK6DQeEIM88OngQjNi6nqR7PVQeSzWqHZLBihMXzbKSWqSAiSdGGu6Byi76Q2TCrRb_kGkfQD-NHnNfFqZNzW6QSTJEM8Xcvmpt9SQ3GWff1yffiF_m3C1gp-S7boWvZfbl28T6GGZ"
@@ -729,9 +729,21 @@
   },
   "south_creek": {
     "locationId": "13161654569190612682",
-    "totalReviewCount": 84,
+    "totalReviewCount": 85,
     "averageRating": 4.800000190734863,
     "reviews": [
+      {
+        "reviewId": "AbFvOqkKIucOTo8GBIb8UpCbhVv3R49RFL0YH6pdCbewDePYgPv1re7BTUWoIJr_NgNawwarZlZkjA",
+        "reviewer": {
+          "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJOQR5GnV_NY1bWfjHXInX3OlnZUdlgKlyr7h9o_tFp8YiR8Q=s120-c-rp-mo-br100",
+          "displayName": "Rich Garcia"
+        },
+        "starRating": "FIVE",
+        "comment": "Great experience, the wine, the staff and location all fantastic. A new favorite for us.!!!",
+        "createTime": "2026-04-25T03:02:50.465421Z",
+        "updateTime": "2026-04-25T03:02:50.465421Z",
+        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkKIucOTo8GBIb8UpCbhVv3R49RFL0YH6pdCbewDePYgPv1re7BTUWoIJr_NgNawwarZlZkjA"
+      },
       {
         "reviewId": "AbFvOqm8aMV0D6-TMhi4od_PQ_6CKa7VeYvl96_JRCQG_656jY9PCvpVudFMKvJUhCoURwHs12GDEA",
         "reviewer": {
@@ -874,7 +886,7 @@
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkZUjmcYBPnCshVb8as1L_Iz4HubMjC2xf7FSmSv0UR4_w_ETT0Y6y1M8WS8KFkRt5lZ4IDbQ",
         "reviewMediaItems": [
           {
-            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lEQME8X-qE2QSQBUKuJMrOQ-I6t8FKfw0Ggve72KvzzUzuvoUbRtBHqUBHHUs4FsXWtQQtlhPYypVGkVGQmosEUAYv8n7JGw_y5rdRz1d6sm4t9nvI3vMJePj53FYr-ErneXr5E",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/geougc-cs/AMG9lEQNeYyqj5dKps08hXasxC7RpjSJF91g8E4NVx9V7r_X5et9KdXEA33tpjeOxHhNHI12xH0FaB-DFfoosK_1QHw3HSwbh8ibFKfM3wgffGdyv_yYnHBiGppSKEIO2gfnCwqUpCc",
             "thumbnailLabel": "Paloma and an Aperol Spritz"
           }
         ]
@@ -1252,23 +1264,6 @@
           "reviewReplyState": "APPROVED"
         },
         "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkriPEuJclYt13ZyVph_wqcSQ27FUZDKPIkCYOz33ocTJpTlm0BbTue7wtOQU2SDG-XqbPf"
-      },
-      {
-        "reviewId": "AbFvOqkuvO7oH_beNwRpSGA69-XWrPb7anJiVv7CSJB-g9TT0rOvVnVnK0VrvlBywgh9oyCQF6WlbA",
-        "reviewer": {
-          "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVK71RceZTSsLUW44bJ87Si5ltREMBpkZfxNQ-YLxf7qaZKOVoiPg=s120-c-rp-mo-ba5-br100",
-          "displayName": "Colm Lowndes"
-        },
-        "starRating": "FIVE",
-        "comment": "Great selection, reasonably priced and service to match",
-        "createTime": "2019-01-13T04:06:06.661647Z",
-        "updateTime": "2019-01-13T04:06:06.661647Z",
-        "reviewReply": {
-          "comment": "Colm, Thank you for taking the time to leave us a great 5 star review!  We look forward to your return!",
-          "updateTime": "2019-01-24T23:04:24.846154Z",
-          "reviewReplyState": "APPROVED"
-        },
-        "name": "accounts/104447125096839272944/locations/13161654569190612682/reviews/AbFvOqkuvO7oH_beNwRpSGA69-XWrPb7anJiVv7CSJB-g9TT0rOvVnVnK0VrvlBywgh9oyCQF6WlbA"
       }
     ]
   }
